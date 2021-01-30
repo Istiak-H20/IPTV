@@ -8,7 +8,7 @@ http://103.205.133.48/hls/deeptotv.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/fb/Asian_TV_Logo.svg/1200px-Asian_TV_Logo.svg.png",Asian TV 
 http://10.16.100.203:8082/bangla/tv_asian.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/v9PqrCG.png",ATN News
-http://tv2.ebox.live:8080/live/ex-atnae.m3u8
+https://rhridoy136.shortcm.li/atnnews.m3u8
 #EXTINF:-1 tvg-logo="https://media-exp1.licdn.com/dms/image/C510BAQGjogNsAsSldg/company-logo_200_200/0/1562279106512?e=2159024400&v=beta&t=iRCfsaNMl1fr_JFaclQxwFYaNEWIvKjDrIS-cB6ZGuw",Ekattor Tv
 http://ctgiptv.kitv.live:1935/live/ASNet/asnetwork/11.m3u8
 #EXTINF:-1 tvg-logo="https://sarabangla.net/wp-content/uploads/2018/03/nagorik-tv-Logo.png",Nagorik TV
