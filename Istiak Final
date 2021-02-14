@@ -57,7 +57,7 @@ http://tv2.ebox.live:8080/live/ex-atnae.m3u8
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/bijoy00.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://o.remove.bg/downloads/ebc660bd-2beb-40ed-a976-a8f7fa4e1697/HRjXQdYEqsE-removebg-preview.png" group-title="Bangladeshi",Ananda TV
 http://103.49.168.170:8082/16/index.m3u8?token=8fe93628584c8599d7b24bf68dcd42c905b79373-12fbcf21ff908bb8988d3d09f33e58a8-1613072233-1613061433&remote=144.48.112.126
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/BIJOY_TV_Logo_BD.png" group-title="Bangladeshi",T Sports
+#EXTINF:-1 tvg-logo="https://tsportsbd.com/wp-content/uploads/2020/11/tsports-logo.png" group-title="Bangladeshi",T Sports
 http://113.212.111.246:8080/hls/col2.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.duronto.tv/global/admin/images/setting/logo2.png" group-title="Cartoon",Duronto TV HD
