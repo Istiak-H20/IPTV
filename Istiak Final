@@ -1,6 +1,6 @@
 #EXTM3U 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HX8SSDA.png" group-title="Bangladeshi",Banglavision HD
-http://103.205.133.20/hls/banglavision.m3u8
+https://edge4.bioscopelive.com/hls/anonymous/sK2u_puDBUua3QiQrSWavQ/1613390448/ekattur_tv_mid/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/88/Channel-i.svg/1280px-Channel-i.svg.png" group-title="Bangladeshi",Channel I HD
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/channeli-8-org.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://www.deepto.tv/sites/default/files/deepto_tv_logo%20Edit.png" group-title="Bangladeshi",Deepto TV HD
