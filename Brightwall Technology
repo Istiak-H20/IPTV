@@ -1,4 +1,4 @@
-#EXTM3U url-tvg=""
+#EXTM3U
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="JAMUNA TV" tvg-logo="http://10.16.100.244/files/jamuna.png" group-title="Bangla News",JAMUNA TV
 http://10.16.100.203:8082/bangla/jamuna_720.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id) tvg-logo=" tvg-name="Jamuna Tv" tvg-logo="http://10.16.100.244/files/jamuna.png" group-title="Bangla News",Jamuna Tv
