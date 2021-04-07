@@ -31,7 +31,7 @@ https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF
 http://103.205.133.21/hls/ekatoortv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kFqOMtx.png" group-title="Bangladeshi",Ekusey TV
 http://103.205.133.48/hls/ekushey.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/eyAInC9.png" group-title="Bangladeshi",Gazi TV HD (ThunderBD)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eyAInC9.png" group-title="Bangladeshi",Gazi TV HD
 http://freeiptv.thunderbd.com:25461/live/free/roarzone/1.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Jo7wzmn.png" group-title="Bangladeshi",Gaan Bangla
 http://103.205.133.48/hls/gaanbangla.m3u8
@@ -61,11 +61,6 @@ https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEo
 http://113.212.111.246:8080/hls/col2.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="Bangladeshi",T Sports (2)
 http://103.102.136.106:8080/cmcltv/tsports.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="Bangladeshi",T Sports (3)
-https://show.streamingbd.com/hls/eflix/igqpbpnZn8P23sLmF88Bkg/1616052685/bd_t_sports.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Cp4rJOn.png" group-title="Bangladeshi",Willow HD
-http://freeiptv.thunderbd.com:25461/live/free/roarzone/70.m3u8
-
 
 
 
@@ -122,12 +117,6 @@ http://tv2.ebox.live:8080/live/zee-tv.m3u8
 http://tv2.ebox.live:8080/live/zee-cinema.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ldXaLJK.png" group-title="Hindi",Zeee Cinema HD
 http://tjszdhm3.tvclub.xyz/iptv/69AWBEYGGS5VZ6/6577/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ldXaLJK.png" group-title="Hindi",Zeee Cinema SD (Bioscope)
-https://edge4.bioscopelive.com/hls/anonymous/XmcEsWz2hE5ERs-FAqgHnQ/1617443189/zee_cinema_mid/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/rDe7eN6.png" group-title="Hindi",Zeee Action
-http://freeiptv.thunderbd.com:25461/live/free/roarzone/90.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/UzwDlsJ.png" group-title="Hindi", Zeee Bollywood
-http://freeiptv.thunderbd.com:25461/live/free/roarzone/94.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rfG4WzU.png" group-title="Hindi", Zeee Anmol Cinema
 https://y5w8j4a9.ssl.hwcdn.net/zanmolcnm/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PGIG8CS.png" group-title="Hindi", Zeee Zest HD
@@ -159,15 +148,9 @@ http://tv2.ebox.live:8080/live/natg.m3u8
 #EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/04/National-Geographic-Logo.png" group-title="English" ,National Geographic (2)
 http://51.195.44.53:8081/tv/national-geographic/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/04/National-Geographic-Logo.png" group-title="English" ,National Geographic (3)
-http://tjszdhm3.tvclub.xyz/iptv/69AWBEYGGS5VZ6/134/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Nat_Geo_Wild_HD_logo.png" group-title="English" ,National Geographic Wild 
-https://sc.id-tv.kz/NatGeoWildHD_34_35.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Nat_Geo_Wild_HD_logo.png" group-title="English" ,National Geographic Wild (2)
-http://tjszdhm3.tvclub.xyz/iptv/69AWBEYGGS5VZ6/216/index.m3u8
-#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/04/National-Geographic-Logo.png" group-title="English" ,National Geographic
 http://103.80.70.59/hls/stream13.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/XITYSY0.png" group-title="English" ,Animal Planet HD
-http://tjszdhm3.tvclub.xyz/iptv/69AWBEYGGS5VZ6/218/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Nat_Geo_Wild_HD_logo.png" group-title="English" ,National Geographic Wild
+http://tjszdhm3.tvclub.xyz/iptv/69AWBEYGGS5VZ6/216/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XITYSY0.png" group-title="English" ,Animal Planet HD (Hindi)
 https://itvorigin.multitvsolution.com/idvo/aphdhindi.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DiHUL9p.png" group-title="English" ,Outdoor HD 
@@ -192,6 +175,8 @@ http://otv.ftpbd.net/streams/125/index.m3u8
 http://pn.tvott.info:80/307225531434/307225531434/78917
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5f/Sony_PIX.png" group-title="English" ,Sony Pix HD
 http://tv2.ebox.live:8080/live/sony-pix.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5f/Sony_PIX.png" group-title="English" ,Sony Pix HD (2)
+http://103.205.133.21/hls/sonypix.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gJ4Wp1k.png" group-title="English",Sony Movies Action
 http://51.52.156.22:8888/http/009
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bBfuIVs.png" group-title="English", Zeee Cafe HD (2)
@@ -286,8 +271,6 @@ http://103.205.133.21/hls/deshtv.m3u8
 http://103.205.133.21/hls/ekushey.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/Jo7wzmn.png" group-title="Radiant IPTV",Gaan Bangla HD
 http://103.205.133.21/hls/gaanbangla.m3u8
-#EXTINF:0 tvg-logo="https://www.independent24.com/assets/img/independent_tv.png" group-title="Radiant IPTV",Independent TV
-http://103.205.133.21/hls/independent.m3u8
 #EXTINF:0 tvg-logo="http://thedailynewnation.com/library/1396623976_0.jpg" group-title="Radiant IPTV",Jamuna TV
 http://103.205.133.21/hls/jamunatv.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ac/Mohona_Logo.JPG" group-title="Radiant IPTV",Mohona TV HD
