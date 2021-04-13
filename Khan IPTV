@@ -35,7 +35,7 @@ http://103.205.133.48/hls/ekushey.m3u8
 http://freeiptv.thunderbd.com:25461/live/free/roarzone/1.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Jo7wzmn.png" group-title="Bangladeshi",Gaan Bangla
 http://103.205.133.48/hls/gaanbangla.m3u8
-#EXTINF:-1 tvg-logo="https://www.independent24.com/assets/img/independent_tv.png" group-title="Bangladeshi",Independent TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c1/Independent_Television_Logo.svg/1200px-Independent_Television_Logo.svg.png" group-title="Bangladeshi",Independent TV
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/independent-8-org.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="http://thedailynewnation.com/library/1396623976_0.jpg" group-title="Bangladeshi",Jamuna TV
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/jamuna-test-sample-ok.stream/chunks.m3u8
@@ -66,8 +66,10 @@ http://103.102.136.106:8080/cmcltv/tsports.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/HVZHZGl.png" group-title="Indian Bangla" ,Colors Bangla HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HVZHZGl.png" group-title="Indian Bangla" ,Colors Bangla HD (Ebox)
 http://tv2.ebox.live:8080/live/colors-bangla.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HVZHZGl.png" group-title="Indian Bangla" ,Colors Bangla HD
+https://yuppcatchup.akamaized.net/preview/etvbengali/2500.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/61/Jalsha_Movies.png" group-title="Indian Bangla" ,Jalsha Movies HD
 http://tv2.ebox.live:8080/live/star-jalsha-movies.m3u8
 #EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/49/Star_Jalsha_2012.png" group-title="Radiant IPTV",Star Jalsha SD
@@ -87,8 +89,10 @@ http://freeiptv.thunderbd.com:25461/live/free/roarzone/32.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Colors_tv2017.png/220px-Colors_tv2017.png" group-title="Hindi",Colors HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Colors_tv2017.png/220px-Colors_tv2017.png" group-title="Hindi",Colors HD (Ebox)
 http://tv2.ebox.live:8080/live/colors.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Colors_tv2017.png/220px-Colors_tv2017.png" group-title="Hindi",Colors HD
+http://208.115.215.42/Colors_TV_HD/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4BBrXbC.png" group-title="Hindi",Colors Cineplex HD
 http://tjszdhm3.tvclub.xyz/iptv/69AWBEYGGS5VZ6/6592/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oTt7D3K.png" group-title="Hindi",Sony Entertainment HD (Ebox)
@@ -116,7 +120,7 @@ http://tv2.ebox.live:8080/live/zee-tv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ldXaLJK.png" group-title="Hindi",Zeee Cinema HD (Ebox)
 http://tv2.ebox.live:8080/live/zee-cinema.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ldXaLJK.png" group-title="Hindi",Zeee Cinema HD
-http://tjszdhm3.tvclub.xyz/iptv/69AWBEYGGS5VZ6/6577/index.m3u8
+https://y5w8j4a9.ssl.hwcdn.net/zcinemahd/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rfG4WzU.png" group-title="Hindi", Zeee Anmol Cinema
 https://y5w8j4a9.ssl.hwcdn.net/zanmolcnm/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PGIG8CS.png" group-title="Hindi", Zeee Zest HD
@@ -348,8 +352,6 @@ http://103.205.133.20/hls/jamunatv.m3u8
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/mohonatv00000223232244556633.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="http://mytvbd.tv/wp-content/uploads/2020/11/mytv_logo-300x163.png" group-title="Family IPTV",My TV HD
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/mytv-up-off.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://sarabangla.net/wp-content/uploads/2018/03/nagorik-tv-Logo.png" group-title="Family IPTV",Nagorik TV (ThunderBD)
-http://freeiptv.thunderbd.com:25461/live/free/roarzone/59.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mn88b34.png" group-title="Family IPTV",News 24 HD
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/news24local.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://rtvbd.tv/templates/rtv/img/logo.png" group-title="Family IPTV",RTV HD  
@@ -388,7 +390,7 @@ http://otv.ftpbd.net/streams/125/index.m3u8
 https://rhridoy136.shortcm.li/aljazeera.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="Family IPTV",T Sports  
 http://103.133.142.51/hls/eflix/YNLCM68CPfu1tCxllTrsJA/1614780249/bd_t_sports.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="Family IPTV",T Sports [4]
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="Family IPTV",T Sports 
 http://otv.ftpbd.net/streams/108/index.m3u8
 
 
@@ -458,3 +460,310 @@ https://rhridoy136.shortcm.li/shomoytv.m3u8
 https://rhridoy136.shortcm.li/titashsports.m3u8
 #EXTINF:0 tvg-logo="https://cdn.freelogovectors.net/wp-content/uploads/2016/12/al-jazeera-logo.png" group-title="Ridoy IPTV",Al Jazeera
 https://rhridoy136.shortcm.li/aljazeera.m3u8
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://www.nsbpictures.com/wp-content/uploads/2019/03/ipl-logo.png" group-title="IPL Live",Live 1
+http://103.205.133.21/hls/chss1.m3u8
+#EXTINF:-1 tvg-logo="https://www.nsbpictures.com/wp-content/uploads/2019/03/ipl-logo.png" group-title="IPL Live",Live 2
+http://10.16.100.207:8082/sports/starsports_select1.m3u8
+#EXTINF:-1 tvg-logo="https://www.nsbpictures.com/wp-content/uploads/2019/03/ipl-logo.png" group-title="IPL Live",Live 3
+http://tjszdhm3.tvclub.xyz/iptv/69AWBEYGGS5VZ6/2508/index.m3u
+#EXTINF:-1 tvg-logo="https://www.nsbpictures.com/wp-content/uploads/2019/03/ipl-logo.png" group-title="IPL Live",Live 4
+https://ipl-live.s3.ap-south-1.amazonaws.com/pkcast123.me_1/index2.m3u8
+#EXTINF:-1 tvg-logo="https://www.nsbpictures.com/wp-content/uploads/2019/03/ipl-logo.png" group-title="IPL Live",Live 5
+https://ipl-live.s3.ap-south-1.amazonaws.com/mixcasthd.com_3/index2.m3u8
+#EXTINF:-1 tvg-logo="https://www.nsbpictures.com/wp-content/uploads/2019/03/ipl-logo.png" group-title="IPL Live",Live 6
+https://www101.sbvideocdn.com/hlsx/db6ump1j72_low/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.nsbpictures.com/wp-content/uploads/2019/03/ipl-logo.png" group-title="IPL Live",Live 7
+http://103.109.110.102:1935/live/starsports1tamil.stream_720p/chunklist_w2016674381.m3u8
+#EXTINF:-1 tvg-logo="https://www.nsbpictures.com/wp-content/uploads/2019/03/ipl-logo.png" group-title="IPL Live",Live 8
+http://221.120.204.4/STAR-SPORTS-2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://www.nsbpictures.com/wp-content/uploads/2019/03/ipl-logo.png" group-title="IPL Live",Live 9
+http://221.120.204.4/STAR-SPORTS-2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://www.nsbpictures.com/wp-content/uploads/2019/03/ipl-logo.png" group-title="IPL Live",Live 10
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/221
+#EXTINF:-1 tvg-logo="https://www.nsbpictures.com/wp-content/uploads/2019/03/ipl-logo.png" group-title="IPL Live",Live 11
+http://103.102.27.172:6464/Channel-2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://www.nsbpictures.com/wp-content/uploads/2019/03/ipl-logo.png" group-title="IPL Live",Live 12
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/220
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mBpwuIk.jpg" group-title="Sports",Star Sports Hindi
+http://tjszdhm3.tvclub.xyz/iptv/69AWBEYGGS5VZ6/2508/index.m3u
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EEoOSac.png" group-title="Sports",Star Sprots Select 2 HD
+http://103.205.133.48/hls/chss2.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Sports",beIN Sports 3 HD QA
+http://tjszdhm3.tvclub.xyz/iptv/69AWBEYGGS5VZ6/6124/index.m3u
+#EXTINF:-1 tvg-logo="" group-title="Sports",Bein Sports 3 HD FR
+http://tjszdhm3.tvclub.xyz/iptv/69AWBEYGGS5VZ6/2501/index.m3u
+#EXTINF:-1 tvg-logo="" group-title="Sports",Sky Sport 1 HD DE
+http://tjszdhm3.tvclub.xyz/iptv/69AWBEYGGS5VZ6/2478/index.m3u
+#EXTINF:-1 tvg-logo="" group-title="Sports",Sky Sport 2 HD DE
+http://tjszdhm3.tvclub.xyz/iptv/69AWBEYGGS5VZ6/2479/index.m3u
+#EXTINF:-1 tvg-logo="" group-title="Sports",Sky Sport Austria 1 HD DE
+http://tjszdhm3.tvclub.xyz/iptv/69AWBEYGGS5VZ6/2492/index.m3u
+
+
+
+
+
+#EXTINF:-1 ,IND_& Flix HD
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/335
+#EXTINF:-1 ,IND_& Pictures HD
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/7
+#EXTINF:-1 ,IND_& privé HD(eng)
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/8
+#EXTINF:-1 ,IND_& TV (UK)
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/325
+#EXTINF:-1 ,IND_& TV FHD (IND)
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/1008
+#EXTINF:-1 ,IND_& Xplor HD
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/336
+#EXTINF:-1 ,IND_1st India (News)
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/25
+#EXTINF:-1 ,IND_9X Jalwa HD
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/1033
+#EXTINF:-1 ,IND_9XM (Music)
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/12
+#EXTINF:-1 ,IND_Aaj Tak HD (News)
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/11
+#EXTINF:-1 ,IND_Aastha Bhajan HD
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/609
+#EXTINF:-1 ,IND_ABAYE_DHAHDAK (lk)
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/933
+#EXTINF:-1 ,IND_ABP_News_India FHD (IND)
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/9
+#EXTINF:-1 ,IND_Animal_Planet_Hindi_HD (4K+)
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/55
+#EXTINF:-1 ,IND_Arihant TV HD (Spirtual)
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/643
+#EXTINF:-1 ,IND_Awakening HD (Spirtual)
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/891
+#EXTINF:-1 ,IND_B4u  Alfam HD
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/14
+#EXTINF:-1 ,IND_B4U Movies (IND)
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/39
+#EXTINF:-1 ,IND_B4U Movies (uk)
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/721
+#EXTINF:-1 ,IND_B4U Music HD
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/19
+#EXTINF:-1 ,IND_B4u-kadak HD
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/13
+#EXTINF:-1 ,IND_Bhagti Sagar (Spirtual)
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/365
+#EXTINF:-1 ,IND_CNBC Awaaz (News) HD
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/15
+#EXTINF:-1 ,IND_CNBC_Tv_18 (News)
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/53
+#EXTINF:-1 ,IND_COLOR CINEPLEX HD (JIO)
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/572
+#EXTINF:-1 ,IND_Colors FHD (IN) -VIP (jio)
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/218
+#EXTINF:-1 ,IND_Colors infinity India HD
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/1150
+#EXTINF:-1 ,IND_COLORS Rishtey (UK)
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/864
+#EXTINF:-1 ,IND_Colors SD  (UK)
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/211
+#EXTINF:-1 ,IND_THE Q HD
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/1133
+#EXTINF:-1 ,IND_DD India HD
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/21
+#EXTINF:-1 ,IND_DD KASHIR HD(lk)
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/1037
+#EXTINF:-1 ,IND_DD Kisan
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/20
+#EXTINF:-1 ,IND_DD National HD
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/75
+#EXTINF:-1 ,IND_DD News (News)
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/18
+#EXTINF:-1 ,IND_DD Uttar Pradesh HD
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/17
+#EXTINF:-1 ,IND_ Discovery Science Hindi (jio)
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/950
+#EXTINF:-1 ,IND_Discovery_Turbo(JIO)
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/1029
+#EXTINF:-1 ,IND_divya (Spirtual)
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/347
+#EXTINF:-1 ,IND_E24 HD(lk)
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/339
+#EXTINF:-1 ,IND_ET NOW (News)
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/255
+#EXTINF:-1 ,IND_Food Food HD
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/3
+#EXTINF:-1 ,IND_Hare Krsna (Spirtual)
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/1130
+#EXTINF:-1 ,IND_Hungama_Dil Se HD (Miusc)
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/1157
+#EXTINF:-1 ,IND_Hungama_POP_Pataka_HD
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/1159
+#EXTINF:-1 ,IND_ILOVE (Music)
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/78
+#EXTINF:-1 ,IND_India News Haryana (News)
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/30
+#EXTINF:-1 ,IND_India Today (News)
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/26
+#EXTINF:-1 ,IND_Joo Music HD (Music)
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/1156
+#EXTINF:-1 ,IND_JUS_HINDI HD (Jio)
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/1161
+#EXTINF:-1 ,IND_Lok Sabha *News*
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/216
+#EXTINF:-1 ,IND_Maha Movies
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/246
+#EXTINF:-1 ,IND_ManoranjanMovies
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/340
+#EXTINF:-1 ,IND_Masti HD (Music)
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/248
+#EXTINF:-1 ,IND_Mirror Now (News)
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/623
+#EXTINF:-1 ,IND_MTV_Beats HD (jio)
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/861
+#EXTINF:-1 ,IND_MUSIC INDIA (Music)
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/57
+#EXTINF:-1 ,IND_NAT GEO WILD HD
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/1114
+#EXTINF:-1 ,IND_NDTV Profit (news)
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/36
+#EXTINF:-1 ,IND_Oscar Movies HD
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/627
+#EXTINF:-1 ,IND_Peace Of Mind TV (Spirtual)
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/349
+#EXTINF:-1 ,IND_Rajya Sabha TV(News)
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/1016
+#EXTINF:-1 ,IND_Republic Bharat (News)
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/42
+#EXTINF:-1 ,IND_Republic TV HD
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/43
+#EXTINF:-1 ,IND_Rishtey Cineplex (UK)
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/414
+#EXTINF:-1 ,IND_Sahara Filmy(lk)
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/573
+#EXTINF:-1 ,IND_Sanskar TV (Spirtual)
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/337
+#EXTINF:-1 ,ind_Satsang TV (Spirtual)
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/348
+#EXTINF:-1 ,IND_Show Box HD
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/4
+#EXTINF:-1 ,IND_Sony BBC Earth Hindi FHD (jio)
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/652
+#EXTINF:-1 ,IND_Sony Entertainment  HD (IN)
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/471
+#EXTINF:-1 ,IND_SONY Entertainment sd (UK)
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/49
+#EXTINF:-1 ,IND_Sony Max 2 (UK)
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/965
+#EXTINF:-1 ,IND_Sony Max HD (IND)
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/225
+#EXTINF:-1 ,IND_Sony Pal HD (Jio)
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/557
+#EXTINF:-1 ,IND_Sony Saab FHD (IN) -VIP
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/224
+#EXTINF:-1 ,IND_Sony SAB (UK)
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/50
+#EXTINF:-1 ,IND_Sony_Pix_HD
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/46
+#EXTINF:-1 ,IND_Sony_SIX_HD(sl)
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/62
+#EXTINF:-1 ,IND_Sony_Ten_1_HD (VIP)
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/59
+#EXTINF:-1 ,IND_sony_Ten_2_HD(vip)
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/60
+#EXTINF:-1 ,IND_Sony_Ten_3 HD (JIO)
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/61
+#EXTINF:-1 ,IND_Star Bharat (UK)
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/215
+#EXTINF:-1 ,IND_Star Bharat HD (4K)
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/45
+#EXTINF:-1 ,IND_Star Bhart FHD (IND) VIP
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/651
+#EXTINF:-1 ,IND_Star Gold FHD (IN)  Local
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/516
+#EXTINF:-1 ,IND_UTSAV Gold FHD (UK)
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/698
+#EXTINF:-1 ,IND_Star Gold SD  (uk)
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/297
+#EXTINF:-1 ,IND_STAR GOLD SELECT HD
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/515
+#EXTINF:-1 ,IND_Star Sports 2 HD
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/220
+#EXTINF:-1 ,IND_Star Sports 3 HD
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/221
+#EXTINF:-1 ,IND_Suraya_cinema HD(chahcha)
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/453
+#EXTINF:-1 ,IND_Ten Sports
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/223
+#EXTINF:-1 ,IND_TEZ News (News)
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/27
+#EXTINF:-1 ,IND_THE Q HD TV
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/946
+#EXTINF:-1 ,IND_TLC_Hindi HD (JIO)
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/58
+#EXTINF:-1 ,IND_TV9 Bharatvarsh (News)
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/1067
+#EXTINF:-1 ,IND_UTV HD (Movies)
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/626
+#EXTINF:-1 ,IND_Vedic HD (Spirtual)
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/644
+#EXTINF:-1 ,IND_Willow HD
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/222
+#EXTINF:-1 ,IND_Wion TV(News)
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/64
+#EXTINF:-1 ,IND_Wow Cinema HD(lk)
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/860
+#EXTINF:-1 ,IND_Zee Action HD
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/85
+#EXTINF:-1 ,IND_Zee Anmol Cinema HD
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/84
+#EXTINF:-1 ,IND_Zee Anmol HD
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/83
+#EXTINF:-1 ,IND_ZEE Bollywood HD
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/276
+#EXTINF:-1 ,IND_Zee Business (News)
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/81
+#EXTINF:-1 ,IND_Zee Cafe HD
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/273
+#EXTINF:-1 ,IND_ZEE CINEMA (USA)
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/80
+#EXTINF:-1 ,IND_Zee Cinema HD (UK-TIME)
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/79
+#EXTINF:-1 ,IND_ZEE Cinema SD (IND)
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/693
+#EXTINF:-1 ,IND_ZEE Classic HD
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/695
+#EXTINF:-1 ,IND_Zee Hindustan
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/73
+#EXTINF:-1 ,IND_ZEE living usa
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/87
+#EXTINF:-1 ,IND_Zee MP (News)
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/76
+#EXTINF:-1 ,IND_Zee News (News)
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/74
+#EXTINF:-1 ,IND_Zee Rajasthan HD
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/72
+#EXTINF:-1 ,IND_Zee Theatre HD
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/86
+#EXTINF:-1 ,IND_Zee TV (UK)
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/69
+#EXTINF:-1 ,IND_ZEE TV APAC
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/71
+#EXTINF:-1 ,IND_ZEE TV HD (Canada)
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/278
+#EXTINF:-1 ,IND_Zee TV HD (IND)/VIP
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/68
+#EXTINF:-1 ,IND_ZEE TV HD (USA)
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/67
+#EXTINF:-1 ,IND_zee5 romance (music)
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/23
+#EXTINF:-1 ,IND_Zing (Music)
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/66
+#EXTINF:-1 ,ind_Zing HD (Usa)
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/279
