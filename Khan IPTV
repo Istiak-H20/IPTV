@@ -496,9 +496,11 @@ http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/220
 
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/mBpwuIk.jpg" group-title="Sports",Star Sports Hindi
+#EXTINF:-1 tvg-logo="" group-title="Sports",Star Sports Hindi
 http://tjszdhm3.tvclub.xyz/iptv/69AWBEYGGS5VZ6/2508/index.m3u
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EEoOSac.png" group-title="Sports",Star Sprots Select 2 HD
+#EXTINF:-1 tvg-logo="" group-title="Sports",Star Sports 1 SD
+https://ipl-live.s3.ap-south-1.amazonaws.com/pkcast123.me_1/index2.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Sports",Star Sprots Select 2 HD
 http://103.205.133.48/hls/chss2.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Sports",beIN Sports 3 HD QA
 http://tjszdhm3.tvclub.xyz/iptv/69AWBEYGGS5VZ6/6124/index.m3u
@@ -515,143 +517,143 @@ http://tjszdhm3.tvclub.xyz/iptv/69AWBEYGGS5VZ6/2492/index.m3u
 
 
 
-#EXTINF:-1 tvg-logo="" group-title="India",IND_& Flix HD
+#EXTINF:-1 tvg-logo="" group-title="India",& Flix HD
 http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/335
-#EXTINF:-1 tvg-logo="" group-title="India",IND_& Pictures HD
+#EXTINF:-1 tvg-logo="" group-title="India",& Pictures HD
 http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/7
-#EXTINF:-1 tvg-logo="" group-title="India",IND_& privé HD(eng)
+#EXTINF:-1 tvg-logo="" group-title="India",& privé HD(eng)
 http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/8
-#EXTINF:-1 tvg-logo="" group-title="India",IND_& TV (UK)
+#EXTINF:-1 tvg-logo="" group-title="India",& TV (UK)
 http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/325
-#EXTINF:-1 tvg-logo="" group-title="India",IND_& TV FHD (IND)
+#EXTINF:-1 tvg-logo="" group-title="India",& TV FHD (IND)
 http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/1008
-#EXTINF:-1 tvg-logo="" group-title="India",IND_& Xplor HD
+#EXTINF:-1 tvg-logo="" group-title="India",& Xplor HD
 http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/336
-#EXTINF:-1 tvg-logo="" group-title="India",IND_9X Jalwa HD
+#EXTINF:-1 tvg-logo="" group-title="India",9X Jalwa HD
 http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/1033
-#EXTINF:-1 tvg-logo="" group-title="India",IND_9XM (Music)
+#EXTINF:-1 tvg-logo="" group-title="India",9XM (Music)
 http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/12
-#EXTINF:-1 tvg-logo="" group-title="India",IND_Animal_Planet_Hindi_HD (4K+)
+#EXTINF:-1 tvg-logo="" group-title="India",Animal_Planet_Hindi_HD (4K+)
 http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/55
-#EXTINF:-1 tvg-logo="" group-title="India",IND_B4u  Alfam HD
+#EXTINF:-1 tvg-logo="" group-title="India",B4u  Alfam HD
 http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/14
-#EXTINF:-1 tvg-logo="" group-title="India",IND_B4U Movies (IND)
+#EXTINF:-1 tvg-logo="" group-title="India",B4U Movies (IND)
 http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/39
-#EXTINF:-1 tvg-logo="" group-title="India",IND_B4U Movies (uk)
+#EXTINF:-1 tvg-logo="" group-title="India",B4U Movies (uk)
 http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/721
-#EXTINF:-1 tvg-logo="" group-title="India",IND_B4U Music HD
+#EXTINF:-1 tvg-logo="" group-title="India",B4U Music HD
 http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/19
-#EXTINF:-1 tvg-logo="" group-title="India",IND_COLOR CINEPLEX HD (JIO)
+#EXTINF:-1 tvg-logo="" group-title="India",COLOR CINEPLEX HD (JIO)
 http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/572
-#EXTINF:-1 tvg-logo="" group-title="India",IND_Colors FHD (IN) -VIP (jio)
+#EXTINF:-1 tvg-logo="" group-title="India",Colors FHD (IN) -VIP (jio)
 http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/218
-#EXTINF:-1 tvg-logo="" group-title="India",IND_Colors infinity India HD
+#EXTINF:-1 tvg-logo="" group-title="India",Colors infinity India HD
 http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/1150
-#EXTINF:-1 tvg-logo="" group-title="India",IND_COLORS Rishtey (UK)
+#EXTINF:-1 tvg-logo="" group-title="India",COLORS Rishtey (UK)
 http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/864
-#EXTINF:-1 tvg-logo="" group-title="India",IND_Colors SD  (UK)
+#EXTINF:-1 tvg-logo="" group-title="India",Colors SD  (UK)
 http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/211
-#EXTINF:-1 tvg-logo="" group-title="India",IND_ Discovery Science Hindi (jio)
+#EXTINF:-1 tvg-logo="" group-title="India", Discovery Science Hindi (jio)
 http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/950
-#EXTINF:-1 tvg-logo="" group-title="India",IND_Discovery_Turbo(JIO)
+#EXTINF:-1 tvg-logo="" group-title="India",Discovery_Turbo(JIO)
 http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/1029
-#EXTINF:-1 tvg-logo="" group-title="India",IND_NAT GEO WILD HD
+#EXTINF:-1 tvg-logo="" group-title="India",NAT GEO WILD HD
 http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/1114
-#EXTINF:-1 tvg-logo="" group-title="India",IND_Rishtey Cineplex (UK)
+#EXTINF:-1 tvg-logo="" group-title="India",Rishtey Cineplex (UK)
 http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/414
-#EXTINF:-1 tvg-logo="" group-title="India",IND_Sahara Filmy(lk)
+#EXTINF:-1 tvg-logo="" group-title="India",Sahara Filmy(lk)
 http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/573
-#EXTINF:-1 tvg-logo="" group-title="India",IND_Sony BBC Earth Hindi FHD (jio)
+#EXTINF:-1 tvg-logo="" group-title="India",Sony BBC Earth Hindi FHD (jio)
 http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/652
-#EXTINF:-1 tvg-logo="" group-title="India",IND_Sony Entertainment  HD (IN)
+#EXTINF:-1 tvg-logo="" group-title="India",Sony Entertainment  HD (IN)
 http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/471
-#EXTINF:-1 tvg-logo="" group-title="India",IND_SONY Entertainment sd (UK)
+#EXTINF:-1 tvg-logo="" group-title="India",SONY Entertainment sd (UK)
 http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/49
-#EXTINF:-1 tvg-logo="" group-title="India",IND_Sony Max 2 (UK)
+#EXTINF:-1 tvg-logo="" group-title="India",Sony Max 2 (UK)
 http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/965
-#EXTINF:-1 tvg-logo="" group-title="India",IND_Sony Max HD (IND)
+#EXTINF:-1 tvg-logo="" group-title="India",Sony Max HD (IND)
 http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/225
-#EXTINF:-1 tvg-logo="" group-title="India",IND_Sony Pal HD (Jio)
+#EXTINF:-1 tvg-logo="" group-title="India",Sony Pal HD (Jio)
 http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/557
-#EXTINF:-1 tvg-logo="" group-title="India",IND_Sony Saab FHD (IN) -VIP
+#EXTINF:-1 tvg-logo="" group-title="India",Sony Saab FHD (IN) -VIP
 http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/224
-#EXTINF:-1 tvg-logo="" group-title="India",IND_Sony SAB (UK)
+#EXTINF:-1 tvg-logo="" group-title="India",Sony SAB (UK)
 http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/50
-#EXTINF:-1 tvg-logo="" group-title="India",IND_Sony_Pix_HD
+#EXTINF:-1 tvg-logo="" group-title="India",Sony_Pix_HD
 http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/46
-#EXTINF:-1 tvg-logo="" group-title="India",IND_Sony_SIX_HD(sl)
+#EXTINF:-1 tvg-logo="" group-title="India",Sony_SIX_HD(sl)
 http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/62
-#EXTINF:-1 tvg-logo="" group-title="India",IND_Sony_Ten_1_HD (VIP)
+#EXTINF:-1 tvg-logo="" group-title="India",Sony_Ten_1_HD (VIP)
 http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/59
-#EXTINF:-1 tvg-logo="" group-title="India",IND_sony_Ten_2_HD(vip)
+#EXTINF:-1 tvg-logo="" group-title="India",sony_Ten_2_HD(vip)
 http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/60
-#EXTINF:-1 tvg-logo="" group-title="India",IND_Sony_Ten_3 HD (JIO)
+#EXTINF:-1 tvg-logo="" group-title="India",Sony_Ten_3 HD (JIO)
 http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/61
-#EXTINF:-1 tvg-logo="" group-title="India",IND_Star Bharat (UK)
+#EXTINF:-1 tvg-logo="" group-title="India",Star Bharat (UK)
 http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/215
-#EXTINF:-1 tvg-logo="" group-title="India",IND_Star Bharat HD (4K)
+#EXTINF:-1 tvg-logo="" group-title="India",Star Bharat HD (4K)
 http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/45
-#EXTINF:-1 tvg-logo="" group-title="India",IND_Star Bhart FHD (IND) VIP
+#EXTINF:-1 tvg-logo="" group-title="India",Star Bhart FHD (IND) VIP
 http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/651
-#EXTINF:-1 tvg-logo="" group-title="India",IND_Star Gold FHD (IN)  Local
+#EXTINF:-1 tvg-logo="" group-title="India",Star Gold FHD (IN)  Local
 http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/516
-#EXTINF:-1 tvg-logo="" group-title="India",IND_UTSAV Gold FHD (UK)
+#EXTINF:-1 tvg-logo="" group-title="India",UTSAV Gold FHD (UK)
 http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/698
-#EXTINF:-1 tvg-logo="" group-title="India",IND_Star Gold SD  (uk)
+#EXTINF:-1 tvg-logo="" group-title="India",Star Gold SD  (uk)
 http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/297
-#EXTINF:-1 tvg-logo="" group-title="India",IND_STAR GOLD SELECT HD
+#EXTINF:-1 tvg-logo="" group-title="India",STAR GOLD SELECT HD
 http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/515
-#EXTINF:-1 tvg-logo="" group-title="India",IND_Star Sports 2 HD
+#EXTINF:-1 tvg-logo="" group-title="India",Star Sports 2 HD
 http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/220
-#EXTINF:-1 tvg-logo="" group-title="India",IND_Star Sports 3 HD
+#EXTINF:-1 tvg-logo="" group-title="India",Star Sports 3 HD
 http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/221
-#EXTINF:-1 tvg-logo="" group-title="India",IND_UTV HD (Movies)
+#EXTINF:-1 tvg-logo="" group-title="India",UTV HD (Movies)
 http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/626
-#EXTINF:-1 tvg-logo="" group-title="India",IND_Willow HD
+#EXTINF:-1 tvg-logo="" group-title="India",Willow HD
 http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/222
-#EXTINF:-1 tvg-logo="" group-title="India",IND_Wow Cinema HD(lk)
+#EXTINF:-1 tvg-logo="" group-title="India",Wow Cinema HD(lk)
 http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/860
-#EXTINF:-1 tvg-logo="" group-title="India",IND_Zee Action HD
+#EXTINF:-1 tvg-logo="" group-title="India",Zee Action HD
 http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/85
-#EXTINF:-1 tvg-logo="" group-title="India",IND_Zee Anmol Cinema HD
+#EXTINF:-1 tvg-logo="" group-title="India",Zee Anmol Cinema HD
 http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/84
-#EXTINF:-1 tvg-logo="" group-title="India",IND_Zee Anmol HD
+#EXTINF:-1 tvg-logo="" group-title="India",Zee Anmol HD
 http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/83
-#EXTINF:-1 tvg-logo="" group-title="India",IND_ZEE Bollywood HD
+#EXTINF:-1 tvg-logo="" group-title="India",ZEE Bollywood HD
 http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/276
-#EXTINF:-1 tvg-logo="" group-title="India",IND_Zee Business (News)
+#EXTINF:-1 tvg-logo="" group-title="India",Zee Business (News)
 http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/81
-#EXTINF:-1 tvg-logo="" group-title="India",IND_Zee Cafe HD
+#EXTINF:-1 tvg-logo="" group-title="India",Zee Cafe HD
 http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/273
-#EXTINF:-1 tvg-logo="" group-title="India",IND_ZEE CINEMA (USA)
+#EXTINF:-1 tvg-logo="" group-title="India",ZEE CINEMA (USA)
 http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/80
-#EXTINF:-1 tvg-logo="" group-title="India",IND_Zee Cinema HD (UK-TIME)
+#EXTINF:-1 tvg-logo="" group-title="India",Zee Cinema HD (UK-TIME)
 http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/79
-#EXTINF:-1 tvg-logo="" group-title="India",IND_ZEE Cinema SD (IND)
+#EXTINF:-1 tvg-logo="" group-title="India",ZEE Cinema SD (IND)
 http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/693
-#EXTINF:-1 tvg-logo="" group-title="India",IND_ZEE Classic HD
+#EXTINF:-1 tvg-logo="" group-title="India",ZEE Classic HD
 http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/695
-#EXTINF:-1 tvg-logo="" group-title="India",IND_Zee Hindustan
+#EXTINF:-1 tvg-logo="" group-title="India",Zee Hindustan
 http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/73
-#EXTINF:-1 tvg-logo="" group-title="India",IND_Zee News (News)
+#EXTINF:-1 tvg-logo="" group-title="India",Zee News (News)
 http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/74
-#EXTINF:-1 tvg-logo="" group-title="India",IND_Zee Rajasthan HD
+#EXTINF:-1 tvg-logo="" group-title="India",Zee Rajasthan HD
 http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/72
-#EXTINF:-1 tvg-logo="" group-title="India",IND_Zee Theatre HD
+#EXTINF:-1 tvg-logo="" group-title="India",Zee Theatre HD
 http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/86
-#EXTINF:-1 tvg-logo="" group-title="India",IND_Zee TV (UK)
+#EXTINF:-1 tvg-logo="" group-title="India",Zee TV (UK)
 http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/69
-#EXTINF:-1 tvg-logo="" group-title="India",IND_ZEE TV APAC
+#EXTINF:-1 tvg-logo="" group-title="India",ZEE TV APAC
 http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/71
-#EXTINF:-1 tvg-logo="" group-title="India",IND_ZEE TV HD (Canada)
+#EXTINF:-1 tvg-logo="" group-title="India",ZEE TV HD (Canada)
 http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/278
-#EXTINF:-1 tvg-logo="" group-title="India",IND_Zee TV HD (IND)/VIP
+#EXTINF:-1 tvg-logo="" group-title="India",Zee TV HD (IND)/VIP
 http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/68
-#EXTINF:-1 tvg-logo="" group-title="India",IND_ZEE TV HD (USA)
+#EXTINF:-1 tvg-logo="" group-title="India",ZEE TV HD (USA)
 http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/67
-#EXTINF:-1 tvg-logo="" group-title="India",IND_zee5 romance (music)
+#EXTINF:-1 tvg-logo="" group-title="India",zee5 romance (music)
 http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/23
-#EXTINF:-1 tvg-logo="" group-title="India",IND_Zing (Music)
+#EXTINF:-1 tvg-logo="" group-title="India",Zing (Music)
 http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/66
-#EXTINF:-1 tvg-logo="" group-title="India",ind_Zing HD (Usa)
+#EXTINF:-1 tvg-logo="" group-title="India",Zing HD (Usa)
 http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/279
