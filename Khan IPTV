@@ -32,7 +32,7 @@ http://103.205.133.21/hls/ekatoortv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kFqOMtx.png" group-title="Bangladeshi",Ekusey TV
 http://103.205.133.48/hls/ekushey.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eyAInC9.png" group-title="Bangladeshi",Gazi TV HD
-http://freeiptv.thunderbd.com:25461/live/free/roarzone/1.m3u8
+https://piratesiptv.shortcm.li/ipl.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Jo7wzmn.png" group-title="Bangladeshi",Gaan Bangla
 http://103.205.133.48/hls/gaanbangla.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c1/Independent_Television_Logo.svg/1200px-Independent_Television_Logo.svg.png" group-title="Bangladeshi",Independent TV
@@ -131,7 +131,9 @@ http://103.49.168.171:8081/ebox/in_and_tv_hd/chunks.m3u8
 http://103.49.168.171:8081/ebox/in_andpictures_hd/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_548/PORTRAIT/rJOw77VW.png" group-title="Hindi",& Pictures (2)
 https://y5w8j4a9.ssl.hwcdn.net/andpicshd/index.m3u8
-#EXTINF:-1 tvg-logo="https://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_548/PORTRAIT/rJOw77VW.png" group-title="Hindi",& Pictures SD (3)
+#EXTINF:-1 tvg-logo="https://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_548/PORTRAIT/rJOw77VW.png" group-title="Hindi",& Pictures (3)
+https://oreotv.us/live/gee/zee_v2.m3u8?id=0-9-tvpictureshd
+#EXTINF:-1 tvg-logo="https://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_548/PORTRAIT/rJOw77VW.png" group-title="Hindi",& Pictures SD (4)
 http://103.205.133.21/hls/andpicture.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/T8CepXA.png" group-title="Hindi",Bflix Movies
 https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in_480p/index.m3u8
@@ -463,13 +465,14 @@ https://rhridoy136.shortcm.li/aljazeera.m3u8
 
 
 
-
-
-
+#EXTINF:-1 tvg-logo="https://www.nsbpictures.com/wp-content/uploads/2019/03/ipl-logo.png" group-title="IPL Live",Gazi TV
+https://piratesiptv.shortcm.li/ipl.m3u8
+#EXTINF:-1 tvg-logo="https://www.nsbpictures.com/wp-content/uploads/2019/03/ipl-logo.png" group-title="IPL Live",Gazi TV (2)
+http://103.102.27.172:6464/Channel-1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://www.nsbpictures.com/wp-content/uploads/2019/03/ipl-logo.png" group-title="IPL Live",Live 1
 http://103.205.133.21/hls/chss1.m3u8
 #EXTINF:-1 tvg-logo="https://www.nsbpictures.com/wp-content/uploads/2019/03/ipl-logo.png" group-title="IPL Live",Live 2
-http://10.16.100.207:8082/sports/starsports_select1.m3u8
+http://103.102.27.172:6464/Channel-2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://www.nsbpictures.com/wp-content/uploads/2019/03/ipl-logo.png" group-title="IPL Live",Live 3
 http://tjszdhm3.tvclub.xyz/iptv/69AWBEYGGS5VZ6/2508/index.m3u
 #EXTINF:-1 tvg-logo="https://www.nsbpictures.com/wp-content/uploads/2019/03/ipl-logo.png" group-title="IPL Live",Live 4
