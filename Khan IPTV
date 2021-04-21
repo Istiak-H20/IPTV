@@ -476,7 +476,7 @@ http://103.102.27.172:6464/Channel-2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://www.nsbpictures.com/wp-content/uploads/2019/03/ipl-logo.png" group-title="IPL Live",Live 3
 http://goiptv.co:8080/avatar/fVkKAhhBlr/6160
 #EXTINF:-1 tvg-logo="https://www.nsbpictures.com/wp-content/uploads/2019/03/ipl-logo.png" group-title="IPL Live",Live 4
-https://ipl-live.s3.ap-south-1.amazonaws.com/pkcast123.me_1/index2.m3u8
+http://103.102.27.172:6464/Channel-1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://www.nsbpictures.com/wp-content/uploads/2019/03/ipl-logo.png" group-title="IPL Live",Live 5
 https://ipl-live.s3.ap-south-1.amazonaws.com/mixcasthd.com_3/index2.m3u8
 #EXTINF:-1 tvg-logo="https://www.nsbpictures.com/wp-content/uploads/2019/03/ipl-logo.png" group-title="IPL Live",Live 6
