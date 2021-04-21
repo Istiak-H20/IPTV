@@ -32,7 +32,7 @@ http://103.205.133.21/hls/ekatoortv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kFqOMtx.png" group-title="Bangladeshi",Ekusey TV
 http://103.205.133.48/hls/ekushey.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eyAInC9.png" group-title="Bangladeshi",Gazi TV HD
-https://piratesiptv.shortcm.li/ipl.m3u8
+http://diamondiptv.ddns.net:25461/AdnanAhmed26/123450/122
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Jo7wzmn.png" group-title="Bangladeshi",Gaan Bangla
 http://103.205.133.48/hls/gaanbangla.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c1/Independent_Television_Logo.svg/1200px-Independent_Television_Logo.svg.png" group-title="Bangladeshi",Independent TV
@@ -465,12 +465,12 @@ https://rhridoy136.shortcm.li/aljazeera.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://www.nsbpictures.com/wp-content/uploads/2019/03/ipl-logo.png" group-title="IPL Live",Gazi TV
-https://piratesiptv.shortcm.li/ipl.m3u8
-#EXTINF:-1 tvg-logo="https://www.nsbpictures.com/wp-content/uploads/2019/03/ipl-logo.png" group-title="IPL Live",Gazi TV (2)
-http://103.102.27.172:6464/Channel-1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eyAInC9.png" group-title="IPL Live",Gazi TV
+http://tiny.cc/ipl-m3u8
+#EXTINF:-1 tvg-logo="hhttps://i.imgur.com/eyAInC9.png" group-title="IPL Live",Gazi TV (2)
+http://diamondiptv.ddns.net:25461/AdnanAhmed26/123450/122
 #EXTINF:-1 tvg-logo="https://www.nsbpictures.com/wp-content/uploads/2019/03/ipl-logo.png" group-title="IPL Live",Live 1
-http://103.205.133.21/hls/chss1.m3u8
+http://diamondiptv.ddns.net:25461/AdnanAhmed26/123450/661
 #EXTINF:-1 tvg-logo="https://www.nsbpictures.com/wp-content/uploads/2019/03/ipl-logo.png" group-title="IPL Live",Live 2
 http://103.102.27.172:6464/Channel-2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://www.nsbpictures.com/wp-content/uploads/2019/03/ipl-logo.png" group-title="IPL Live",Live 3
@@ -660,3 +660,321 @@ http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/23
 http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/66
 #EXTINF:-1 tvg-logo="" group-title="India",Zing HD (Usa)
 http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/279
+
+
+
+
+#EXTINF:-1 tvg-logo="" group-title="Pirates IPTV (HD Server)",Ekattor
+http://diamondiptv.ddns.net:25461/AdnanAhmed26/123450/86
+#EXTINF:-1 tvg-logo="" group-title="Pirates IPTV (HD Server)",Animal Planet HD
+http://diamondiptv.ddns.net:25461/AdnanAhmed26/123450/89
+#EXTINF:-1 tvg-logo="" group-title="Pirates IPTV (HD Server)",Asian TV
+http://diamondiptv.ddns.net:25461/AdnanAhmed26/123450/91
+#EXTINF:-1 tvg-logo="" group-title="Pirates IPTV (HD Server)",AXN
+http://diamondiptv.ddns.net:25461/AdnanAhmed26/123450/92
+#EXTINF:-1 tvg-logo="" group-title="Pirates IPTV (HD Server)",B4U Music
+http://diamondiptv.ddns.net:25461/AdnanAhmed26/123450/93
+#EXTINF:-1 tvg-logo="" group-title="Pirates IPTV (HD Server)",Bangla Visison
+http://diamondiptv.ddns.net:25461/AdnanAhmed26/123450/94
+#EXTINF:-1 tvg-logo="" group-title="Pirates IPTV (HD Server)",Channel 95
+http://diamondiptv.ddns.net:25461/AdnanAhmed26/123450/95
+#EXTINF:-1 tvg-logo="" group-title="Pirates IPTV (HD Server)",Channel 96
+http://diamondiptv.ddns.net:25461/AdnanAhmed26/123450/96
+#EXTINF:-1 tvg-logo="" group-title="Pirates IPTV (HD Server)",DW
+http://diamondiptv.ddns.net:25461/AdnanAhmed26/123450/97
+#EXTINF:-1 tvg-logo="" group-title="Pirates IPTV (HD Server)",Thrill
+http://diamondiptv.ddns.net:25461/AdnanAhmed26/123450/100
+#EXTINF:-1 tvg-logo="" group-title="Pirates IPTV (HD Server)",B Flix
+http://diamondiptv.ddns.net:25461/AdnanAhmed26/123450/102
+#EXTINF:-1 tvg-logo="" group-title="Pirates IPTV (HD Server)",Channel 24
+http://diamondiptv.ddns.net:25461/AdnanAhmed26/123450/103
+#EXTINF:-1 tvg-logo="" group-title="Pirates IPTV (HD Server)",Colors HD
+http://diamondiptv.ddns.net:25461/AdnanAhmed26/123450/105
+#EXTINF:-1 tvg-logo="" group-title="Pirates IPTV (HD Server)",Colors Bangla HD
+http://diamondiptv.ddns.net:25461/AdnanAhmed26/123450/106
+#EXTINF:-1 tvg-logo="" group-title="Pirates IPTV (HD Server)",Willow Cricket
+http://diamondiptv.ddns.net:25461/AdnanAhmed26/123450/107
+#EXTINF:-1 tvg-logo="" group-title="Pirates IPTV (HD Server)",Discovery Hindi
+http://diamondiptv.ddns.net:25461/AdnanAhmed26/123450/108
+#EXTINF:-1 tvg-logo="" group-title="Pirates IPTV (HD Server)",Discovery Science Hindi
+http://diamondiptv.ddns.net:25461/AdnanAhmed26/123450/109
+#EXTINF:-1 tvg-logo="" group-title="Pirates IPTV (HD Server)",Discovery
+http://diamondiptv.ddns.net:25461/AdnanAhmed26/123450/110
+#EXTINF:-1 tvg-logo="" group-title="Pirates IPTV (HD Server)",Disney Channel
+http://diamondiptv.ddns.net:25461/AdnanAhmed26/123450/111
+#EXTINF:-1 tvg-logo="" group-title="Pirates IPTV (HD Server)",Ekushey TV
+http://diamondiptv.ddns.net:25461/AdnanAhmed26/123450/113
+#EXTINF:-1 tvg-logo="" group-title="Pirates IPTV (HD Server)",Channel 115
+http://diamondiptv.ddns.net:25461/AdnanAhmed26/123450/115
+#EXTINF:-1 tvg-logo="" group-title="Pirates IPTV (HD Server)",Channel 116
+http://diamondiptv.ddns.net:25461/AdnanAhmed26/123450/116
+#EXTINF:-1 tvg-logo="" group-title="Pirates IPTV (HD Server)",Fox HD
+http://diamondiptv.ddns.net:25461/AdnanAhmed26/123450/117
+#EXTINF:-1 tvg-logo="" group-title="Pirates IPTV (HD Server)",Fox Life
+http://diamondiptv.ddns.net:25461/AdnanAhmed26/123450/118
+#EXTINF:-1 tvg-logo="" group-title="Pirates IPTV (HD Server)",Fox Movies Action
+http://diamondiptv.ddns.net:25461/AdnanAhmed26/123450/119
+#EXTINF:-1 tvg-logo="" group-title="Pirates IPTV (HD Server)",Channel 120
+http://diamondiptv.ddns.net:25461/AdnanAhmed26/123450/120
+#EXTINF:-1 tvg-logo="" group-title="Pirates IPTV (HD Server)",Gaan Bangla
+http://diamondiptv.ddns.net:25461/AdnanAhmed26/123450/121
+#EXTINF:-1 tvg-logo="" group-title="Pirates IPTV (HD Server)",Gazi TV
+http://diamondiptv.ddns.net:25461/AdnanAhmed26/123450/122
+#EXTINF:-1 tvg-logo="" group-title="Pirates IPTV (HD Server)",Channel 123
+http://diamondiptv.ddns.net:25461/AdnanAhmed26/123450/123
+#EXTINF:-1 tvg-logo="" group-title="Pirates IPTV (HD Server)",HBO
+http://diamondiptv.ddns.net:25461/AdnanAhmed26/123450/124
+#EXTINF:-1 tvg-logo="" group-title="Pirates IPTV (HD Server)",Channel 127
+http://diamondiptv.ddns.net:25461/AdnanAhmed26/123450/127
+#EXTINF:-1 tvg-logo="" group-title="Pirates IPTV (HD Server)",History TV
+http://diamondiptv.ddns.net:25461/AdnanAhmed26/123450/128
+#EXTINF:-1 tvg-logo="" group-title="Pirates IPTV (HD Server)",Jamuna TV
+http://diamondiptv.ddns.net:25461/AdnanAhmed26/123450/129
+#EXTINF:-1 tvg-logo="" group-title="Pirates IPTV (HD Server)",Channel 131
+http://diamondiptv.ddns.net:25461/AdnanAhmed26/123450/131
+#EXTINF:-1 tvg-logo="" group-title="Pirates IPTV (HD Server)",Channel 132
+http://diamondiptv.ddns.net:25461/AdnanAhmed26/123450/132
+#EXTINF:-1 tvg-logo="" group-title="Pirates IPTV (HD Server)",Channel 133
+http://diamondiptv.ddns.net:25461/AdnanAhmed26/123450/133
+#EXTINF:-1 tvg-logo="" group-title="Pirates IPTV (HD Server)",Channel 134
+http://diamondiptv.ddns.net:25461/AdnanAhmed26/123450/134
+#EXTINF:-1 tvg-logo="" group-title="Pirates IPTV (HD Server)",Channel 135
+http://diamondiptv.ddns.net:25461/AdnanAhmed26/123450/135
+#EXTINF:-1 tvg-logo="" group-title="Pirates IPTV (HD Server)",Nagorik
+http://diamondiptv.ddns.net:25461/AdnanAhmed26/123450/136
+#EXTINF:-1 tvg-logo="" group-title="Pirates IPTV (HD Server)",Nat Geo People
+http://diamondiptv.ddns.net:25461/AdnanAhmed26/123450/137
+#EXTINF:-1 tvg-logo="" group-title="Pirates IPTV (HD Server)",Nat Geo
+http://diamondiptv.ddns.net:25461/AdnanAhmed26/123450/138
+#EXTINF:-1 tvg-logo="" group-title="Pirates IPTV (HD Server)",Nat Geo Wild
+http://diamondiptv.ddns.net:25461/AdnanAhmed26/123450/139
+#EXTINF:-1 tvg-logo="" group-title="Pirates IPTV (HD Server)",NTV
+http://diamondiptv.ddns.net:25461/AdnanAhmed26/123450/142
+#EXTINF:-1 tvg-logo="" group-title="Pirates IPTV (HD Server)",& Xplor HD
+http://diamondiptv.ddns.net:25461/AdnanAhmed26/123450/143
+#EXTINF:-1 tvg-logo="" group-title="Pirates IPTV (HD Server)",Channel 144
+http://diamondiptv.ddns.net:25461/AdnanAhmed26/123450/144
+#EXTINF:-1 tvg-logo="" group-title="Pirates IPTV (HD Server)",RTV
+http://diamondiptv.ddns.net:25461/AdnanAhmed26/123450/145
+#EXTINF:-1 tvg-logo="" group-title="Pirates IPTV (HD Server)",Somoy
+http://diamondiptv.ddns.net:25461/AdnanAhmed26/123450/146
+#EXTINF:-1 tvg-logo="" group-title="Pirates IPTV (HD Server)",Sony Max HD
+http://diamondiptv.ddns.net:25461/AdnanAhmed26/123450/147
+#EXTINF:-1 tvg-logo="" group-title="Pirates IPTV (HD Server)",Cartoon Network
+http://diamondiptv.ddns.net:25461/AdnanAhmed26/123450/148
+#EXTINF:-1 tvg-logo="" group-title="Pirates IPTV (HD Server)",Sony Pix HD
+http://diamondiptv.ddns.net:25461/AdnanAhmed26/123450/149
+#EXTINF:-1 tvg-logo="" group-title="Pirates IPTV (HD Server)",Sony Ten 1
+http://diamondiptv.ddns.net:25461/AdnanAhmed26/123450/150
+#EXTINF:-1 tvg-logo="" group-title="Pirates IPTV (HD Server)",Star Movies HD
+http://diamondiptv.ddns.net:25461/AdnanAhmed26/123450/151
+#EXTINF:-1 tvg-logo="" group-title="Pirates IPTV (HD Server)",Star Plus HD
+http://diamondiptv.ddns.net:25461/AdnanAhmed26/123450/152
+#EXTINF:-1 tvg-logo="" group-title="Pirates IPTV (HD Server)",Star World HD
+http://diamondiptv.ddns.net:25461/AdnanAhmed26/123450/153
+#EXTINF:-1 tvg-logo="" group-title="Pirates IPTV (HD Server)",Channel 154
+http://diamondiptv.ddns.net:25461/AdnanAhmed26/123450/154
+#EXTINF:-1 tvg-logo="" group-title="Pirates IPTV (HD Server)",Channel 155
+http://diamondiptv.ddns.net:25461/AdnanAhmed26/123450/155
+#EXTINF:-1 tvg-logo="" group-title="Pirates IPTV (HD Server)",Channel 156
+http://diamondiptv.ddns.net:25461/AdnanAhmed26/123450/156
+#EXTINF:-1 tvg-logo="" group-title="Pirates IPTV (HD Server)",WB TV
+http://diamondiptv.ddns.net:25461/AdnanAhmed26/123450/157
+#EXTINF:-1 tvg-logo="" group-title="Pirates IPTV (HD Server)",Channel 158
+http://diamondiptv.ddns.net:25461/AdnanAhmed26/123450/158
+#EXTINF:-1 tvg-logo="" group-title="Pirates IPTV (HD Server)",Channel 159
+http://diamondiptv.ddns.net:25461/AdnanAhmed26/123450/159
+#EXTINF:-1 tvg-logo="" group-title="Pirates IPTV (HD Server)",Channel 160
+http://diamondiptv.ddns.net:25461/AdnanAhmed26/123450/160
+#EXTINF:-1 tvg-logo="" group-title="Pirates IPTV (HD Server)",Star Gold HD
+http://diamondiptv.ddns.net:25461/AdnanAhmed26/123450/161
+#EXTINF:-1 tvg-logo="" group-title="Pirates IPTV (HD Server)",Channel 162
+http://diamondiptv.ddns.net:25461/AdnanAhmed26/123450/162
+#EXTINF:-1 tvg-logo="" group-title="Pirates IPTV (HD Server)",MTV
+http://diamondiptv.ddns.net:25461/AdnanAhmed26/123450/163
+#EXTINF:-1 tvg-logo="" group-title="Pirates IPTV (HD Server)",Channel 164
+http://diamondiptv.ddns.net:25461/AdnanAhmed26/123450/164
+#EXTINF:-1 tvg-logo="" group-title="Pirates IPTV (HD Server)",Channel 165
+http://diamondiptv.ddns.net:25461/AdnanAhmed26/123450/165
+#EXTINF:-1 tvg-logo="" group-title="Pirates IPTV (HD Server)",Channel 167
+http://diamondiptv.ddns.net:25461/AdnanAhmed26/123450/167
+#EXTINF:-1 tvg-logo="" group-title="Pirates IPTV (HD Server)",Channel 168
+http://diamondiptv.ddns.net:25461/AdnanAhmed26/123450/168
+#EXTINF:-1 tvg-logo="" group-title="Pirates IPTV (HD Server)",Channel 169
+http://diamondiptv.ddns.net:25461/AdnanAhmed26/123450/169
+#EXTINF:-1 tvg-logo="" group-title="Pirates IPTV (HD Server)",Channel 170
+http://diamondiptv.ddns.net:25461/AdnanAhmed26/123450/170
+#EXTINF:-1 tvg-logo="" group-title="Pirates IPTV (HD Server)",Channel 171
+http://diamondiptv.ddns.net:25461/AdnanAhmed26/123450/171
+#EXTINF:-1 tvg-logo="" group-title="Pirates IPTV (HD Server)",Channel 173
+http://diamondiptv.ddns.net:25461/AdnanAhmed26/123450/173
+#EXTINF:-1 tvg-logo="" group-title="Pirates IPTV (HD Server)",Fox Movies
+http://diamondiptv.ddns.net:25461/AdnanAhmed26/123450/174
+#EXTINF:-1 tvg-logo="" group-title="Pirates IPTV (HD Server)",HBO Hits
+http://diamondiptv.ddns.net:25461/AdnanAhmed26/123450/175
+#EXTINF:-1 tvg-logo="" group-title="Pirates IPTV (HD Server)",Desh TV
+http://diamondiptv.ddns.net:25461/AdnanAhmed26/123450/176
+#EXTINF:-1 tvg-logo="" group-title="Pirates IPTV (HD Server)",Discovery Kids
+http://diamondiptv.ddns.net:25461/AdnanAhmed26/123450/177
+#EXTINF:-1 tvg-logo="" group-title="Pirates IPTV (HD Server)",B4U Kadak
+http://diamondiptv.ddns.net:25461/AdnanAhmed26/123450/180
+#EXTINF:-1 tvg-logo="" group-title="Pirates IPTV (HD Server)",Zee Action
+http://diamondiptv.ddns.net:25461/AdnanAhmed26/123450/181
+#EXTINF:-1 tvg-logo="" group-title="Pirates IPTV (HD Server)",Channel 182
+http://diamondiptv.ddns.net:25461/AdnanAhmed26/123450/182
+#EXTINF:-1 tvg-logo="" group-title="Pirates IPTV (HD Server)",Zing
+http://diamondiptv.ddns.net:25461/AdnanAhmed26/123450/183
+#EXTINF:-1 tvg-logo="" group-title="Pirates IPTV (HD Server)",Sony TV HD
+http://diamondiptv.ddns.net:25461/AdnanAhmed26/123450/184
+#EXTINF:-1 tvg-logo="" group-title="Pirates IPTV (HD Server)",Sony Six
+http://diamondiptv.ddns.net:25461/AdnanAhmed26/123450/185
+#EXTINF:-1 tvg-logo="" group-title="Pirates IPTV (HD Server)",Channel 186
+http://diamondiptv.ddns.net:25461/AdnanAhmed26/123450/186
+#EXTINF:-1 tvg-logo="" group-title="Pirates IPTV (HD Server)",Zee Bollywood
+http://diamondiptv.ddns.net:25461/AdnanAhmed26/123450/189
+#EXTINF:-1 tvg-logo="" group-title="Pirates IPTV (HD Server)",Sony Aath
+http://diamondiptv.ddns.net:25461/AdnanAhmed26/123450/191
+#EXTINF:-1 tvg-logo="" group-title="Pirates IPTV (HD Server)",Zee Bangla
+http://diamondiptv.ddns.net:25461/AdnanAhmed26/123450/192
+#EXTINF:-1 tvg-logo="" group-title="Pirates IPTV (HD Server)",Star Jalsha HD
+http://diamondiptv.ddns.net:25461/AdnanAhmed26/123450/193
+#EXTINF:-1 tvg-logo="" group-title="Pirates IPTV (HD Server)",Channel 194
+http://diamondiptv.ddns.net:25461/AdnanAhmed26/123450/194
+#EXTINF:-1 tvg-logo="" group-title="Pirates IPTV (HD Server)",Sony Ten 2
+http://diamondiptv.ddns.net:25461/AdnanAhmed26/123450/196
+#EXTINF:-1 tvg-logo="" group-title="Pirates IPTV (HD Server)",Sony Ten 3
+http://diamondiptv.ddns.net:25461/AdnanAhmed26/123450/197
+#EXTINF:-1 tvg-logo="" group-title="Pirates IPTV (HD Server)",Star Sports Select 2 HD
+http://diamondiptv.ddns.net:25461/AdnanAhmed26/123450/198
+#EXTINF:-1 tvg-logo="" group-title="Pirates IPTV (HD Server)",Jalsha Movies HD
+http://diamondiptv.ddns.net:25461/AdnanAhmed26/123450/199
+#EXTINF:-1 tvg-logo="" group-title="Pirates IPTV (HD Server)",Nick
+http://diamondiptv.ddns.net:25461/AdnanAhmed26/123450/201
+#EXTINF:-1 tvg-logo="" group-title="Pirates IPTV (HD Server)",Kids 1
+http://diamondiptv.ddns.net:25461/AdnanAhmed26/123450/202
+#EXTINF:-1 tvg-logo="" group-title="Pirates IPTV (HD Server)",ATN Bangla
+http://diamondiptv.ddns.net:25461/AdnanAhmed26/123450/204
+#EXTINF:-1 tvg-logo="" group-title="Pirates IPTV (HD Server)",Deepto
+http://diamondiptv.ddns.net:25461/AdnanAhmed26/123450/205
+#EXTINF:-1 tvg-logo="" group-title="Pirates IPTV (HD Server)",Colors Cineplex HD
+http://diamondiptv.ddns.net:25461/AdnanAhmed26/123450/206
+#EXTINF:-1 tvg-logo="" group-title="Pirates IPTV (HD Server)",Ristey Cineplex
+http://diamondiptv.ddns.net:25461/AdnanAhmed26/123450/207
+#EXTINF:-1 tvg-logo="" group-title="Pirates IPTV (HD Server)",Channel 211
+http://diamondiptv.ddns.net:25461/AdnanAhmed26/123450/211
+#EXTINF:-1 tvg-logo="" group-title="Pirates IPTV (HD Server)",Star Sports Select 1 HD
+http://diamondiptv.ddns.net:25461/AdnanAhmed26/123450/212
+#EXTINF:-1 tvg-logo="" group-title="Pirates IPTV (HD Server)",Channel 214
+http://diamondiptv.ddns.net:25461/AdnanAhmed26/123450/214
+#EXTINF:-1 tvg-logo="" group-title="Pirates IPTV (HD Server)",Channel 215
+http://diamondiptv.ddns.net:25461/AdnanAhmed26/123450/215
+#EXTINF:-1 tvg-logo="" group-title="Pirates IPTV (HD Server)",Channel 216
+http://diamondiptv.ddns.net:25461/AdnanAhmed26/123450/216
+#EXTINF:-1 tvg-logo="" group-title="Pirates IPTV (HD Server)",Zee TV
+http://diamondiptv.ddns.net:25461/AdnanAhmed26/123450/217
+#EXTINF:-1 tvg-logo="" group-title="Pirates IPTV (HD Server)",Channel 218
+http://diamondiptv.ddns.net:25461/AdnanAhmed26/123450/218
+#EXTINF:-1 tvg-logo="" group-title="Pirates IPTV (HD Server)",ATN News
+http://diamondiptv.ddns.net:25461/AdnanAhmed26/123450/221
+#EXTINF:-1 tvg-logo="" group-title="Pirates IPTV (HD Server)",Star Movies Select HD
+http://diamondiptv.ddns.net:25461/AdnanAhmed26/123450/223
+#EXTINF:-1 tvg-logo="" group-title="Pirates IPTV (HD Server)",Channel 632
+http://diamondiptv.ddns.net:25461/AdnanAhmed26/123450/632
+#EXTINF:-1 tvg-logo="" group-title="Pirates IPTV (HD Server)",Channel 633
+http://diamondiptv.ddns.net:25461/AdnanAhmed26/123450/633
+#EXTINF:-1 tvg-logo="" group-title="Pirates IPTV (HD Server)",& Flix HD
+http://diamondiptv.ddns.net:25461/AdnanAhmed26/123450/634
+#EXTINF:-1 tvg-logo="" group-title="Pirates IPTV (HD Server)",Channel 635
+http://diamondiptv.ddns.net:25461/AdnanAhmed26/123450/635
+#EXTINF:-1 tvg-logo="" group-title="Pirates IPTV (HD Server)",& TV HD
+http://diamondiptv.ddns.net:25461/AdnanAhmed26/123450/636
+#EXTINF:-1 tvg-logo="" group-title="Pirates IPTV (HD Server)",Zee Cafe HD
+http://diamondiptv.ddns.net:25461/AdnanAhmed26/123450/637
+#EXTINF:-1 tvg-logo="" group-title="Pirates IPTV (HD Server)",& Picture HD
+http://diamondiptv.ddns.net:25461/AdnanAhmed26/123450/638
+#EXTINF:-1 tvg-logo="" group-title="Pirates IPTV (HD Server)",Bein Sports 1
+http://diamondiptv.ddns.net:25461/AdnanAhmed26/123450/640
+#EXTINF:-1 tvg-logo="" group-title="Pirates IPTV (HD Server)",Bein Sports 2
+http://diamondiptv.ddns.net:25461/AdnanAhmed26/123450/641
+#EXTINF:-1 tvg-logo="" group-title="Pirates IPTV (HD Server)",Channel 642
+http://diamondiptv.ddns.net:25461/AdnanAhmed26/123450/642
+#EXTINF:-1 tvg-logo="" group-title="Pirates IPTV (HD Server)",Channel I
+http://diamondiptv.ddns.net:25461/AdnanAhmed26/123450/643
+#EXTINF:-1 tvg-logo="" group-title="Pirates IPTV (HD Server)",Sangeet Bangla
+http://diamondiptv.ddns.net:25461/AdnanAhmed26/123450/644
+#EXTINF:-1 tvg-logo="" group-title="Pirates IPTV (HD Server)",Duronto TV
+http://diamondiptv.ddns.net:25461/AdnanAhmed26/123450/645
+#EXTINF:-1 tvg-logo="" group-title="Pirates IPTV (HD Server)",DBC news
+http://diamondiptv.ddns.net:25461/AdnanAhmed26/123450/646
+#EXTINF:-1 tvg-logo="" group-title="Pirates IPTV (HD Server)",MY TV
+http://diamondiptv.ddns.net:25461/AdnanAhmed26/123450/647
+#EXTINF:-1 tvg-logo="" group-title="Pirates IPTV (HD Server)",Independent
+http://diamondiptv.ddns.net:25461/AdnanAhmed26/123450/648
+#EXTINF:-1 tvg-logo="" group-title="Pirates IPTV (HD Server)",RTV Music
+http://diamondiptv.ddns.net:25461/AdnanAhmed26/123450/650
+#EXTINF:-1 tvg-logo="" group-title="Pirates IPTV (HD Server)",Channel 651
+http://diamondiptv.ddns.net:25461/AdnanAhmed26/123450/651
+#EXTINF:-1 tvg-logo="" group-title="Pirates IPTV (HD Server)",Music India
+http://diamondiptv.ddns.net:25461/AdnanAhmed26/123450/653
+#EXTINF:-1 tvg-logo="" group-title="Pirates IPTV (HD Server)",Mastii
+http://diamondiptv.ddns.net:25461/AdnanAhmed26/123450/654
+#EXTINF:-1 tvg-logo="" group-title="Pirates IPTV (HD Server)",Jhanjar music
+http://diamondiptv.ddns.net:25461/AdnanAhmed26/123450/655
+#EXTINF:-1 tvg-logo="" group-title="Pirates IPTV (HD Server)",MTV Beats
+http://diamondiptv.ddns.net:25461/AdnanAhmed26/123450/656
+#EXTINF:-1 tvg-logo="" group-title="Pirates IPTV (HD Server)",Sony Sab HD
+http://diamondiptv.ddns.net:25461/AdnanAhmed26/123450/657
+#EXTINF:-1 tvg-logo="" group-title="Pirates IPTV (HD Server)",Colors Infinity
+http://diamondiptv.ddns.net:25461/AdnanAhmed26/123450/658
+#EXTINF:-1 tvg-logo="" group-title="Pirates IPTV (HD Server)",Star Sports 1 Hindi
+http://diamondiptv.ddns.net:25461/AdnanAhmed26/123450/661
+#EXTINF:-1 tvg-logo="" group-title="Pirates IPTV (HD Server)",MTV
+http://diamondiptv.ddns.net:25461/AdnanAhmed26/123450/662
+#EXTINF:-1 tvg-logo="" group-title="Pirates IPTV (HD Server)",BTV World
+http://diamondiptv.ddns.net:25461/AdnanAhmed26/123450/664
+#EXTINF:-1 tvg-logo="" group-title="Pirates IPTV (HD Server)",Bangla TV
+http://diamondiptv.ddns.net:25461/AdnanAhmed26/123450/665
+#EXTINF:-1 tvg-logo="" group-title="Pirates IPTV (HD Server)",Channel 19
+http://diamondiptv.ddns.net:25461/AdnanAhmed26/123450/666
+#EXTINF:-1 tvg-logo="" group-title="Pirates IPTV (HD Server)",Zee Bangla Cinema
+http://diamondiptv.ddns.net:25461/AdnanAhmed26/123450/667
+#EXTINF:-1 tvg-logo="" group-title="Pirates IPTV (HD Server)",Channel 668
+http://diamondiptv.ddns.net:25461/AdnanAhmed26/123450/668
+#EXTINF:-1 tvg-logo="" group-title="Pirates IPTV (HD Server)",Channel 669
+http://diamondiptv.ddns.net:25461/AdnanAhmed26/123450/669
+#EXTINF:-1 tvg-logo="" group-title="Pirates IPTV (HD Server)",Channel 670
+http://diamondiptv.ddns.net:25461/AdnanAhmed26/123450/670
+#EXTINF:-1 tvg-logo="" group-title="Pirates IPTV (HD Server)",Channel 671
+http://diamondiptv.ddns.net:25461/AdnanAhmed26/123450/671
+#EXTINF:-1 tvg-logo="" group-title="Pirates IPTV (HD Server)",Channel 672
+http://diamondiptv.ddns.net:25461/AdnanAhmed26/123450/672
+#EXTINF:-1 tvg-logo="" group-title="Pirates IPTV (HD Server)",Channel 673
+http://diamondiptv.ddns.net:25461/AdnanAhmed26/123450/673
+#EXTINF:-1 tvg-logo="" group-title="Pirates IPTV (HD Server)",Channel 682
+http://diamondiptv.ddns.net:25461/AdnanAhmed26/123450/682
+#EXTINF:-1 tvg-logo="" group-title="Pirates IPTV (HD Server)",KIX
+http://diamondiptv.ddns.net:25461/AdnanAhmed26/123450/683
+#EXTINF:-1 tvg-logo="" group-title="Pirates IPTV (HD Server)",Channel 685
+http://diamondiptv.ddns.net:25461/AdnanAhmed26/123450/685
+#EXTINF:-1 tvg-logo="" group-title="Pirates IPTV (HD Server)",Channel 686
+http://diamondiptv.ddns.net:25461/AdnanAhmed26/123450/686
+#EXTINF:-1 tvg-logo="" group-title="Pirates IPTV (HD Server)",Sony BBC Earth HD
+http://diamondiptv.ddns.net:25461/AdnanAhmed26/123450/687
+#EXTINF:-1 tvg-logo="" group-title="Pirates IPTV (HD Server)",TLC HD
+http://diamondiptv.ddns.net:25461/AdnanAhmed26/123450/688
+#EXTINF:-1 tvg-logo="" group-title="Pirates IPTV (HD Server)",Outdoor Channel
+http://diamondiptv.ddns.net:25461/AdnanAhmed26/123450/691
+#EXTINF:-1 tvg-logo="" group-title="Pirates IPTV (HD Server)",Channel 692
+http://diamondiptv.ddns.net:25461/AdnanAhmed26/123450/692
+#EXTINF:-1 tvg-logo="" group-title="Pirates IPTV (HD Server)",BBC Lifestyle
+http://diamondiptv.ddns.net:25461/AdnanAhmed26/123450/693
+#EXTINF:-1 tvg-logo="" group-title="Pirates IPTV (HD Server)",Channel 694
+http://diamondiptv.ddns.net:25461/AdnanAhmed26/123450/694
+#EXTINF:-1 tvg-logo="" group-title="Pirates IPTV (HD Server)",CDiscovery Food
+http://diamondiptv.ddns.net:25461/AdnanAhmed26/123450/695
+#EXTINF:-1 tvg-logo="" group-title="Pirates IPTV (HD Server)",Channel 697
+http://diamondiptv.ddns.net:25461/AdnanAhmed26/123450/697
+#EXTINF:-1 tvg-logo="" group-title="Pirates IPTV (HD Server)",Channel 698
+http://diamondiptv.ddns.net:25461/AdnanAhmed26/123450/698
+#EXTINF:-1 tvg-logo="" group-title="Pirates IPTV (HD Server)",Channel 699
+http://diamondiptv.ddns.net:25461/AdnanAhmed26/123450/699
