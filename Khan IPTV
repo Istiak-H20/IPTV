@@ -467,7 +467,7 @@ https://rhridoy136.shortcm.li/aljazeera.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eyAInC9.png" group-title="IPL Live",Gazi TV
 http://tiny.cc/ipl-m3u8
-#EXTINF:-1 tvg-logo="hhttps://i.imgur.com/eyAInC9.png" group-title="IPL Live",Gazi TV (2)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eyAInC9.png" group-title="IPL Live",Gazi TV (2)
 http://diamondiptv.ddns.net:25461/AdnanAhmed26/123450/122
 #EXTINF:-1 tvg-logo="https://www.nsbpictures.com/wp-content/uploads/2019/03/ipl-logo.png" group-title="IPL Live",Live 1
 http://diamondiptv.ddns.net:25461/AdnanAhmed26/123450/661
