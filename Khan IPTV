@@ -159,6 +159,8 @@ http://103.80.70.59/hls/stream13.m3u8
 http://tjszdhm3.tvclub.xyz/iptv/69AWBEYGGS5VZ6/216/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XITYSY0.png" group-title="English" ,Animal Planet HD (Hindi)
 https://itvorigin.multitvsolution.com/idvo/aphdhindi.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XITYSY0.png" group-title="English" ,Animal Planet HD 
+http://tv2.ebox.live:8080/live/animale-planet.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DiHUL9p.png" group-title="English" ,Outdoor HD 
 https://livecdn.fptplay.net/world/outdoorfhd_hls.smil/chunklist_b450000.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/T1vgYzE.png" group-title="English" ,BBC Earth
@@ -173,6 +175,8 @@ https://www.livedoomovies.com/02_AXNHD_720p/chunklist.m3u8
 http://tv2.ebox.live:8080/live/hbo.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nOiPsyr.png" group-title="English" ,HBO Hits
 https://raw.githubusercontent.com/amarnettv/amarnettv.github.io/master/channels/hbohits.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LJWxJjZ.png" group-title="English" ,Colors Infinity HD
+http://tv2.ebox.live:8080/live/color-Infinity.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/M0bRPMs.png" group-title="English" ,Star Movies HD
 http://tv2.ebox.live:8080/live/star-movies.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/M0bRPMs.png" group-title="English" ,Star Movies HD (2)
@@ -505,6 +509,8 @@ http://tjszdhm3.tvclub.xyz/iptv/69AWBEYGGS5VZ6/2508/index.m3u
 https://ipl-live.s3.ap-south-1.amazonaws.com/pkcast123.me_1/index2.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Sports",Star Sprots Select 2 HD
 http://103.205.133.48/hls/chss2.m3u8
+#EXTINF:-1 tvg-logo="https://ttensports.com/wp-content/uploads/2021/01/SONY-LIV-LOGO-1.png" group-title="Sports",Sony LIV
+https://ott.durbinlive.com/hls/sonyliv.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Sports",beIN Sports 3 HD QA
 http://tjszdhm3.tvclub.xyz/iptv/69AWBEYGGS5VZ6/6124/index.m3u
 #EXTINF:-1 tvg-logo="" group-title="Sports",Bein Sports 3 HD FR
@@ -515,6 +521,70 @@ http://tjszdhm3.tvclub.xyz/iptv/69AWBEYGGS5VZ6/2478/index.m3u
 http://tjszdhm3.tvclub.xyz/iptv/69AWBEYGGS5VZ6/2479/index.m3u
 #EXTINF:-1 tvg-logo="" group-title="Sports",Sky Sport Austria 1 HD DE
 http://tjszdhm3.tvclub.xyz/iptv/69AWBEYGGS5VZ6/2492/index.m3u
+#EXTINF:-1 tvg-id="(no tvg-id) tvg-logo="" group-title="Sports",Sony Six HD Ebox
+http://tv2.ebox.live:8080/live/sonysix.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id) tvg-logo="" group-title="Sports",Sony Six HD
+http://103.102.27.172:6464/Channel-3/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id) tvg-logo="" group-title="Sports",Sony ESPN Ebox
+http://tv2.ebox.live:8080/live/sonyespn.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id) tvg-logo="" group-title="Sports",Sony Ten 1 HD Ebox
+http://tv2.ebox.live:8080/live/sonyten-1.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id) tvg-logo="" group-title="Sports",Sony Ten 1 
+http://103.102.27.172:6464/Channel-2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id) tvg-logo="" group-title="Sports",Sony Ten 2 HD 
+http://tv2.ebox.live:8080/live/sonyten-2.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id) tvg-logo="" group-title="Sports",Sony Ten 3 HD Ebox
+http://tv2.ebox.live:8080/live/sonyten-3.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id) tvg-logo="" group-title="Sports",Sony Ten 3 2
+http://172.16.50.2:8081/live/ten3/chunks.m3u8?nimblesessionid=213566
+#EXTINF:-1 tvg-id="(no tvg-id) tvg-logo="" group-title="Sports",Ten Sports 
+http://tv2.ebox.live:8080/live/ten-sports.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id) tvg-logo="" group-title="Sports",Willow Cricket Ebox
+http://tv2.ebox.live:8080/live/willow-cric.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id) tvg-logo="" group-title="Sports",PTV Sports
+http://tv2.ebox.live:8080/live/ptvsports.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id) tvg-logo="" group-title="Sports",Sky Sports Cricket
+http://tv2.ebox.live:8080/live/Sky-Sports-cric.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id) tvg-logo="" group-title="Sports",Sky Sports Mix
+http://tv2.ebox.live:8080/live/Sky-Sports-Mix.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id) tvg-logo="" group-title="Sports",Dsport
+http://172.32.1.88:1935/tvprogram/DSPORTS/chunklist_w142347954.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id) tvg-logo="" group-title="Sports",Bein Sports 1 HD
+http://tv2.ebox.live:8080/live/bein-sports-1.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id) tvg-logo="" group-title="Sports",Bein Sports 2 HD
+http://tv2.ebox.live:8080/live/bein-sports-2.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id) tvg-logo="" group-title="Sports",Bein Sports 3 HD
+http://tv2.ebox.live:8080/live/bein-sports-eng-11.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id) tvg-logo="" group-title="Sports",Bein Sports 11 HD
+http://tv2.ebox.live:8080/live/bein-sports-eng-11.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id) tvg-logo="" group-title="Sports",Bein Sports 1 HD FR
+http://tv2.ebox.live:8080/live/bein-sports-fr-1.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id) tvg-logo="" group-title="Sports",Ten 1
+http://10.16.100.207:8082/sports/ten1_720.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id) tvg-logo="" group-title="Sports",Star Sports 1 HD
+http://tv2.ebox.live:8080/live/starsports-1.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id) tvg-logo="" group-title="Sports",Star Sports 1 HD 
+http://172.32.1.88:1935/tvprogram/STAR-SPORTS-1/chunklist_w1937975903.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id) tvg-logo="" group-title="Sports",Star Sports 1 HD Hindi
+http://tv2.ebox.live:8080/live/starsports-1-hind.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id) tvg-logo="" group-title="Sports",Star Sports 2 HD
+http://tv2.ebox.live:8080/live/starsportshd-2.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id) tvg-logo="" group-title="Sports",Star Sports 2
+http://10.16.100.207:8082/sports/starsports2.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id) tvg-logo="" group-title="Sports",Star Sports Sel 1 HD
+http://tv2.ebox.live:8080/live/starsportsselect-1.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id) tvg-logo="" group-title="Sports",Star Sports Sel 1
+http://10.16.100.207:8082/sports/starsports_select1.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id) tvg-logo="" group-title="Sports",Star Sports Sel 1
+http://172.32.1.88:1935/tvprogram/STAR-SPORTS-SELECT1/chunklist_w959005046.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id) tvg-logo="" group-title="Sports",Star Sports Sel 2 hd
+http://172.32.1.88:1935/tvprogram/STAR-SPORTS-SELECT-2/chunklist_w696659342.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id) tvg-logo="" group-title="Sports",T Sports Ebox
+http://tv2.ebox.live:8080/live/ex-titash2.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id) tvg-logo="" group-title="Sports",T Sports
+http://10.16.100.207:8082/sports/sportst.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id) tvg-logo="" group-title="Sports",T Sports 2
+http://10.16.100.201/hindi/sportsT.m3u8
 
 
 
