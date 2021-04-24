@@ -320,87 +320,6 @@ http://103.205.133.21/hls/sonypix.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/IEwWaEN.png" group-title="Radiant IPTV",9X Music
 http://103.205.133.20/hls/9xm.m3u8
 
- 
- 
- 
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/h5FhOWT.png" group-title="Family IPTV",Ananda TV
-https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/anandatv.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/ATN_Bangla.svg/1200px-ATN_Bangla.svg.png" group-title="Family IPTV",ATN Bangla
-https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/atnbd-8-org.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/v9PqrCG.png" group-title="Family IPTV",ATN News
-https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/atnws-sg.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/K43LsMQ.png" group-title="Family IPTV",Bangla TV HD
-https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/banglatvhd.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/HX8SSDA.png" group-title="Family IPTV",Bangla Vision 
-https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/banglav000.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="http://bijoy.tv/wp-content/uploads/2020/08/logo.png" group-title="Family IPTV",Bijoy TV HD
-https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/bijoy00.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c7/Boishakhi_TV_logo.svg/400px-Boishakhi_TV_logo.svg.png" group-title="Family IPTV",Boishakhi TV  
-https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/boishakhitv-org.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Channel24logo.svg/120px-Channel24logo.svg.png" group-title="Family IPTV",Channel 24  
-https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/channel24-sg-e8e.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="http://www.channelninebd.tv/channel9/images/logo.png" group-title="Family IPTV",Channel 9 HD  
-https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/channel9hd.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/88/Channel-i.svg/384px-Channel-i.svg.png" group-title="Family IPTV",Channel I HD
-https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/channeli-8-org.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/djAX8Rc.png" group-title="Family IPTV",DBC News HD  
-https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/dbcnews.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="http://www.duronto.tv/global/admin/images/setting/logo2.png" group-title="Family IPTV",Duronto TV HD
-http://103.102.136.106:8080/cmcltv/duronto_th.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/i8T9qQs.png" group-title="Family IPTV",Ekattor TV HD
-http://103.102.136.106:8080/cmcltv/ekator.m3u8
-#EXTINF:-1 tvg-logo="https://www.independent24.com/assets/img/independent_tv.png" group-title="Family IPTV",Independent TV  
-https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/independent-8-org.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="http://thedailynewnation.com/library/1396623976_0.jpg" group-title="Family IPTV",Jamuna TV 
-http://103.205.133.20/hls/jamunatv.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Mohona_Logo.JPG/230px-Mohona_Logo.JPG" group-title="Family IPTV",Mohona TV
-https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/mohonatv00000223232244556633.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="http://mytvbd.tv/wp-content/uploads/2020/11/mytv_logo-300x163.png" group-title="Family IPTV",My TV HD
-https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/mytv-up-off.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/mn88b34.png" group-title="Family IPTV",News 24 HD
-https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/news24local.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://rtvbd.tv/templates/rtv/img/logo.png" group-title="Family IPTV",RTV HD  
-https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/rtv-sg.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/15/SA_TV_Logo.png" group-title="Family IPTV",SA TV HD
-https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/satvoff5666.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/Somoy_TV_logo.png" group-title="Family IPTV",Somoy TV 
-https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/somoyt000011226615544544.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_548/PORTRAIT/rJOw77VW.png" group-title="Family IPTV",& Picture
-https://y5w8j4a9.ssl.hwcdn.net/andpicssd/index.m3u8
-#EXTINF:-1 tvg-logo="https://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_548/PORTRAIT/rJOw77VW.png" group-title="Family IPTV",& Picture HD
-https://y5w8j4a9.ssl.hwcdn.net/andpicshd/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ldXaLJK.png" group-title="Family IPTV",Zeee Cinema HD
-https://y5w8j4a9.ssl.hwcdn.net/zcinemahd/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9SYqIRU.png" group-title="Family IPTV",Zeee TV SD
-http://cv.khushitv.xyz/channels.php?c=zeetvhd&e=.m3u8
-#EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Dabangg.png" group-title="Family IPTV",Dabaang
-http://m-c01-j2apps.s.llnwi.net/hls/0950.DabanggTV.in_480p/index.m3u8
-#EXTINF:-1 tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeeanmolcinema/list/386x386/09zeeanmolcinemazeeanmolci.png" group-title="Family IPTV",Zee Anmol Cinema
-https://y5w8j4a9.ssl.hwcdn.net/zanmolcnm/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/RmS55kU.png" group-title="Family IPTV",Zingg HD
-https://y5w8j4a9.ssl.hwcdn.net/zing/tracks-v2a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/JpYDV2G/unnamed-removebg-preview-1.png" group-title="Family IPTV",Music Masti
-http://103.199.160.85/Content/masthi/Live/Channel(Masthi)/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/2BPz1tU.jpg" group-title="Family IPTV",Orange Bangla  
-https://itvorigin.multitvsolution.com/idvo/orangetv.m3u8
-#EXTINF:-1 tvg-logo="https://www.sangeetbangla.com/wp-content/uploads/2017/05/sangeet-bangla-logo-small.png" group-title="Family IPTV",Sangeet Bangla  
-http://103.205.133.20/hls/sangeetbangla.m3u8
-#EXTINF:-1 tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeeaction/list/386x386/09zeeactionzeeaction.png" group-title="Family IPTV",Zee Action
-https://y5w8j4a9.ssl.hwcdn.net/action/tracks-v1a1/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/M0bRPMs.png" group-title="Family IPTV",Star Movies HD
-http://pn.tvott.info:80/307225531434/307225531434/78917
-#EXTINF:-1 tvg-logo="https://i.imgur.com/M0bRPMs.png" group-title="Family IPTV",Star Movies HD [2]
-http://otv.ftpbd.net/streams/125/index.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.freelogovectors.net/wp-content/uploads/2016/12/al-jazeera-logo.png" group-title="Family IPTV",Al Jazeera HD
-https://rhridoy136.shortcm.li/aljazeera.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="Family IPTV",T Sports  
-http://103.133.142.51/hls/eflix/YNLCM68CPfu1tCxllTrsJA/1614780249/bd_t_sports.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="Family IPTV",T Sports 
-http://otv.ftpbd.net/streams/108/index.m3u8
-
-
-
 
 
 
@@ -466,6 +385,8 @@ https://rhridoy136.shortcm.li/shomoytv.m3u8
 https://rhridoy136.shortcm.li/titashsports.m3u8
 #EXTINF:0 tvg-logo="https://cdn.freelogovectors.net/wp-content/uploads/2016/12/al-jazeera-logo.png" group-title="Ridoy IPTV",Al Jazeera
 https://rhridoy136.shortcm.li/aljazeera.m3u8
+
+
 
 
 
@@ -1048,3 +969,67 @@ http://diamondiptv.ddns.net:25461/AdnanAhmed26/123450/697
 http://diamondiptv.ddns.net:25461/AdnanAhmed26/123450/698
 #EXTINF:-1 tvg-logo="" group-title="Pirates IPTV (HD Server)",Channel 699
 http://diamondiptv.ddns.net:25461/AdnanAhmed26/123450/699
+
+
+
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/D6jGMpw.jpg" group-title="StarShare IPTV",Star Jalsha HD
+http://starshare.live:8080/live/738323/277337/8540.ts
+#EXTINF:0 tvg-logo="https://i.imgur.com/hAmFkQB.jpg" group-title="StarShare IPTV",Jalsha Movies HD
+http://starshare.live:8080/live/738323/277337/425.ts
+#EXTINF:0 tvg-logo="https://i.imgur.com/fLLse5Q.jpg" group-title="StarShare IPTV",Zee Bangla HD [Opt]
+http://starshare.live:8080/live/738323/277337/435.ts
+#EXTINF:0 tvg-logo="https://i.imgur.com/09phOKV.jpg" group-title="StarShare IPTV",Colors Bangla HD
+http://starshare.live:8080/live/738323/277337/23306.ts
+#EXTINF:0 tvg-logo="https://origindev-static.sonyliv.com/UI_icons/SET_india_HD.png" group-title="StarShare IPTV",Sony HD
+http://starshare.live:8080/live/738323/277337/224.ts
+#EXTINF:0 tvg-logo="https://data.apksum.com/64/in.com.sonymaxmobiletv/2.0.0/icon.png" group-title="StarShare IPTV",Sony Max HD
+http://starshare.live:8080/live/738323/277337/151.ts
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-_3_0i-y26m0/Tm5wVcNv-VI/AAAAAAAACIA/GJ-OHQR67ow/s500/StarGold+logo+2011.jpg" group-title="StarShare IPTV",STAR Gold HD
+http://starshare.live:8080/live/738323/277337/194.ts
+#EXTINF:0 tvg-logo="https://www.exchange4media.com/news-photo/98204-xplore.jpg" group-title="StarShare IPTV",And Xplore HD
+http://starshare.live:8080/live/738323/277337/4082.ts
+#EXTINF:0 tvg-logo="https://www.medianews4u.com/wp-content/uploads/2017/09/utv-movies-1-2-2.jpg" group-title="StarShare IPTV",UTV Movies
+#http://starshare.live:8080/live/738323/277337/972.ts
+#EXTINF:-1 tvg-logo="https://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_10000000050850000/PORTRAIT/hLnucnRV.png" group-title="StarShare IPTV",Colors Cineplex
+#http://starshare.live:8080/live/738323/277337/867.ts
+#EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/22/Star_Utsav_logo.jpg" group-title="StarShare IPTV",Star Utsav
+http://starshare.live:8080/live/738323/277337/6206.ts
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/40/Star_Bharat_Official_Logo.jpg" group-title="StarShare IPTV",Star Bharaat HD
+http://starshare.live:8080/live/738323/277337/199.ts
+#EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/10/Sony_Pal.jpg" group-title="StarShare IPTV",Sony Pal
+http://starshare.live:8080/live/738323/277337/6627.ts
+#EXTINF:0 tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeetvhd/list/386x386/09zeetvhdzeetvhd.png" group-title="StarShare IPTV",Zee TV HD
+http://starshare.live:8080/live/738323/277337/161.ts
+#EXTINF:0 tvg-logo="https://sgp1.digitaloceanspaces.com/quickcompany/trademark/912d9aff2264860b.jpg" group-title="StarShare IPTV",Star Plus HD
+http://starshare.live:8080/live/738323/277337/167.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5f/Sony_PIX.png" group-title="StarShare IPTV",Sony Pix
+#http://starshare.live:8080/live/738323/277337/147.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/y0P8mgs.jpg" group-title="StarShare IPTV",Star Movies
+http://starshare.live:8080/live/738323/277337/9384.ts
+#EXTINF:0 tvg-logo="https://download.logo.wine/logo/UTV_Software_Communications/UTV_Software_Communications-Logo.wine.png" group-title="StarShare IPTV",UTV HD
+http://starshare.live:8080/live/738323/277337/1382.ts
+#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/f2/96/43/f296437b67192658e1a9b095b2f6a063.jpg" group-title="StarShare IPTV",MTV India
+http://starshare.live:8080/live/738323/277337/4029.ts
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f7/Fox_Life_pt_logo.PNG" group-title="StarShare IPTV",Fox Life Hindi
+http://starshare.live:8080/live/738323/277337/2115.ts
+#EXTINF:-1 tvg-logo="https://origindev-static.sonyliv.com/UI_icons/Sony_Yay.png" group-title="StarShare IPTV",Sony YAY
+http://starshare.live:8080/live/738323/277337/204.ts
+#EXTINF:-1 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/nicks-hd-plus-logo-300x300.jpg" tvg-name="Nick"  group-title="StarShare IPTV",Nick
+http://starshare.live:8080/live/738323/277337/205.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/89/POGO-logo.png" group-title="StarShare IPTV",POGO Hindi
+http://starshare.live:8080/live/738323/277337/1918.ts
+#EXTINF:0 tvg-logo="https://i.imgur.com/M9Z5cfD.png" group-title="StarShare IPTV",Cartoon Network Hindi
+http://starshare.live:8080/live/738323/277337/8.ts
+#EXTINF:-1 tvg-logo="https://dsnnepal.com/wp-content/uploads/2020/08/sony-ten-2-hd.png" group-title="StarShare IPTV",Sony Ten 2
+http://starshare.live:8080/live/738323/277337/192.ts
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e8/STAR_Sports_1_logo.png" group-title="StarShare IPTV",Star Sports 1
+http://starshare.live:8080/live/738323/277337/23936.ts
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e8/STAR_Sports_1_logo.png" group-title="StarShare IPTV",Star Sports Select 1 HD
+http://starshare.live:8080/live/738323/277337/238.ts
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e8/Masala_TV.png" group-title="StarShare IPTV",Hum Masala
+http://starshare.live:8080/live/738323/277337/1919.ts
+#EXTINF:-1 tvg-logo="https://static.india.com/wp-content/uploads/2020/08/IPL-Logo.jpg" group-title="StarShare IPTV",IPL
+http://starshare.live:8080/live/738323/277337/23943.ts
+#EXTINF:-1 tvg-logo="https://static.india.com/wp-content/uploads/2020/08/IPL-Logo.jpg" group-title="StarShare IPTV",IPL
+http://starshare.live:8080/live/738323/277337/4748.ts
