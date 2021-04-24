@@ -403,22 +403,40 @@ http://goiptv.co:8080/avatar/fVkKAhhBlr/6160
 #EXTINF:-1 tvg-logo="https://www.nsbpictures.com/wp-content/uploads/2019/03/ipl-logo.png" group-title="IPL Live",Live 4
 http://103.102.27.172:6464/Channel-1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://www.nsbpictures.com/wp-content/uploads/2019/03/ipl-logo.png" group-title="IPL Live",Live 5
-https://ipl-live.s3.ap-south-1.amazonaws.com/mixcasthd.com_3/index2.m3u8
+http://miarea.vip:8080/nena/nena/8340?checkedby:iptvcat.com
 #EXTINF:-1 tvg-logo="https://www.nsbpictures.com/wp-content/uploads/2019/03/ipl-logo.png" group-title="IPL Live",Live 6
-https://www101.sbvideocdn.com/hlsx/db6ump1j72_low/index.m3u8
+http://tv.anonyflux.xyz:80/dKp8y2x27d/ACbP2R2fQ6/137977?checkedby:iptvcat.com
 #EXTINF:-1 tvg-logo="https://www.nsbpictures.com/wp-content/uploads/2019/03/ipl-logo.png" group-title="IPL Live",Live 7
-http://103.109.110.102:1935/live/starsports1tamil.stream_720p/chunklist_w2016674381.m3u8
-#EXTINF:-1 tvg-logo="https://www.nsbpictures.com/wp-content/uploads/2019/03/ipl-logo.png" group-title="IPL Live",Live 8
-http://221.120.204.4/STAR-SPORTS-2/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://www.nsbpictures.com/wp-content/uploads/2019/03/ipl-logo.png" group-title="IPL Live",Live 9
-http://221.120.204.4/STAR-SPORTS-2/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://www.nsbpictures.com/wp-content/uploads/2019/03/ipl-logo.png" group-title="IPL Live",Live 10
-http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/221
-#EXTINF:-1 tvg-logo="https://www.nsbpictures.com/wp-content/uploads/2019/03/ipl-logo.png" group-title="IPL Live",Live 11
-http://103.102.27.172:6464/Channel-2/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://www.nsbpictures.com/wp-content/uploads/2019/03/ipl-logo.png" group-title="IPL Live",Live 12
-http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/220
+http://ip365.cx:80/591479399642519/845556651954303/153698?checkedby:iptvcat.com
 
+
+
+
+
+#EXTINF:-1 group-title="Cricket",Willow Cricket HD
+http://ip365.cx:80/591479399642519/845556651954303/175793?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Cricket",SKY CricketS CRICKET HD
+http://miarea.vip:8080/nena/nena/8340?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Cricket",Sky Crickets Cricket
+http://securepoint.io:83/live/promo/promo/366922.ts?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Cricket",Sky Crickets Cricket
+http://securepoint.io:83/live/promo/promo/366648.ts?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Cricket",Sky Crickets Cricket FHD
+http://ip365.cx:80/591479399642519/845556651954303/153697?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Cricket",Sky Crickets Cricket HD
+http://tv.anonyflux.xyz:80/dKp8y2x27d/ACbP2R2fQ6/137977?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Cricket",Sky Crickets Cricket HD
+http://ip365.cx:80/591479399642519/845556651954303/191690?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Cricket",Sky Crickets Cricket SD
+http://ip365.cx:80/591479399642519/845556651954303/153698?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Cricket",Sky_Crickets_Cricket
+http://x7hd.com:8888/z1331/1358096435/4718?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Cricket",DStv : SuperCricket Cricket
+http://securepoint.io:83/live/promo/promo/387258.ts?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Cricket",WILLOW CRICKET HD
+http://miarea.vip:8080/nena/nena/70001?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Cricket",Willow Cricket HD
+http://hotiptv.site:8080/zkby2013/1d469e6d9e42/2372?checkedby:iptvcat.com
 
 
 
