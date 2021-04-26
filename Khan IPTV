@@ -419,7 +419,7 @@ https://ott.durbinlive.com/hls/sonyliv.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/w0LVuDf.png" group-title="India",& Flix HD
 http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/335
-#EXTINF:-1 tvg-logo="" group-title="India",& Pictures HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vPv4FzT.png" group-title="India",& Pictures HD
 http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/7
 #EXTINF:-1 tvg-logo="" group-title="India",& privé HD(eng)
 http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/8
