@@ -70,20 +70,26 @@ http://103.102.136.106:8080/cmcltv/tsports.m3u8
 http://tv2.ebox.live:8080/live/colors-bangla.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HVZHZGl.png" group-title="Indian Bangla" ,Colors Bangla HD
 https://yuppcatchup.akamaized.net/preview/etvbengali/2500.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HVZHZGl.png" group-title="Indian Bangla" ,Colors Bangla HD (2)
+http://103.81.104.118/hls/stream28.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/61/Jalsha_Movies.png" group-title="Indian Bangla" ,Jalsha Movies HD
 http://tv2.ebox.live:8080/live/star-jalsha-movies.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/61/Jalsha_Movies.png" group-title="Indian Bangla" ,Jalsha Movies HD (2)
+http://103.81.104.118/hls/stream27.m3u8
 #EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/49/Star_Jalsha_2012.png" group-title="Radiant IPTV",Star Jalsha SD
 http://103.205.133.21/hls/chsj.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/49/Star_Jalsha_2012.png" group-title="Indian Bangla" ,Star Jalsha HD
 http://tv2.ebox.live:8080/live/star-jalsha.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/49/Star_Jalsha_2012.png" group-title="Indian Bangla" ,Star Jalsha HD (2)
-http://103.81.104.118/hls/stream27.m3u8
+http://103.81.104.118/hls/stream31.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Sony_Aath_logo.svg/1200px-Sony_Aath_logo.svg.png" group-title="Indian Bangla" ,Sony Aat
 http://103.205.133.20/hls/sony8.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/e5Ldh7e.png" group-title="Indian Bangla" ,Zee Bangla HD
 http://tv2.ebox.live:8080/live/zee-bangla.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/e5Ldh7e.png" group-title="Indian Bangla" ,Zee Bangla HD (2)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/e5Ldh7e.png" group-title="Indian Bangla" ,Zee Bangla HD (3)
 http://tvuk3.technohaat.com:6636/zeebanglahd/video.m3u8?token=2-QvSjSlX2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/e5Ldh7e.png" group-title="Indian Bangla" ,Zee Bangla HD (2)
+http://103.81.104.118/hls/stream30.m3u8
 #EXTINF:-1 tvg-logo="https://aakashaath.com/img/aakashaath_official_logo_white.png" group-title="Indian Bangla",Akash Aat
 http://freeiptv.thunderbd.com:25461/live/free/roarzone/32.m3u8
 
