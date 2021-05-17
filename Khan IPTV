@@ -114,14 +114,16 @@ http://tv2.ebox.live:8080/live/sony-max.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ro7bedn.png" group-title="Hindi",Sony Max HD (2)
 https://piratesiptv.shortcm.li/maxhd.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ro7bedn.png" group-title="Hindi",Sony Max HD (3)
-http://221.120.204.4/SONY-MAX/tracks-v1a1/mono.m3u8
+http://208.115.215.42/SonY_Max_HD/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ro7bedn.png" group-title="Hindi",Sony Max HD (4)
+http://stream.amrbd.com:8082/Sony-Max/tracks-v1a1/mono.m3u8?token=648785f25a2d77ed785338f7c36a2ebeeb91ba47-37ab9202f6e8eeb59af63239151c7f25-1621238341-1621227541
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vGq343l.png" group-title="Hindi",Star Gold HD (Ebox)
 http://tv2.ebox.live:8080/live/star-gold.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vGq343l.png" group-title="Hindi",Star Gold HD (2)
-http://103.81.104.118/hls/stream19.m3u8
+http://stream.amrbd.com:8082/StarGold/tracks-v1a1/mono.m3u8?token=3eeb3a227bb69824eb3c17f6ecaa9e0bb754e5b4-b7836d6d6ca656a1ed5e2f6081161c8b-1621238281-1621227481
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vGq343l.png" group-title="Hindi",Star Gold HD (3)
 http://84.17.41.7:80/StarGoldHD-Hin/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ab/Star_Gold_Select_HD.png/revision/latest?cb=20190810163831" group-title="Hindi",Star Gold Select HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/q0nObmP.png" group-title="Hindi",Star Gold Select HD
 http://tv2.ebox.live:8080/live/star-gold-select.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9SYqIRU.png" group-title="Hindi",Zeee TV HD (Ebox)
 http://tv2.ebox.live:8080/live/zee-tv.m3u8
@@ -149,13 +151,13 @@ http://103.205.133.21/hls/andpicture.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vsBKeDw.png" group-title="English" ,Discovery HD
 http://tv2.ebox.live:8080/live/discovery.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vsBKeDw.png" group-title="English" ,Discovery HD Bangla
-http://103.81.104.118/hls/stream9.m3u8
+http://103.153.175.254:8080/hls/stream9.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rv4dtJo.png" group-title="English" ,Discovery Asia
 https://livecdn.fptplay.net/qnetlive/discoveryasia_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/04/National-Geographic-Logo.png" group-title="English" ,National Geographic 
 http://tv2.ebox.live:8080/live/natg.m3u8
 #EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/04/National-Geographic-Logo.png" group-title="English" ,National Geographic HD Bangla
-http://103.81.104.118/hls/stream13.m3u8
+http://103.153.175.254:8080/hls/stream13.m3u8?BDTV
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Nat_Geo_Wild_HD_logo.png" group-title="English" ,National Geographic Wild
 http://tjszdhm3.tvclub.xyz/iptv/69AWBEYGGS5VZ6/216/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XITYSY0.png" group-title="English" ,Animal Planet HD Hindi
