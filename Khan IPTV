@@ -45,7 +45,7 @@ https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEo
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/mass.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ac/Mohona_Logo.JPG" group-title="Bangladeshi",Mohona TV HD
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/mohonatv00000223232244556633.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="http://mytvbd.tv/assets/img/download.png" group-title="Bangladeshi", My TV BD
+#EXTINF:-1 tvg-logo="https://mytvbd.tv/wp-content/uploads/2021/05/MyTV_logo.png" group-title="Bangladeshi", My TV BD
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/mytv-up-off.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://sarabangla.net/wp-content/uploads/2018/03/nagorik-tv-Logo.png" group-title="Bangladeshi",Nagorik TV
 http://103.205.133.21/hls/nagorik.m3u8
@@ -293,7 +293,7 @@ http://103.205.133.21/hls/gaanbangla.m3u8
 http://103.205.133.21/hls/jamunatv.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ac/Mohona_Logo.JPG" group-title="Radiant IPTV",Mohona TV HD
 http://103.205.133.21/hls/mohonatv.m3u8
-#EXTINF:0 tvg-logo="http://mytvbd.tv/wp-content/uploads/2020/11/mytv_logo-300x163.png" group-title="Radiant IPTV",My TV HD
+#EXTINF:0 tvg-logo="https://mytvbd.tv/wp-content/uploads/2021/05/MyTV_logo.png" group-title="Radiant IPTV",My TV HD
 http://103.205.133.21/hls/mytv.m3u8
 #EXTINF:0 tvg-logo="https://sarabangla.net/wp-content/uploads/2018/03/nagorik-tv-Logo.png" group-title="Radiant IPTV",Nagorik TV
 http://103.205.133.21/hls/nagorik.m3u8
