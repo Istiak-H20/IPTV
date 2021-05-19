@@ -133,6 +133,8 @@ http://tv2.ebox.live:8080/live/zee-tv.m3u8
 http://tv2.ebox.live:8080/live/zee-cinema.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ldXaLJK.png" group-title="Hindi",Zeee Cinema HD
 http://103.81.104.118/hls/stream25.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ldXaLJK.png" group-title="Hindi",Zeee Cinema HD 
+https://oreotv.us/live/gee/zee_v2.m3u8?id=0-9-zeecinemahd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rfG4WzU.png" group-title="Hindi", Zeee Anmol Cinema
 https://y5w8j4a9.ssl.hwcdn.net/zanmolcnm/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PGIG8CS.png" group-title="Hindi", Zeee Zest HD
@@ -143,6 +145,8 @@ http://103.49.168.171:8081/ebox/in_and_tv_hd/chunks.m3u8
 http://103.49.168.171:8081/ebox/in_andpictures_hd/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_548/PORTRAIT/rJOw77VW.png" group-title="Hindi",& Pictures HD (2)
 http://103.81.104.118/hls/stream14.m3u8
+#EXTINF:-1 tvg-logo="https://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_548/PORTRAIT/rJOw77VW.png" group-title="Hindi",& Pictures HD (3)
+https://oreotv.us/live/gee/zee_v2.m3u8?id=0-9-tvpictureshd
 #EXTINF:-1 tvg-logo="https://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_548/PORTRAIT/rJOw77VW.png" group-title="Hindi",& Pictures SD
 http://103.205.133.21/hls/andpicture.m3u8
 
