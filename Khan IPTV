@@ -246,7 +246,7 @@ http://103.153.175.254:8080/hls/stream17.m3u8
 http://103.153.175.254:8080/hls/stream22.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/ZduoOHq.png" group-title="BDIX Server",Channel I 
 http://103.153.175.254:8080/hls/stream18.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/af0kv3C.png" group-title="BDIX Server",Maasranga 
+#EXTINF:0 tvg-logo="https://i.imgur.com/sh6LJe1.png" group-title="BDIX Server",Maasranga 
 http://103.153.175.254:8080/hls/stream20.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/af0kv3C.png" group-title="BDIX Server",Nagorik 
 http://103.153.175.254:8080/hls/stream24.m3u8
