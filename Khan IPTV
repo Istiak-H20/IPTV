@@ -242,9 +242,9 @@ http://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/tracks-v1a1/index.m3u8
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/af0kv3C.png" group-title="BDIX Server",ATN Bangla 
 http://103.153.175.254:8080/hls/stream17.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/af0kv3C.png" group-title="BDIX Server",Channel 24 
+#EXTINF:0 tvg-logo="https://i.imgur.com/VpgUGxh.png" group-title="BDIX Server",Channel 24 
 http://103.153.175.254:8080/hls/stream22.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/af0kv3C.png" group-title="BDIX Server",Channel I 
+#EXTINF:0 tvg-logo="https://i.imgur.com/ZduoOHq.png" group-title="BDIX Server",Channel I 
 http://103.153.175.254:8080/hls/stream18.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/af0kv3C.png" group-title="BDIX Server",Maasranga 
 http://103.153.175.254:8080/hls/stream20.m3u8
