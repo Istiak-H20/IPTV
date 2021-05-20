@@ -62,63 +62,48 @@ https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEo
 
 
 
-
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/HVZHZGl.png" group-title="Indian Bangla" ,Colors Bangla HD (Ebox)
-http://tv2.ebox.live:8080/live/colors-bangla.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HVZHZGl.png" group-title="Indian Bangla" ,Colors Bangla SD
+http://103.205.133.19/hls/colorsbangla.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HVZHZGl.png" group-title="Indian Bangla" ,Colors Bangla HD
 https://yuppcatchup.akamaized.net/preview/etvbengali/2500.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HVZHZGl.png" group-title="Indian Bangla" ,Colors Bangla HD (2)
 http://103.81.104.118/hls/stream28.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/61/Jalsha_Movies.png" group-title="Indian Bangla" ,Jalsha Movies HD
-http://tv2.ebox.live:8080/live/star-jalsha-movies.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/61/Jalsha_Movies.png" group-title="Indian Bangla" ,Jalsha Movies HD (2)
-http://103.153.175.254:8080/hls/stream27.m3u8
-#EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/49/Star_Jalsha_2012.png" group-title="Radiant IPTV",Star Jalsha SD
-http://103.205.133.21/hls/chsj.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/49/Star_Jalsha_2012.png" group-title="Indian Bangla" ,Star Jalsha HD
-http://tv2.ebox.live:8080/live/star-jalsha.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/49/Star_Jalsha_2012.png" group-title="Indian Bangla" ,Star Jalsha HD (2)
-http://103.81.104.118/hls/stream31.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Sony_Aath_logo.svg/1200px-Sony_Aath_logo.svg.png" group-title="Indian Bangla" ,Sony Aat
-http://103.205.133.20/hls/sony8.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/e5Ldh7e.png" group-title="Indian Bangla" ,Zee Bangla HD
 http://tv2.ebox.live:8080/live/zee-bangla.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/e5Ldh7e.png" group-title="Indian Bangla" ,Zee Bangla HD (3)
 http://tvuk3.technohaat.com:6636/zeebanglahd/video.m3u8?token=2-QvSjSlX2
 #EXTINF:-1 tvg-logo="https://i.imgur.com/e5Ldh7e.png" group-title="Indian Bangla" ,Zee Bangla HD (2)
 http://103.81.104.118/hls/stream30.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/61/Jalsha_Movies.png" group-title="Indian Bangla" ,Jalsha Movies HD 
+http://103.153.175.254:8080/hls/stream27.m3u8
+#EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/49/Star_Jalsha_2012.png" group-title="Radiant IPTV",Star Jalsha SD
+http://103.205.133.21/hls/chsj.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/49/Star_Jalsha_2012.png" group-title="Indian Bangla" ,Star Jalsha HD
+http://103.81.104.118/hls/stream31.m3u8
 #EXTINF:-1 tvg-logo="https://aakashaath.com/img/aakashaath_official_logo_white.png" group-title="Indian Bangla",Akash Aat
 http://freeiptv.thunderbd.com:25461/live/free/roarzone/32.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Sony_Aath_logo.svg/1200px-Sony_Aath_logo.svg.png" group-title="Indian Bangla" ,Sony Aat
+http://103.205.133.20/hls/sony8.m3u8
 
 
 
 
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Colors_tv2017.png/220px-Colors_tv2017.png" group-title="Hindi",Colors HD (Ebox)
-http://tv2.ebox.live:8080/live/colors.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Colors_tv2017.png/220px-Colors_tv2017.png" group-title="Hindi",Colors HD
 http://208.115.215.42/Colors_TV_HD/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4BBrXbC.png" group-title="Hindi",Colors Cineplex HD
 http://tjszdhm3.tvclub.xyz/iptv/69AWBEYGGS5VZ6/6592/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4BBrXbC.png" group-title="Hindi",Colors Cineplex HD (2)
 http://103.81.104.118/hls/stream29.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/oTt7D3K.png" group-title="Hindi",Sony Entertainment HD (Ebox)
-http://tv2.ebox.live:8080/live/sonyhd.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/oTt7D3K.png" group-title="Hindi",Sony Entertainment SD (Radiant)
 http://103.205.133.21/hls/chs.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AMhvwJB.png" group-title="Hindi",Star Plus HD
-http://tv2.ebox.live:8080/live/star-plus.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ro7bedn.png" group-title="Hindi",Sony Max HD
-http://tv2.ebox.live:8080/live/sony-max.m3u8
+https://ott.bingebd.com/live/ngrp:star_plus_hd_all/chunklist_b478000.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ro7bedn.png" group-title="Hindi",Sony Max HD (2)
 https://piratesiptv.shortcm.li/maxhd.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ro7bedn.png" group-title="Hindi",Sony Max HD (3)
 http://208.115.215.42/SonY_Max_HD/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ro7bedn.png" group-title="Hindi",Sony Max HD (4)
 http://stream.amrbd.com:8082/Sony-Max/tracks-v1a1/mono.m3u8?token=648785f25a2d77ed785338f7c36a2ebeeb91ba47-37ab9202f6e8eeb59af63239151c7f25-1621238341-1621227541
-#EXTINF:-1 tvg-logo="https://i.imgur.com/vGq343l.png" group-title="Hindi",Star Gold HD (Ebox)
-http://tv2.ebox.live:8080/live/star-gold.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vGq343l.png" group-title="Hindi",Star Gold HD (2)
 http://stream.amrbd.com:8082/StarGold/tracks-v1a1/mono.m3u8?token=3eeb3a227bb69824eb3c17f6ecaa9e0bb754e5b4-b7836d6d6ca656a1ed5e2f6081161c8b-1621238281-1621227481
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vGq343l.png" group-title="Hindi",Star Gold HD (3)
@@ -129,11 +114,9 @@ https://ott.bingebd.com/live/ngrp:star_gold_all/chunklist_b478000.m3u8
 http://tv2.ebox.live:8080/live/star-gold-select.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9SYqIRU.png" group-title="Hindi",Zeee TV HD (Ebox)
 http://tv2.ebox.live:8080/live/zee-tv.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ldXaLJK.png" group-title="Hindi",Zeee Cinema HD (Ebox)
-http://tv2.ebox.live:8080/live/zee-cinema.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ldXaLJK.png" group-title="Hindi",Zeee Cinema HD
 http://103.81.104.118/hls/stream25.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ldXaLJK.png" group-title="Hindi",Zeee Cinema HD 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ldXaLJK.png" group-title="Hindi",Zeee Cinema HD (2)
 https://oreotv.us/live/gee/zee_v2.m3u8?id=0-9-zeecinemahd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rfG4WzU.png" group-title="Hindi", Zeee Anmol Cinema
 https://y5w8j4a9.ssl.hwcdn.net/zanmolcnm/index.m3u8
@@ -153,25 +136,24 @@ http://103.205.133.21/hls/andpicture.m3u8
 
 
 
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/vsBKeDw.png" group-title="English" ,Discovery HD
-http://tv2.ebox.live:8080/live/discovery.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vsBKeDw.png" group-title="English" ,Discovery HD Bangla
 http://103.153.175.254:8080/hls/stream9.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rv4dtJo.png" group-title="English" ,Discovery Asia
 https://livecdn.fptplay.net/qnetlive/discoveryasia_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/04/National-Geographic-Logo.png" group-title="English" ,National Geographic 
-http://tv2.ebox.live:8080/live/natg.m3u8
 #EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/04/National-Geographic-Logo.png" group-title="English" ,National Geographic HD Bangla
 http://103.153.175.254:8080/hls/stream13.m3u8?BDTV
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Nat_Geo_Wild_HD_logo.png" group-title="English" ,National Geographic Wild
 http://tjszdhm3.tvclub.xyz/iptv/69AWBEYGGS5VZ6/216/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XITYSY0.png" group-title="English" ,Animal Planet HD
+http://stream.amrbd.com:8082/Animal_Planet/tracks-v1a1/mono.m3u8?token=c0124c8d31f556c582df3ba6f1ab915ffd1b62b3-3946ae877d0e6078faa2b878787f6536-1621081105-1621070305
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XITYSY0.png" group-title="English" ,Animal Planet HD Hindi
 https://itvorigin.multitvsolution.com/idvo/aphdhindi.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XITYSY0.png" group-title="English" ,Animal Planet HD Bangla
 http://103.81.104.118/hls/stream6.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KLBorkM.png" group-title="English" ,Travel XP HD Bangla 
 http://103.81.104.118/hls/stream37.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KLBorkM.png" group-title="English" ,Travel XP HD
+http://103.153.175.254:8080/hls/stream37.m3u8?BDTV
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DiHUL9p.png" group-title="English" ,Outdoor HD 
 https://livecdn.fptplay.net/world/outdoorfhd_hls.smil/chunklist_b450000.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/T1vgYzE.png" group-title="English" ,BBC Earth
@@ -191,8 +173,6 @@ http://185.180.221.194:8278/streams/d/Hbosignature/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LJWxJjZ.png" group-title="English" ,Colors Infinity HD
 http://tv2.ebox.live:8080/live/color-Infinity.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/M0bRPMs.png" group-title="English" ,Star Movies HD
-http://tv2.ebox.live:8080/live/star-movies.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/M0bRPMs.png" group-title="English" ,Star Movies HD (2)
 http://103.81.104.118/hls/stream3.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EDPdahO.png" group-title="English" ,Star Movies Select HD
 http://87.117.234.107:1935/live/StarMovies_SELECT_HD/playlists.m3u8
