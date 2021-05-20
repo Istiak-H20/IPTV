@@ -216,8 +216,6 @@ https://shls-mbcmax-prod-dub.shahid.net/out/v1/13815a7cda864c249a88c38e66a2e653/
 
 
 
-
-
 #EXTINF:0 tvg-logo="https://www.sangeetbangla.com/wp-content/uploads/2017/05/sangeet-bangla-logo-small.png" group-title="Music",Sangeet Bangla
 http://103.205.133.20/hls/sangeetbangla.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7rnhie0.png" group-title="Music",Dhoom Music
@@ -318,6 +316,50 @@ http://103.153.175.254:8080/hls/stream35.m3u8
 http://103.153.175.254:8080/hls/stream36.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/sh6LJe1.png" group-title="BDIX Server",Macca 
 http://103.153.175.254:8080/hls/stream33.m3u8
+
+
+
+
+#EXTINF:0 tvg-logo="https://binge.buzz/assets/images/B_Icon-03.png" group-title="Binge Server",Asian TV 
+https://ott.bingebd.com/live/ngrp:asian_tv_all/sohel.m3u8
+#EXTINF:0 tvg-logo="https://binge.buzz/assets/images/B_Icon-03.png" group-title="Binge Server",Ananda TV 
+https://ott.bingebd.com/live/ngrp:probashibangla_all/sohel.m3u8
+#EXTINF:0 tvg-logo="https://binge.buzz/assets/images/B_Icon-03.png" group-title="Binge Server",ATN Bangla 
+https://ott.bingebd.com/live/ngrp:atn_bangla_all/sohel.m3u8
+#EXTINF:0 tvg-logo="https://binge.buzz/assets/images/B_Icon-03.png" group-title="Binge Server",ATN News 
+https://ott.bingebd.com/live/ngrp:atn_news_all/sohel.m3u8
+#EXTINF:0 tvg-logo="https://binge.buzz/assets/images/B_Icon-03.png" group-title="Binge Server",Bangla TV 
+https://ott.bingebd.com/live/ngrp:bangla_tv_all/sohel.m3u8
+#EXTINF:0 tvg-logo="https://binge.buzz/assets/images/B_Icon-03.png" group-title="Binge Server",Bijoy TV 
+https://ott.bingebd.com/live/ngrp:bijoy_tv_all/sohel.m3u8
+#EXTINF:0 tvg-logo="https://binge.buzz/assets/images/B_Icon-03.png" group-title="Binge Server",Mohona TV 
+https://ott.bingebd.com/live/ngrp:mohona_tv_all/sohel.m3u8
+#EXTINF:0 tvg-logo="https://binge.buzz/assets/images/B_Icon-03.png" group-title="Binge Server",MY TV 
+https://ott.bingebd.com/live/ngrp:my_tv_all/sohel.m3u8
+#EXTINF:0 tvg-logo="https://binge.buzz/assets/images/B_Icon-03.png" group-title="Binge Server",News 24 
+https://ott.bingebd.com/live/ngrp:news_24_hd_all/sohel.m3u8
+#EXTINF:0 tvg-logo="https://binge.buzz/assets/images/B_Icon-03.png" group-title="Binge Server",NTV 
+https://ott.bingebd.com/live/ngrp:ntv_all/sohel.m3u8
+#EXTINF:0 tvg-logo="https://binge.buzz/assets/images/B_Icon-03.png" group-title="Binge Server",RTV 
+https://ott.bingebd.com/live/ngrp:rtv_all/sohel.m3u8
+#EXTINF:0 tvg-logo="https://binge.buzz/assets/images/B_Icon-03.png" group-title="Binge Server",SATV 
+https://ott.bingebd.com/live/ngrp:sa_tv_all/sohel.m3u8
+#EXTINF:0 tvg-logo="https://binge.buzz/assets/images/B_Icon-03.png" group-title="Binge Server",Sangeet Bangla 
+https://ott.bingebd.com/live/ngrp:sangeet_bangla_all/sohel.m3u8
+#EXTINF:0 tvg-logo="https://binge.buzz/assets/images/B_Icon-03.png" group-title="Binge Server",Star Gold HD 
+https://ott.bingebd.com/live/ngrp:star_gold_all/sohel.m3u8
+#EXTINF:0 tvg-logo="https://binge.buzz/assets/images/B_Icon-03.png" group-title="Binge Server",Star Plus HD 
+https://ott.bingebd.com/live/ngrp:star_plus_hd_all/sohel.m3u8
+#EXTINF:0 tvg-logo="https://binge.buzz/assets/images/B_Icon-03.png" group-title="Binge Server",9X Jalwa 
+https://ott.bingebd.com/live/ngrp:9x_jalwa_all/sohel.m3u8
+#EXTINF:0 tvg-logo="https://binge.buzz/assets/images/B_Icon-03.png" group-title="Binge Server",9XM 
+https://ott.bingebd.com/live/ngrp:9xm_all/sohel.m3u8
+#EXTINF:0 tvg-logo="https://binge.buzz/assets/images/B_Icon-03.png" group-title="Binge Server",B4U Movies 
+https://ott.bingebd.com/live/ngrp:b4u_movies_all/sohel.m3u8
+#EXTINF:0 tvg-logo="https://binge.buzz/assets/images/B_Icon-03.png" group-title="Binge Server",B4U Music 
+https://ott.bingebd.com/live/ngrp:b4u_music_all/sohel.m3u8
+#EXTINF:0 tvg-logo="https://binge.buzz/assets/images/B_Icon-03.png" group-title="Binge Server",Zing 
+https://ott.bingebd.com/live/ngrp:zing_all/sohel.m3u8
 
 
 
@@ -454,7 +496,6 @@ https://rhridoy136.shortcm.li/shomoytv.m3u8
 https://rhridoy136.shortcm.li/titashsports.m3u8
 #EXTINF:0 tvg-logo="https://cdn.freelogovectors.net/wp-content/uploads/2016/12/al-jazeera-logo.png" group-title="Ridoy IPTV",Al Jazeera
 https://rhridoy136.shortcm.li/aljazeera.m3u8
-
 
 
 
