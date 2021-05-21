@@ -96,6 +96,8 @@ http://tjszdhm3.tvclub.xyz/iptv/69AWBEYGGS5VZ6/6592/index.m3u8
 http://103.81.104.118/hls/stream29.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oTt7D3K.png" group-title="Hindi",Sony Entertainment SD
 http://103.205.133.21/hls/chs.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oTt7D3K.png" group-title="Hindi",Sony Entertainment HD
+http://oqab.life:8080/live/8181/8181/112.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AMhvwJB.png" group-title="Hindi",Star Plus HD
 https://ott.bingebd.com/live/ngrp:star_plus_hd_all/chunklist_b478000.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ro7bedn.png" group-title="Hindi",Sony Max HD (2)
@@ -110,8 +112,10 @@ http://stream.amrbd.com:8082/StarGold/tracks-v1a1/mono.m3u8?token=3eeb3a227bb698
 http://84.17.41.7:80/StarGoldHD-Hin/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vGq343l.png" group-title="Hindi",Star Gold HD (Binge)
 https://ott.bingebd.com/live/ngrp:star_gold_all/chunklist_b478000.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YvGtRg7.png" group-title="Hindi",Star Gold 2 HD
+http://84.17.41.7/JS_MoviesOK_Hin/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/q0nObmP.png" group-title="Hindi",Star Gold Select HD
-http://tv2.ebox.live:8080/live/star-gold-select.m3u8
+http://oqab.life:8080/live/8181/8181/106.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9SYqIRU.png" group-title="Hindi",Zeee TV HD (Ebox)
 http://tv2.ebox.live:8080/live/zee-tv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ldXaLJK.png" group-title="Hindi",Zeee Cinema HD
@@ -172,6 +176,8 @@ https://raw.githubusercontent.com/amarnettv/amarnettv.github.io/master/channels/
 http://185.180.221.194:8278/streams/d/Hbosignature/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LJWxJjZ.png" group-title="English" ,Colors Infinity HD
 http://tv2.ebox.live:8080/live/color-Infinity.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/M0bRPMs.png" group-title="English" ,Star Movies SD
+http://oqab.life:8080/live/8181/8181/119.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/M0bRPMs.png" group-title="English" ,Star Movies HD
 http://103.81.104.118/hls/stream3.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EDPdahO.png" group-title="English" ,Star Movies Select HD
