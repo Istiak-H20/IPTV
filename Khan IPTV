@@ -34,7 +34,7 @@ http://103.205.133.48/hls/ekushey.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eyAInC9.png" group-title="Bangladeshi",Gazi TV HD
 http://103.102.27.172:6464/Channel-1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eyAInC9.png" group-title="Bangladeshi",Gazi TV HD Optional
-http://master.beeiptv.com:8081/master/gazitv/playlist.m3u8
+http://cdn.ihub.live:8080/j-GTV/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Jo7wzmn.png" group-title="Bangladeshi",Gaan Bangla
 http://103.205.133.48/hls/gaanbangla.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c1/Independent_Television_Logo.svg/1200px-Independent_Television_Logo.svg.png" group-title="Bangladeshi",Independent TV
@@ -59,6 +59,8 @@ https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/somoyt000011226615544544.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/15/SA_TV_Logo.png" group-title="Bangladeshi",SA TV
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/satvoff5666.stream/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CJUmEHD.png" group-title="Bangladeshi",T Sports HD
+http://103.205.133.19/hls/tsports.m3u8
 
 
 
@@ -98,17 +100,13 @@ http://103.81.104.118/hls/stream29.m3u8
 http://103.205.133.21/hls/chs.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oTt7D3K.png" group-title="Hindi",Sony Entertainment HD
 http://oqab.life:8080/live/8181/8181/112.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/AMhvwJB.png" group-title="Hindi",Star Plus HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AMhvwJB.png" group-title="Hindi",Star Plus HD (bINGE)
 https://ott.bingebd.com/live/ngrp:star_plus_hd_all/chunklist_b478000.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ro7bedn.png" group-title="Hindi",Sony Max HD (2)
 https://piratesiptv.shortcm.li/maxhd.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ro7bedn.png" group-title="Hindi",Sony Max HD (3)
 http://208.115.215.42/SonY_Max_HD/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ro7bedn.png" group-title="Hindi",Sony Max HD (4)
-http://stream.amrbd.com:8082/Sony-Max/tracks-v1a1/mono.m3u8?token=648785f25a2d77ed785338f7c36a2ebeeb91ba47-37ab9202f6e8eeb59af63239151c7f25-1621238341-1621227541
-#EXTINF:-1 tvg-logo="https://i.imgur.com/vGq343l.png" group-title="Hindi",Star Gold HD (2)
-http://stream.amrbd.com:8082/StarGold/tracks-v1a1/mono.m3u8?token=3eeb3a227bb69824eb3c17f6ecaa9e0bb754e5b4-b7836d6d6ca656a1ed5e2f6081161c8b-1621238281-1621227481
-#EXTINF:-1 tvg-logo="https://i.imgur.com/vGq343l.png" group-title="Hindi",Star Gold HD (3)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vGq343l.png" group-title="Hindi",Star Gold HD
 http://84.17.41.7:80/StarGoldHD-Hin/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vGq343l.png" group-title="Hindi",Star Gold HD (Binge)
 https://ott.bingebd.com/live/ngrp:star_gold_all/chunklist_b478000.m3u8
@@ -180,6 +178,8 @@ http://tv2.ebox.live:8080/live/color-Infinity.m3u8
 http://oqab.life:8080/live/8181/8181/119.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/M0bRPMs.png" group-title="English" ,Star Movies HD
 http://103.81.104.118/hls/stream3.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/M0bRPMs.png" group-title="English" ,Star Movies HD
+http://f7.amarron.club:8880/kg14m3n002/sdfsdfx234423423423/2143
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EDPdahO.png" group-title="English" ,Star Movies Select HD
 http://87.117.234.107:1935/live/StarMovies_SELECT_HD/playlists.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5f/Sony_PIX.png" group-title="English" ,Sony Pix HD
@@ -506,143 +506,77 @@ http://103.205.133.20/hls/9xm.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sh6LJe1.png" group-title="India",& Flix HD
-http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/335
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sh6LJe1.png" group-title="India",& Pictures HD
-http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/7
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sh6LJe1.png" group-title="India",& privé HD(eng)
-http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sh6LJe1.png" group-title="India",& TV (UK)
-http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/325
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sh6LJe1.png" group-title="India",& TV FHD (IND)
-http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/1008
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sh6LJe1.png" group-title="India",& Xplor HD
-http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/336
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sh6LJe1.png" group-title="India",9X Jalwa HD
-http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/1033
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sh6LJe1.png" group-title="India",9XM (Music)
-http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/12
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sh6LJe1.png" group-title="India",Animal_Planet_Hindi_HD (4K+)
-http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/55
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sh6LJe1.png" group-title="India",B4u  Alfam HD
-http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/14
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sh6LJe1.png" group-title="India",B4U Movies (IND)
-http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/39
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sh6LJe1.png" group-title="India",B4U Movies (uk)
-http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/721
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sh6LJe1.png" group-title="India",B4U Music HD
-http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/19
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sh6LJe1.png" group-title="India",COLOR CINEPLEX HD (JIO)
-http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/572
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sh6LJe1.png" group-title="India",Colors FHD (IN) -VIP (jio)
-http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/218
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sh6LJe1.png" group-title="India",Colors infinity India HD
-http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/1150
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sh6LJe1.png" group-title="India",COLORS Rishtey (UK)
-http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/864
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sh6LJe1.png" group-title="India",Colors SD  (UK)
-http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/211
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sh6LJe1.png" group-title="India", Discovery Science Hindi (jio)
-http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/950
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sh6LJe1.png" group-title="India",Discovery_Turbo(JIO)
-http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/1029
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sh6LJe1.png" group-title="India",NAT GEO WILD HD
-http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/1114
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sh6LJe1.png" group-title="India",Rishtey Cineplex (UK)
-http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/414
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sh6LJe1.png" group-title="India",Sahara Filmy(lk)
-http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/573
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sh6LJe1.png" group-title="India",Sony BBC Earth Hindi FHD (jio)
-http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/652
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sh6LJe1.png" group-title="India",Sony Entertainment  HD (IN)
-http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/471
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sh6LJe1.png" group-title="India",SONY Entertainment sd (UK)
-http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/49
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sh6LJe1.png" group-title="India",Sony Max 2 (UK)
-http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/965
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sh6LJe1.png" group-title="India",Sony Max HD (IND)
-http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/225
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sh6LJe1.png" group-title="India",Sony Pal HD (Jio)
-http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/557
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sh6LJe1.png" group-title="India",Sony Saab FHD (IN) -VIP
-http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/224
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sh6LJe1.png" group-title="India",Sony SAB (UK)
-http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/50
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sh6LJe1.png" group-title="India",Sony_Pix_HD
-http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/46
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sh6LJe1.png" group-title="India",Sony_SIX_HD(sl)
-http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/62
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sh6LJe1.png" group-title="India",Sony_Ten_1_HD (VIP)
-http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/59
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sh6LJe1.png" group-title="India",sony_Ten_2_HD(vip)
-http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/60
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sh6LJe1.png" group-title="India",Sony_Ten_3 HD (JIO)
-http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/61
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sh6LJe1.png" group-title="India",Star Bharat (UK)
-http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/215
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sh6LJe1.png" group-title="India",Star Bharat HD (4K)
-http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/45
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sh6LJe1.png" group-title="India",Star Bhart FHD (IND) VIP
-http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/651
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sh6LJe1.png" group-title="India",Star Gold FHD (IN)  Local
-http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/516
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sh6LJe1.png" group-title="India",UTSAV Gold FHD (UK)
-http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/698
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sh6LJe1.png" group-title="India",Star Gold SD  (uk)
-http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/297
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sh6LJe1.png" group-title="India",STAR GOLD SELECT HD
-http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/515
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sh6LJe1.png" group-title="India",Star Sports 2 HD
-http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/220
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sh6LJe1.png" group-title="India",Star Sports 3 HD
-http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/221
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sh6LJe1.png" group-title="India",UTV HD (Movies)
-http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/626
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sh6LJe1.png" group-title="India",Willow HD
-http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/222
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sh6LJe1.png" group-title="India",Wow Cinema HD(lk)
-http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/860
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sh6LJe1.png" group-title="India",Zee Action HD
-http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/85
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sh6LJe1.png" group-title="India",Zee Anmol Cinema HD
-http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/84
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sh6LJe1.png" group-title="India",Zee Anmol HD
-http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/83
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sh6LJe1.png" group-title="India",ZEE Bollywood HD
-http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/276
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sh6LJe1.png" group-title="India",Zee Business (News)
-http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/81
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sh6LJe1.png" group-title="India",Zee Cafe HD
-http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/273
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sh6LJe1.png" group-title="India",ZEE CINEMA (USA)
-http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/80
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sh6LJe1.png" group-title="India",Zee Cinema HD (UK-TIME)
-http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/79
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sh6LJe1.png" group-title="India",ZEE Cinema SD (IND)
-http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/693
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sh6LJe1.png" group-title="India",ZEE Classic HD
-http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/695
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sh6LJe1.png" group-title="India",Zee Hindustan
-http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/73
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sh6LJe1.png" group-title="India",Zee News (News)
-http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/74
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sh6LJe1.png" group-title="India",Zee Rajasthan HD
-http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/72
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sh6LJe1.png" group-title="India",Zee Theatre HD
-http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/86
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sh6LJe1.png" group-title="India",Zee TV (UK)
-http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/69
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sh6LJe1.png" group-title="India",ZEE TV APAC
-http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/71
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sh6LJe1.png" group-title="India",ZEE TV HD (Canada)
-http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/278
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sh6LJe1.png" group-title="India",Zee TV HD (IND)/VIP
-http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/68
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sh6LJe1.png" group-title="India",ZEE TV HD (USA)
-http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/67
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sh6LJe1.png" group-title="India",zee5 romance (music)
-http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/23
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sh6LJe1.png" group-title="India",Zing (Music)
-http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/66
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sh6LJe1.png" group-title="India",Zing HD (Usa)
-http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/279
+#EXTINF:-1 tvg-logo="" group-title="Indian FHD",SONY HD
+http://oqab.life:8080/live/8181/8181/85.ts
+#EXTINF:-1 tvg-logo="" group-title="Indian FHD",SONY SAB HD
+http://oqab.life:8080/live/8181/8181/86.ts
+#EXTINF:-1 tvg-logo="" group-title="Indian FHD",SONY PIX HD
+http://oqab.life:8080/live/8181/8181/87.ts
+#EXTINF:-1 tvg-logo="" group-title="Indian FHD",HBO HD
+http://oqab.life:8080/live/8181/8181/88.ts
+#EXTINF:-1 tvg-logo="" group-title="Indian FHD",SONY MAX HD
+http://oqab.life:8080/live/8181/8181/89.ts
+#EXTINF:-1 tvg-logo="" group-title="Indian FHD",ZEE TV HD
+http://oqab.life:8080/live/8181/8181/90.ts
+#EXTINF:-1 tvg-logo="" group-title="Indian FHD",STAR PLUS (4K)
+http://oqab.life:8080/live/8181/8181/91.ts
+#EXTINF:-1 tvg-logo="" group-title="Indian FHD",Romedy Now HD
+http://oqab.life:8080/live/8181/8181/92.ts
+#EXTINF:-1 tvg-logo="" group-title="Indian FHD",History_HD
+http://oqab.life:8080/live/8181/8181/93.ts
+#EXTINF:-1 tvg-logo="" group-title="Indian FHD",Travel XP HD
+http://oqab.life:8080/live/8181/8181/94.ts
+#EXTINF:-1 tvg-logo="" group-title="Indian FHD",Animal_Planet_HD
+http://oqab.life:8080/live/8181/8181/95.ts
+#EXTINF:-1 tvg-logo="" group-title="Indian FHD",AXN_HD
+http://oqab.life:8080/live/8181/8181/96.ts
+#EXTINF:-1 tvg-logo="" group-title="Indian FHD",Comedy_Central_HD
+http://oqab.life:8080/live/8181/8181/97.ts
+#EXTINF:-1 tvg-logo="" group-title="Indian FHD",Colors_Infinity_HD
+http://oqab.life:8080/live/8181/8181/98.ts
+#EXTINF:-1 tvg-logo="" group-title="Indian FHD",Sony_BBC_Earth_HD_English
+http://oqab.life:8080/live/8181/8181/99.ts
+#EXTINF:-1 tvg-logo="" group-title="Indian FHD",MNX HD
+http://oqab.life:8080/live/8181/8181/100.ts
+#EXTINF:-1 tvg-logo="" group-title="Indian FHD",STAR GOLD HD
+http://oqab.life:8080/live/8181/8181/101.ts
+#EXTINF:-1 tvg-logo="" group-title="Indian FHD",Colors HD (4K)
+http://oqab.life:8080/live/8181/8181/102.ts
+#EXTINF:-1 tvg-logo="" group-title="Indian FHD",ZeeCafe HD
+http://oqab.life:8080/live/8181/8181/103.ts
+#EXTINF:-1 tvg-logo="" group-title="Indian FHD",STAR BHARAT HD
+http://oqab.life:8080/live/8181/8181/104.ts
+#EXTINF:-1 tvg-logo="" group-title="Indian FHD",& PRIVE HD
+http://oqab.life:8080/live/8181/8181/105.ts
+#EXTINF:-1 tvg-logo="" group-title="Indian FHD",Star Gold Select HD
+http://oqab.life:8080/live/8181/8181/106.ts
+#EXTINF:-1 tvg-logo="" group-title="Indian FHD",Star World Premiere FHD
+http://oqab.life:8080/live/8181/8181/107.ts
+#EXTINF:-1 tvg-logo="" group-title="Indian FHD",STAR MOVIES SELECT FHD
+http://oqab.life:8080/live/8181/8181/108.ts
+#EXTINF:-1 tvg-logo="" group-title="Indian FHD",COLOR FHD
+http://oqab.life:8080/live/8181/8181/109.ts
+#EXTINF:-1 tvg-logo="" group-title="Indian FHD",ZEE TV FHD
+http://oqab.life:8080/live/8181/8181/110.ts
+#EXTINF:-1 tvg-logo="" group-title="Indian FHD",STAR PLUS FHD
+http://oqab.life:8080/live/8181/8181/111.ts
+#EXTINF:-1 tvg-logo="" group-title="Indian FHD",SONY TV HD
+http://oqab.life:8080/live/8181/8181/112.ts
+#EXTINF:-1 tvg-logo="" group-title="Indian FHD",Zee Cinema HD
+http://oqab.life:8080/live/8181/8181/113.ts
+#EXTINF:-1 tvg-logo="" group-title="Indian FHD",& Pictures HD
+http://oqab.life:8080/live/8181/8181/114.ts
+#EXTINF:-1 tvg-logo="" group-title="Indian FHD",& TV HD
+http://oqab.life:8080/live/8181/8181/115.ts
+#EXTINF:-1 tvg-logo="" group-title="Indian FHD",& Flix HD
+http://oqab.life:8080/live/8181/8181/116.ts
+#EXTINF:-1 tvg-logo="" group-title="Indian FHD",cineplex (4K)
+http://oqab.life:8080/live/8181/8181/117.ts
+#EXTINF:-1 tvg-logo="" group-title="Indian FHD",Star_World_HD
+http://oqab.life:8080/live/8181/8181/118.ts
+#EXTINF:-1 tvg-logo="" group-title="Indian FHD",Star_Movies_HD
+http://oqab.life:8080/live/8181/8181/119.ts
+#EXTINF:-1 tvg-logo="" group-title="Indian FHD",BOLLYWOOD PREMIER FHD
+http://oqab.life:8080/live/8181/8181/120.ts
+#EXTINF:-1 tvg-logo="" group-title="Indian FHD",BOLLYWOOD HD
+http://oqab.life:8080/live/8181/8181/121.ts
