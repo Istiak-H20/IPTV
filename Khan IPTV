@@ -71,8 +71,6 @@ https://yuppcatchup.akamaized.net/preview/etvbengali/2500.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HVZHZGl.png" group-title="Indian Bangla" ,Colors Bangla HD (2)
 http://103.81.104.118/hls/stream28.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/e5Ldh7e.png" group-title="Indian Bangla" ,Zee Bangla HD
-http://tv2.ebox.live:8080/live/zee-bangla.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/e5Ldh7e.png" group-title="Indian Bangla" ,Zee Bangla HD (3)
 http://tvuk3.technohaat.com:6636/zeebanglahd/video.m3u8?token=2-QvSjSlX2
 #EXTINF:-1 tvg-logo="https://i.imgur.com/e5Ldh7e.png" group-title="Indian Bangla" ,Zee Bangla HD (2)
 http://103.81.104.118/hls/stream30.m3u8
@@ -82,8 +80,6 @@ http://103.153.175.254:8080/hls/stream27.m3u8
 http://103.205.133.21/hls/chsj.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/49/Star_Jalsha_2012.png" group-title="Indian Bangla" ,Star Jalsha HD
 http://103.81.104.118/hls/stream31.m3u8
-#EXTINF:-1 tvg-logo="https://aakashaath.com/img/aakashaath_official_logo_white.png" group-title="Indian Bangla",Akash Aat
-http://freeiptv.thunderbd.com:25461/live/free/roarzone/32.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Sony_Aath_logo.svg/1200px-Sony_Aath_logo.svg.png" group-title="Indian Bangla" ,Sony Aat
 http://103.205.133.20/hls/sony8.m3u8
 
@@ -115,8 +111,8 @@ https://ott.bingebd.com/live/ngrp:star_gold_all/chunklist_b478000.m3u8
 http://84.17.41.7/JS_MoviesOK_Hin/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/q0nObmP.png" group-title="Hindi",Star Gold Select HD
 http://oqab.life:8080/live/8181/8181/106.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9SYqIRU.png" group-title="Hindi",Zeee TV HD (Ebox)
-http://tv2.ebox.live:8080/live/zee-tv.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9SYqIRU.png" group-title="Hindi",Zeee TV HD
+http://oqab.life:8080/live/8181/8181/110.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ldXaLJK.png" group-title="Hindi",Zeee Cinema HD
 http://103.81.104.118/hls/stream25.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ldXaLJK.png" group-title="Hindi",Zeee Cinema HD (2)
