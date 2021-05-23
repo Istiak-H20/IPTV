@@ -63,17 +63,6 @@ https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEo
 
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CJUmEHD.png" group-title="Sports",T Sports
-http://103.205.133.19/hls/tsports.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Hn9gjiJ.png" group-title="Sports",Willow 
-https://atc.hopto.org:443/Cricket-Willow-Quality/tracks-v3a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Hn9gjiJ.png" group-title="Sports",Willow 
-https://atc.hopto.org:443/Cricket-Willow-Quality/tracks-v3a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Hn9gjiJ.png" group-title="Sports",Willow HD
-http://oqab.life:8080/live/8181/8181/242.ts
-
-
-
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HVZHZGl.png" group-title="Indian Bangla" ,Colors Bangla SD
 http://103.205.133.19/hls/colorsbangla.m3u8
@@ -97,6 +86,7 @@ http://103.81.104.118/hls/stream31.m3u8
 http://freeiptv.thunderbd.com:25461/live/free/roarzone/32.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Sony_Aath_logo.svg/1200px-Sony_Aath_logo.svg.png" group-title="Indian Bangla" ,Sony Aat
 http://103.205.133.20/hls/sony8.m3u8
+
 
 
 
@@ -145,6 +135,7 @@ http://103.81.104.118/hls/stream14.m3u8
 https://oreotv.us/live/gee/zee_v2.m3u8?id=0-9-tvpictureshd
 #EXTINF:-1 tvg-logo="https://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_548/PORTRAIT/rJOw77VW.png" group-title="Hindi",& Pictures SD
 http://103.205.133.21/hls/andpicture.m3u8
+
 
 
 
@@ -229,6 +220,49 @@ https://shls-mbcdramaksa-prod-dub.shahid.net/out/v1/ce0f0762d89e4394a856c5fd13e4
 https://shls-mbcplusdrama-prod-dub.shahid.net/out/v1/97ca0ce6fc6142f4b14c0a694af59eab/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/imUxQUN.png" group-title="English",MBC Max
 https://shls-mbcmax-prod-dub.shahid.net/out/v1/13815a7cda864c249a88c38e66a2e653/index_1.m3u8
+
+
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CJUmEHD.png" group-title="Sports",T Sports
+http://103.205.133.19/hls/tsports.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Hn9gjiJ.png" group-title="Sports",Willow 
+https://atc.hopto.org:443/Cricket-Willow-Quality/tracks-v3a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Hn9gjiJ.png" group-title="Sports",Willow [2]
+https://atc.hopto.org:443/Cricket-Willow-Quality/tracks-v3a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Hn9gjiJ.png" group-title="Sports",Willow HD
+http://dds.oncast.me:1934/dlive/sp6.stream/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Hn9gjiJ.png" group-title="Sports",Willow HD [2]
+http://oqab.life:8080/live/8181/8181/242.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eyAInC9.png" group-title="Sports",Gazi TV BDIX[1]
+http://30.30.30.30/live/skyfeed1005/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eyAInC9.png" group-title="Sports",Gazi TV BDIX[2]
+http://172.22.22.76/live/feed1002/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eyAInC9.png" group-title="Sports",Gazi TV BDIX[3]
+http://103.102.27.172:6464/Channel-1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eyAInC9.png" group-title="Sports",Gazi TV Global[4]
+http://62.171.150.44:1935/live/live3/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eyAInC9.png" group-title="Sports",Gazi TV Global[5]
+http://itpolly.iptv.digijadoo.net/live/gazi_tv/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eyAInC9.png" group-title="Sports",Gazi TV Global[6]
+http://10.16.100.203:8082/bangla/gtv.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eyAInC9.png" group-title="Sports",Gazi TV Global[7]
+http://172.32.1.88:1935/tvprogram/GAZI-TV/chunklist_w1120694835.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CJUmEHD.png" group-title="Sports",T Sports[1]
+http://otv.ftpbd.net/streams/121/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CJUmEHD.png" group-title="Sports",T Sports[2]
+http://streamcdn.getloconow.com/CJV0DSAWS5_5b0c2a64-23b5-4299-b8b2-988103de9e1a/manifest.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CJUmEHD.png" group-title="Sports",T Sports[3]
+http://10.16.100.203:8082/bangla/T_sport_1stop.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CJUmEHD.png" group-title="Sports",T Sports[4]
+http://10.16.100.207:8082/sports/sportst.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CJUmEHD.png" group-title="Sports",T Sports[5]
+http://103.205.133.19/hls/tsports.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CJUmEHD.png" group-title="Sports",T Sports[6]
+http://10.16.100.203:8082/bangla/T_sport_1stop.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CJUmEHD.png" group-title="Sports",T Sports[7]
+http://172.32.1.88:1935/tvprogram/SONY-ESPN/chunklist_w940241901.m3u8
+
 
 
 
