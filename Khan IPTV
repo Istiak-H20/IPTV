@@ -361,45 +361,45 @@ http://103.153.175.254:8080/hls/stream33.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/K3Dfjdp.png" group-title="Binge Server",Asian TV 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1wB9WHB.png" group-title="Binge Server",Asian TV 
 https://ott.bingebd.com/live/ngrp:asian_tv_all/sohel.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/K3Dfjdp.png" group-title="Binge Server",Ananda TV 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1wB9WHB.png" group-title="Binge Server",Ananda TV 
 https://ott.bingebd.com/live/ngrp:probashibangla_all/sohel.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tRZrBhs.png" group-title="Binge Server",ATN Bangla 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1wB9WHB.png" group-title="Binge Server",ATN Bangla 
 https://ott.bingebd.com/live/ngrp:atn_bangla_all/sohel.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5oAkdWF.png" group-title="Binge Server",ATN News 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1wB9WHB.png" group-title="Binge Server",ATN News 
 https://ott.bingebd.com/live/ngrp:atn_news_all/sohel.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5oAkdWF.png" group-title="Binge Server",Bangla TV 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1wB9WHB.png" group-title="Binge Server",Bangla TV 
 https://ott.bingebd.com/live/ngrp:bangla_tv_all/sohel.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1wB9WHB.png" group-title="Binge Server",Bijoy TV 
 https://ott.bingebd.com/live/ngrp:bijoy_tv_all/sohel.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1wB9WHB.png" group-title="Binge Server",Mohona TV 
 https://ott.bingebd.com/live/ngrp:mohona_tv_all/sohel.m3u8
-#EXTINF:-1 tvg-logo="https://binge.buzz/assets/images/B_Icon-03.png" group-title="Binge Server",MY TV 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1wB9WHB.png" group-title="Binge Server",MY TV 
 https://ott.bingebd.com/live/ngrp:my_tv_all/sohel.m3u8
-#EXTINF:-1 tvg-logo="https://binge.buzz/assets/images/B_Icon-03.png" group-title="Binge Server",News 24 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1wB9WHB.png" group-title="Binge Server",News 24 
 https://ott.bingebd.com/live/ngrp:news_24_hd_all/sohel.m3u8
-#EXTINF:-1 tvg-logo="https://binge.buzz/assets/images/B_Icon-03.png" group-title="Binge Server",NTV 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1wB9WHB.png" group-title="Binge Server",NTV 
 https://ott.bingebd.com/live/ngrp:ntv_all/sohel.m3u8
-#EXTINF:-1 tvg-logo="https://binge.buzz/assets/images/B_Icon-03.png" group-title="Binge Server",RTV 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1wB9WHB.png" group-title="Binge Server",RTV 
 https://ott.bingebd.com/live/ngrp:rtv_all/sohel.m3u8
-#EXTINF:-1 tvg-logo="https://binge.buzz/assets/images/B_Icon-03.png" group-title="Binge Server",SATV 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1wB9WHB.png" group-title="Binge Server",SATV 
 https://ott.bingebd.com/live/ngrp:sa_tv_all/sohel.m3u8
-#EXTINF:-1 tvg-logo="https://binge.buzz/assets/images/B_Icon-03.png" group-title="Binge Server",Sangeet Bangla 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1wB9WHB.png" group-title="Binge Server",Sangeet Bangla 
 https://ott.bingebd.com/live/ngrp:sangeet_bangla_all/sohel.m3u8
-#EXTINF:-1 tvg-logo="https://binge.buzz/assets/images/B_Icon-03.png" group-title="Binge Server",Star Gold HD 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1wB9WHB.png" group-title="Binge Server",Star Gold HD 
 https://ott.bingebd.com/live/ngrp:star_gold_all/sohel.m3u8
-#EXTINF:-1 tvg-logo="https://binge.buzz/assets/images/B_Icon-03.png" group-title="Binge Server",Star Plus HD 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1wB9WHB.png" group-title="Binge Server",Star Plus HD 
 https://ott.bingebd.com/live/ngrp:star_plus_hd_all/sohel.m3u8
-#EXTINF:-1 tvg-logo="https://binge.buzz/assets/images/B_Icon-03.png" group-title="Binge Server",9X Jalwa 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1wB9WHB.png" group-title="Binge Server",9X Jalwa 
 https://ott.bingebd.com/live/ngrp:9x_jalwa_all/sohel.m3u8
-#EXTINF:-1 tvg-logo="https://binge.buzz/assets/images/B_Icon-03.png" group-title="Binge Server",9XM 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1wB9WHB.png" group-title="Binge Server",9XM 
 https://ott.bingebd.com/live/ngrp:9xm_all/sohel.m3u8
-#EXTINF:-1 tvg-logo="https://binge.buzz/assets/images/B_Icon-03.png" group-title="Binge Server",B4U Movies 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1wB9WHB.png" group-title="Binge Server",B4U Movies 
 https://ott.bingebd.com/live/ngrp:b4u_movies_all/sohel.m3u8
-#EXTINF:-1 tvg-logo="https://binge.buzz/assets/images/B_Icon-03.png" group-title="Binge Server",B4U Music 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1wB9WHB.png" group-title="Binge Server",B4U Music 
 https://ott.bingebd.com/live/ngrp:b4u_music_all/sohel.m3u8
-#EXTINF:-1 tvg-logo="https://binge.buzz/assets/images/B_Icon-03.png" group-title="Binge Server",Zing 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1wB9WHB.png" group-title="Binge Server",Zing 
 https://ott.bingebd.com/live/ngrp:zing_all/sohel.m3u8
 
 
