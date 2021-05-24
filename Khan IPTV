@@ -361,7 +361,7 @@ http://103.153.175.254:8080/hls/stream33.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://binge.buzz/assets/images/BingeLogo.svg" group-title="Binge Server",Asian TV 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/K3Dfjdp.png" group-title="Binge Server",Asian TV 
 https://ott.bingebd.com/live/ngrp:asian_tv_all/sohel.m3u8
 #EXTINF:-1 tvg-logo="https://binge.buzz/assets/images/B_Icon-03.png" group-title="Binge Server",Ananda TV 
 https://ott.bingebd.com/live/ngrp:probashibangla_all/sohel.m3u8
