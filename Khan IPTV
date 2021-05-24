@@ -367,13 +367,13 @@ https://ott.bingebd.com/live/ngrp:asian_tv_all/sohel.m3u8
 https://ott.bingebd.com/live/ngrp:probashibangla_all/sohel.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tRZrBhs.png" group-title="Binge Server",ATN Bangla 
 https://ott.bingebd.com/live/ngrp:atn_bangla_all/sohel.m3u8
-#EXTINF:-1 tvg-logo="https://binge.buzz/assets/images/B_Icon-03.png" group-title="Binge Server",ATN News 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5oAkdWF.png" group-title="Binge Server",ATN News 
 https://ott.bingebd.com/live/ngrp:atn_news_all/sohel.m3u8
-#EXTINF:-1 tvg-logo="https://binge.buzz/assets/images/B_Icon-03.png" group-title="Binge Server",Bangla TV 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5oAkdWF.png" group-title="Binge Server",Bangla TV 
 https://ott.bingebd.com/live/ngrp:bangla_tv_all/sohel.m3u8
-#EXTINF:-1 tvg-logo="https://binge.buzz/assets/images/B_Icon-03.png" group-title="Binge Server",Bijoy TV 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1wB9WHB.png" group-title="Binge Server",Bijoy TV 
 https://ott.bingebd.com/live/ngrp:bijoy_tv_all/sohel.m3u8
-#EXTINF:-1 tvg-logo="https://binge.buzz/assets/images/B_Icon-03.png" group-title="Binge Server",Mohona TV 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1wB9WHB.png" group-title="Binge Server",Mohona TV 
 https://ott.bingebd.com/live/ngrp:mohona_tv_all/sohel.m3u8
 #EXTINF:-1 tvg-logo="https://binge.buzz/assets/images/B_Icon-03.png" group-title="Binge Server",MY TV 
 https://ott.bingebd.com/live/ngrp:my_tv_all/sohel.m3u8
