@@ -159,6 +159,8 @@ https://m3u-editor.com/serve/ezzetv/301920810
 https://m3u-editor.com/serve/ezzetv/301920811
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Colors_tv2017.png/220px-Colors_tv2017.png" group-title="Hindi", Colors HD
 https://m3u-editor.com/serve/ezzetv/301920809
+#EXTINF:-1 tvg-logo="" group-title="Hindi", Dil Se
+https://live.hungama.com/linear/dil-se/playlist_720p/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oTt7D3K.png" group-title="Hindi", Sony Entertainment HD
 https://m3u-editor.com/serve/ezzetv/301920813
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oTt7D3K.png" group-title="Hindi", Sony Entertainment SD
