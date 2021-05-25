@@ -230,7 +230,7 @@ http://streamcdn.getloconow.com/CJV0DSAWS5_5b0c2a64-23b5-4299-b8b2-988103de9e1a/
 http://10.16.100.203:8082/bangla/T_sport_1stop.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CJUmEHD.png" group-title="Sports",T Sports (4)
 http://10.16.100.207:8082/sports/sportst.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CJUmEHD.png" group-title="Sports",T Sports (7)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CJUmEHD.png" group-title="Sports",T Sports (5)
 http://172.32.1.88:1935/tvprogram/SONY-ESPN/chunklist_w940241901.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Hn9gjiJ.png" group-title="Sports",Willow 
 https://atc.hopto.org:443/Cricket-Willow-Quality/tracks-v3a1/mono.m3u8
