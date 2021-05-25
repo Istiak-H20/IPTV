@@ -401,6 +401,8 @@ https://ott.bingebd.com/live/ngrp:b4u_movies_all/sohel.m3u8
 https://ott.bingebd.com/live/ngrp:b4u_music_all/sohel.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1wB9WHB.png" group-title="Binge Server",Zing 
 https://ott.bingebd.com/live/ngrp:zing_all/sohel.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1wB9WHB.png" group-title="Binge Server",Binge Live Sports
+https://ott.bingebd.com/live/ngrp:bingelive1_all/manifest.mpd
 
 
 
