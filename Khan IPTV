@@ -219,10 +219,9 @@ https://shls-mbcmax-prod-dub.shahid.net/out/v1/13815a7cda864c249a88c38e66a2e653/
 
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CJUmEHD.png" group-title="Sports",T Sports
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CJUmEHD.png" group-title="Sports", BD vs SL HD
 https://streamcdn.getloconow.com/CJV0DSAWS5_99be21ed-3ded-45a8-897d-726fecac6560/CJV0DSAWS5_99be21ed-3ded-45a8-897d-726fecac6560_hi/manifest.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CJUmEHD.png" group-title="Sports",T Sports
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CJUmEHD.png" group-title="Sports", BD vs SL SD
 https://streamcdn.getloconow.com/CJV0DSAWS5_99be21ed-3ded-45a8-897d-726fecac6560/CJV0DSAWS5_99be21ed-3ded-45a8-897d-726fecac6560_low/manifest.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CJUmEHD.png" group-title="Sports",T Sports
 http://103.205.133.19/hls/tsports.m3u8
