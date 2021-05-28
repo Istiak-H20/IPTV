@@ -401,9 +401,9 @@ http://103.153.175.254:8080/hls/stream23.m3u8
 http://103.153.175.254:8080/hls/stream32.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/T1vgYzE.png" group-title="BDIX Server", BBC Earth
 http://103.153.175.254:8080/hls/stream5.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/vsBKeDw.png" group-title="BDIX Server", Discovery Bangla HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZfTIcJZ.png" group-title="BDIX Server", Discovery Bangla HD
 http://103.153.175.254:8080/hls/stream9.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZfTIcJZ.png" group-title="BDIX Server", National Geographic Bangla HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/m7Cl2M9.png" group-title="BDIX Server", National Geographic Bangla HD
 http://103.153.175.254:8080/hls/stream13.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KLBorkM.png" group-title="BDIX Server", Travel XP Bangla HD
 http://103.153.175.254:8080/hls/stream37.m3u8
