@@ -295,7 +295,7 @@ https://m-c01-j2apps.s.llnwi.net/live_hd/0306.9XM.in.m3u8
 http://tjszdhm3.tvclub.xyz/iptv/69AWBEYGGS5VZ6/6570/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7rnhie0.png" group-title="Music", Dhoom Music
 http://103.205.133.20/hls/dhoommusic.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/GPPBEiZ.png" group-title="Music", MTV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DKVLQ7m.png" group-title="Music", MTV
 http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TNk56Ai.png" group-title="Music", Sangeet Bangla
 http://103.205.133.20/hls/sangeetbangla.m3u8
@@ -674,6 +674,8 @@ http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Kids/d906ad24c354b91.
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Kids/7f4c54362e9fa66.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WYFROGS.png" group-title="Kids", Cartoon Network Hindi
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Kids/20e3acedb66331e.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WYFROGS.png" group-title="Kids", Cartoon Network English
+http://103.205.133.21/hls/cn.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WYFROGS.png" group-title="Kids", Cartoon Network Hindi  HD
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Kids/7fe9fa45b205f17.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WYFROGS.png" group-title="Kids", CARTOON NETWORK PAK
@@ -774,6 +776,8 @@ http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Kids/91aba00ebe562bf.
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Kids/ea11b00173a3f37.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WYFROGS.png" group-title="Kids", SONY YAY HINDI
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Kids/a20fe53e482cc33.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WYFROGS.png" group-title="Kids", SONY YAY BANGLA
+https://piratesiptv.shortcm.li/sonyyay.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WYFROGS.png" group-title="Kids", SONY YAY TELUGU
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Kids/bbe4fbc2002185b.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WYFROGS.png" group-title="Kids", SPACE TOON
