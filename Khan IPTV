@@ -253,14 +253,8 @@ https://y5w8j4a9.ssl.hwcdn.net/zeecafehd/tracks-v1a1/index.m3u8
 
 
 
-
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CJUmEHD.png" group-title="Sports", BD vs SL HD
-https://streamcdn.getloconow.com/CJV0DSAWS5_99be21ed-3ded-45a8-897d-726fecac6560/CJV0DSAWS5_99be21ed-3ded-45a8-897d-726fecac6560_hi/manifest.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CJUmEHD.png" group-title="Sports", BD vs SL SD
-https://streamcdn.getloconow.com/CJV0DSAWS5_99be21ed-3ded-45a8-897d-726fecac6560/CJV0DSAWS5_99be21ed-3ded-45a8-897d-726fecac6560_low/manifest.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CJUmEHD.png" group-title="Sports", BD vs SL HD
-https://streamcdn.getloconow.com/EIIK3FMNK3_90fabc98-7c26-41e3-a326-46c1d01d1746/manifest.m3u8
+#EXTINF: 1 tvg-logo="https://i.imgur.com/WIzKUT1.png" group-title="Sports", Bein Sports 2 HD
+https://m3u-editor.com/serve/33daccc0-c052-11eb-9571-d3fc1df89d62/305723497
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eyAInC9.png" group-title="Sports", Gazi TV BDIX
 http://30.30.30.30/live/skyfeed1005/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eyAInC9.png" group-title="Sports", Gazi TV BDIX (2)
@@ -287,12 +281,28 @@ http://10.16.100.203:8082/bangla/T_sport_1stop.m3u8
 http://10.16.100.207:8082/sports/sportst.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CJUmEHD.png" group-title="Sports", T Sports (5)
 http://172.32.1.88:1935/tvprogram/SONY-ESPN/chunklist_w940241901.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zXkJ1tG.jpg" group-title="Sports", 1 Hindi HD
+https://m3u-editor.com/serve/33daccc0-c052-11eb-9571-d3fc1df89d62/305723490
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VcSPzlc.png" group-title="Sports", Star Sports 2
+https://m3u-editor.com/serve/33daccc0-c052-11eb-9571-d3fc1df89d62/305723491
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TL2jAU6.png" group-title="Sports", Star Sports Select 1 HD
+https://m3u-editor.com/serve/33daccc0-c052-11eb-9571-d3fc1df89d62/305723492
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6a7pWRE.png" group-title="Sports", Sony Six HD 2
+https://m3u-editor.com/serve/33daccc0-c052-11eb-9571-d3fc1df89d62/305723493
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aO2GTAR.jpg" group-title="Sports", Sony Ten1 HD
+https://m3u-editor.com/serve/33daccc0-c052-11eb-9571-d3fc1df89d62/305723494
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rY69nFs.jpg" group-title="Sports", Sony Ten2 HD
+https://m3u-editor.com/serve/33daccc0-c052-11eb-9571-d3fc1df89d62/305723495
+#EXTINF:-1 tvg-logo="https://i.imgur.com/K1rahTG.png" group-title="Sports", Sony Ten 3 HD
+https://m3u-editor.com/serve/33daccc0-c052-11eb-9571-d3fc1df89d62/305723496
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Hn9gjiJ.png" group-title="Sports", Willow
 https://atc.hopto.org:443/Cricket-Willow-Quality/tracks-v3a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Hn9gjiJ.png" group-title="Sports", Willow HD
 https://atc.hopto.org/Cricket-Willow-Quality/tracks-v3a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Hn9gjiJ.png" group-title="Sports", Willow HD (2)
 http://oqab.life:8080/live/8181/8181/242.ts
+#EXTINF: 1 tvg-logo="https://i.imgur.com/Hn9gjiJ.png" group-title="Sports", WILLOW HD
+https://m3u-editor.com/serve/33daccc0-c052-11eb-9571-d3fc1df89d62/305723489
 
 
 
