@@ -293,6 +293,8 @@ https://m3u-editor.com/serve/33daccc0-c052-11eb-9571-d3fc1df89d62/305723493
 https://m3u-editor.com/serve/33daccc0-c052-11eb-9571-d3fc1df89d62/305723494
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rY69nFs.jpg" group-title="Sports", Sony Ten2 HD
 https://m3u-editor.com/serve/33daccc0-c052-11eb-9571-d3fc1df89d62/305723495
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rY69nFs.jpg" group-title="Sports", Sony Ten2 Test
+http://stream.amrbd.com:8082/Ten2HD/tracks-v1a1/2021/05/30/07/12/48-06000.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/K1rahTG.png" group-title="Sports", Sony Ten 3 HD
 https://m3u-editor.com/serve/33daccc0-c052-11eb-9571-d3fc1df89d62/305723496
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Hn9gjiJ.png" group-title="Sports", Willow
