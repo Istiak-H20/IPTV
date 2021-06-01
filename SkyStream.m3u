@@ -281,7 +281,7 @@ http://103.205.133.19/hls/tsports.m3u8
 https://m3u-editor.com/serve/a55ec780-c11d-11eb-942f-2db4c3758c76/306269279
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CJUmEHD.png" group-title="Sports", T Sports (2)
 http://172.32.1.88:1935/tvprogram/SONY-ESPN/chunklist_w940241901.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/zXkJ1tG.jpg" group-title="Sports", Star Sports 1 Hindi HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3ibgIMV.png" group-title="Sports", Star Sports 1 Hindi HD
 https://m3u-editor.com/serve/33daccc0-c052-11eb-9571-d3fc1df89d62/305723490
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VcSPzlc.png" group-title="Sports", Star Sports 2
 https://m3u-editor.com/serve/33daccc0-c052-11eb-9571-d3fc1df89d62/305723491
