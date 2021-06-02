@@ -97,8 +97,8 @@ http://103.205.133.21/hls/sony8.m3u8
 http://103.81.104.118/hls/stream31.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ppJO2Ep.png" group-title="Indian Bangla", Star Jalsha HD (2)
 http://103.153.175.254:8080/hls/stream31.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/PW9hRDa.png" group-title="Indian Bangla"Sun Bangla
-https://d3plxx22mik57v.cloudfront.net/SUN_BANGLA.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PW9hRDa.png" group-title="Indian Bangla", Sun Bangla
+https://m3u-editor.com/serve/442781d0-c2d2-11eb-9c60-457653f41644/307634736
 #EXTINF:-1 tvg-logo="https://i.imgur.com/e5Ldh7e.png" group-title="Indian Bangla", Zee Bangla HD
 http://tvuk3.technohaat.com:6636/zeebanglahd/video.m3u8?token=2-QvSjSlX2
 #EXTINF:-1 tvg-logo="https://i.imgur.com/e5Ldh7e.png" group-title="Indian Bangla", Zee Bangla HD (2)
