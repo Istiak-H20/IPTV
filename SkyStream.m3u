@@ -82,29 +82,27 @@ http://103.153.175.254:8080/hls/stream27.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2PQfcOh.png" group-title="Indian Bangla", Jalsha Movies HD (2)
 https://m3u-editor.com/serve/442781d0-c2d2-11eb-9c60-457653f41644/307634738
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kXfuCMM.png" group-title="Indian Bangla", News 18 Bangla
-https://piratesiptv.shortcm.li/n18b.m3u8
+https://news18bangla-lh.akamaihd.net/i/n18bangla_1@2289/index_4_av-p.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EpykY5A.png" group-title="Indian Bangla", Sony Aat
 http://103.205.133.21/hls/sony8.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ppJO2Ep.png" group-title="Indian Bangla", Star Jalsha SD
 http://103.205.133.21/hls/chsj.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ppJO2Ep.png" group-title="Indian Bangla", Star Jalsha HD
 http://103.81.104.118/hls/stream31.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ppJO2Ep.png" group-title="Indian Bangla", Star Jalsha HD (2)
-https://m3u-editor.com/serve/442781d0-c2d2-11eb-9c60-457653f41644/307634741
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PW9hRDa.png" group-title="Indian Bangla", Sun Bangla
-https://m3u-editor.com/serve/442781d0-c2d2-11eb-9c60-457653f41644/307634736
+https://d3plxx22mik57v.cloudfront.net/SUN_BANGLA.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/e5Ldh7e.png" group-title="Indian Bangla", Zee Bangla SD
-https://m3u-editor.com/serve/442781d0-c2d2-11eb-9c60-457653f41644/307634743
+http://209.126.120.153:80/hls/zeebanglahd.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/e5Ldh7e.png" group-title="Indian Bangla", Zee Bangla HD
 http://tvuk3.technohaat.com:6636/zeebanglahd/video.m3u8?token=2-QvSjSlX2
 #EXTINF:-1 tvg-logo="https://i.imgur.com/e5Ldh7e.png" group-title="Indian Bangla", Zee Bangla HD (2)
-http://103.81.104.118/hls/stream30.m3u8
+http://cv.khushitv.xyz/channels.php?c=zeebanglahd&e=.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/e5Ldh7e.png" group-title="Indian Bangla", Zee Bangla HD (3)
 https://m3u-editor.com/serve/442781d0-c2d2-11eb-9c60-457653f41644/307634744
 #EXTINF:-1 tvg-logo="https://i.imgur.com/M6GyIvI.png" group-title="Indian Bangla", Zee Bangla Cinema
 https://y5w8j4a9.ssl.hwcdn.net/zbanglacnm/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zplvx69.png" group-title="Indian Bangla", Zee 24 Ghanta
-
+http://cv.khushitv.xyz/channels.php?c=24ghanta&e=.m3u8
 
 
 
@@ -273,26 +271,26 @@ https://m3u-editor.com/serve/442781d0-c2d2-11eb-9c60-457653f41644/307634820
 http://103.205.133.19/hls/tsports.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CJUmEHD.png" group-title="Sports", T Sports 2
 https://m3u-editor.com/serve/442781d0-c2d2-11eb-9c60-457653f41644/307634819
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3ibgIMV.png" group-title="Sports", Star Sports 1 SD
+http://103.205.133.21/hls/chss1.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3ibgIMV.png" group-title="Sports", Star Sports 1 HD
-https://m3u-editor.com/serve/442781d0-c2d2-11eb-9c60-457653f41644/307634808
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3ibgIMV.png" group-title="Sports", Star Sports 1 Hindi HD
-https://m3u-editor.com/serve/33daccc0-c052-11eb-9571-d3fc1df89d62/305723490
+https://piratesiptv.shortcm.li/starsports1.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VcSPzlc.png" group-title="Sports", Star Sports 2
 https://m3u-editor.com/serve/442781d0-c2d2-11eb-9c60-457653f41644/307634809
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TL2jAU6.png" group-title="Sports", Star Sports Select 1
-https://m3u-editor.com/serve/442781d0-c2d2-11eb-9c60-457653f41644/307634810
+http://103.102.27.172:6464/Channel-2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TL2jAU6.png" group-title="Sports", Star Sports Select 1 HD
 https://m3u-editor.com/serve/442781d0-c2d2-11eb-9c60-457653f41644/307634811
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TL2jAU6.png" group-title="Sports", Star Sports Select 2 HD
-https://m3u-editor.com/serve/442781d0-c2d2-11eb-9c60-457653f41644/307634812
+https://piratesiptv.shortcm.li/select2.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6a7pWRE.png" group-title="Sports", Sony Six HD
-https://m3u-editor.com/serve/442781d0-c2d2-11eb-9c60-457653f41644/307634816
+http://103.205.133.21/hls/sonysix.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aO2GTAR.jpg" group-title="Sports", Sony Ten 1 HD
-https://m3u-editor.com/serve/442781d0-c2d2-11eb-9c60-457653f41644/307634813
+http://103.205.133.21/hls/ten1.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rY69nFs.jpg" group-title="Sports", Sony Ten 2 HD
-https://m3u-editor.com/serve/442781d0-c2d2-11eb-9c60-457653f41644/307634814
+http://103.205.133.21/hls/ten2.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/K1rahTG.png" group-title="Sports", Sony Ten 3 HD
-https://m3u-editor.com/serve/442781d0-c2d2-11eb-9c60-457653f41644/307634815
+http://103.205.133.21/hls/ten3.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WCz0O78.png" group-title="Sports", Ten Sports
 https://m3u-editor.com/serve/442781d0-c2d2-11eb-9c60-457653f41644/307634819
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Hn9gjiJ.png" group-title="Sports", Willow SD
