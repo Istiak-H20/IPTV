@@ -1,28 +1,28 @@
 #EXTM3U 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/h5FhOWT.png" group-title="Bangladeshi", Ananda TV
-http://stream.amrbd.com:8082/anandotv/tracks-v1a1/mono.m3u8
+http://iptvbd.jagobd.com:1931/boishakhi/anandatv.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fxq0pV2.png" group-title="Bangladeshi", Asian TV
 http://103.205.133.21/hls/asiantv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5PsRkPd.png" group-title="Bangladeshi", ATN Bangla
-http://103.205.133.21/hls/atnbangla.m3u8
+http://iptvbd.jagobd.com:1931/boishakhi/atnbd-8-org.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/v9PqrCG.png" group-title="Bangladeshi", ATN News
 http://103.205.133.21/hls/atnnews.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/K43LsMQ.png" group-title="Bangladeshi", Bangla TV
 http://103.205.133.21/hls/banglatv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HX8SSDA.png" group-title="Bangladeshi", Banglavision HD
-http://103.205.133.21/hls/banglavision.m3u8
+http://iptvbd.jagobd.com:1931/boishakhi/banglav000.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kDmkexe.png" group-title="Bangladeshi", Bijoy TV
-http://cdn.ihub.live:8080/j-BijoyTV/tracks-v1a1/mono.m3u8
+http://iptvbd.jagobd.com:1931/boishakhi/bijoy00.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pTJSGtj.png" group-title="Bangladeshi", Boshakhi TV
 http://iptvbd.jagobd.com:1931/boishakhi/boishakhitv-org.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MmhxR5E.png" group-title="Bangladeshi", Channel 24
-https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/channel24-sg-e8e.stream/chunks.m3u8
+http://iptvbd.jagobd.com:1931/boishakhi/channel24-sg-e8e.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fj8nxOw.png" group-title="Bangladeshi", Channel 9 HD
-http://103.205.133.21/hls/ninechannel.m3u8
+http://iptvbd.jagobd.com:1931/boishakhi/channel9hd.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/p0I5dr0.png" group-title="Bangladeshi", Channel I HD
-http://103.205.133.21/hls/ichannel.m3u8
+http://iptvbd.jagobd.com:1931/boishakhi/channeli-8-org.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/djAX8Rc.png" group-title="Bangladeshi", DBC News
-http://103.205.133.21/hls/dbcnews.m3u8
+http://iptvbd.jagobd.com:1931/boishakhi/dbcnews.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tPZKfLr.png" group-title="Bangladeshi", Deepto TV HD
 http://103.205.133.48/hls/deeptotv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JgkIH3w.png" group-title="Bangladeshi", Desh TV
@@ -36,27 +36,25 @@ http://103.205.133.48/hls/gaanbangla.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eyAInC9.png" group-title="Bangladeshi", Gazi TV HD 
 http://cdn.ihub.live:8080/j-GTV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kviJN1i.png" group-title="Bangladeshi", Independent TV
-https://piratesiptv.shortcm.li/independent.m3u8
+http://iptvbd.jagobd.com:1931/boishakhi/independent-8-org.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ds3aThu.jpg" group-title="Bangladeshi", Jamuna TV
-https://tempsignature.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/jamuna-test-sample-ok.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ds3aThu.jpg" group-title="Bangladeshi", Jamuna TV (2)
-http://stream.amrbd.com:8082/Jamuna-TV/tracks-v1a1/mono.m3u8
+http://iptvbd.jagobd.com:1931/boishakhi/jamuna-test-sample-ok.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7ftu2Rt.jpg" group-title="Bangladeshi", Maasranga TV HD
-http://cdn.ihub.live:8080/j-Maasranga/tracks-v1a1/mono.m3u8
+http://iptvbd.jagobd.com:1931/boishakhi/mass.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4imblNY.jpg" group-title="Bangladeshi", Mohona TV HD
-http://103.205.133.21/hls/mohonatv.m3u8
+http://iptvbd.jagobd.com:1931/boishakhi/mohonatv00000223232244556633.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bahWhBG.png" group-title="Bangladeshi", My TV BD
-https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/mytv-up-off.stream/chunks.m3u8
+http://iptvbd.jagobd.com:1931/boishakhi/mytv-up-off.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2cpHJKq.png" group-title="Bangladeshi", Nagorik TV
 http://103.205.133.21/hls/nagorik.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mn88b34.png" group-title="Bangladeshi", News 24 HD
-http://103.205.133.21/hls/news24.m3u8
+http://iptvbd.jagobd.com:1931/boishakhi/news24local.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3usnOla.png" group-title="Bangladeshi", NTV BD
 http://103.205.133.21/hls/ntv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yi5p51T.png" group-title="Bangladeshi", RTV HD
-http://103.205.133.21/hls/rtv.m3u8
+http://iptvbd.jagobd.com:1931/boishakhi/rtv-sg.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fraEjzm.png" group-title="Bangladeshi", SA TV
-https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/satvoff5666.stream/chunks.m3u8
+http://iptvbd.jagobd.com:1931/boishakhi/satvoff5666.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Z2QvpTn.png" group-title="Bangladeshi", Shomoy TV
 http://103.205.133.21/hls/somoy.m3u8
 
@@ -174,6 +172,8 @@ https://live-hls-web-aje.getaj.net/AJE/03.m3u8
 https://livecdn.fptplay.net/qnetlive/animalplanet_hls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XITYSY0.png" group-title="English", Animal Planet HD (2)
 http://cdn.ihub.live:8080/AnimalPlanet/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XITYSY0.png" group-title="English", Animal Planet HD Bangla
+http://103.81.104.118/hls/stream6-9467.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XITYSY0.png" group-title="English", Animal Planet HD Hindi
 http://nwbz1u.ecm.tm/806B6CF/89181e/SM_FHD-HINDI-ANIMALPLANET/tracks-v1a1/index.m3u8?token=0558356b27398f74c6bf8c38e901782c5ad3f413434f76feba4126576823fdf44b34911850a0dc345c440cee76ee92138c664006a29d4792957a13ce9f386d0f81e4bad707c643dffddbb332a702f41eb8a4177934010da02cd85807927addfbee3fb015fe7846c156d439bd0f9899a593&mac=00:1A:79:4B:57:A3&ip=27.96.95.31&magic_server=MAIN_MP
 #EXTINF:-1 tvg-logo="https://i.imgur.com/69pCK1u.png" group-title="English", AXN
@@ -192,6 +192,8 @@ https://m3u-editor.com/serve/442781d0-c2d2-11eb-9c60-457653f41644/307634788
 http://cdn.ihub.live:8080/j-DW/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vsBKeDw.png" group-title="English", Discovery HD
 http://stream.amrbd.com:8082/Discovery-Tv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vsBKeDw.png" group-title="English", Discovery HD Bangla 
+http://103.81.104.118/hls/stream9-10645.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vsBKeDw.png" group-title="English", Discovery HD HINDI
 https://piratesiptv.shortcm.li/discoveryhindi.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rv4dtJo.png" group-title="English", Discovery Asia
@@ -273,7 +275,7 @@ https://m3u-editor.com/serve/8cc440e0-c80e-11eb-9fa8-45e5eddda32b/312436684
 https://m3u-editor.com/serve/8cc440e0-c80e-11eb-9fa8-45e5eddda32b/312436685
 #EXTINF: 1 tvg-logo="https://i.imgur.com/tF4qEnS.png" group-title="Sports", La Liga TV
 https://m3u-editor.com/serve/8cc440e0-c80e-11eb-9fa8-45e5eddda32b/312436686
-#EXTINF:-1 tvg-logo="https://i.imgur.com/eyAInC9.png" group-title="Sports", Gazi TV BDIX
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eyAInC9.png" group-title="Sports", Gazi TV
 http://103.102.27.172:6464/Channel-1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/c53SXnN.png" group-title="Sports", PTV Sports
 http://42.201.228.226:8678/PTVSPORT_NOC_MOMILE/mono.m3u8
@@ -352,7 +354,7 @@ http://as3.digitalsynapsebd.com:8263/;stream.mp3
 http://ample-zeno-20.radiojar.com/aqs8z2kn944tv
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0HrUDOH.png" group-title="FM Radio",Radio Today (89.6)
 http://node-24.zeno.fm/0zha3rfq02quv?rj-ttl=5&rj-tok=AAABdMQIscsAumYfZ0oUroNvhQ
-#EXTINF:-1 tvg-logo="https://i.imgur.com/dbNaIjP.png" group-title="FM Radio",Radio Dhoni (91.2)*
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dbNaIjP.png" group-title="FM Radio",Radio Dhoni (91.2)
 http://182.160.110.180:1020/;stream.mp3
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UDrB3Z9.png" group-title="FM Radio",Radio Shadhin (92.4)
 http://ample-zeno-03.radiojar.com/8wv4d8g4344tv
@@ -779,3 +781,6 @@ http://cdn.ihub.live:8080/SonyYay/tracks-v1a1/mono.m3u8
 https://piratesiptv.shortcm.li/sonyyay.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ra2RzlQ.png" group-title="Kids", WOW KIDS  HINDI
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Kids/2ff8dc4bdf8e0c4.m3u8
+
+
+
