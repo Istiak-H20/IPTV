@@ -822,71 +822,71 @@ http://tv2.ebox.live:8080/live/starsportsselect-2.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fxq0pV2.png" group-title="Radiant TV Server", Asian TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fxq0pV2.png" group-title="BDIX TV Server 4 (সবার চলবে না)", Asian TV
 http://103.205.133.21/hls/asiantv.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5PsRkPd.png" group-title="Radiant TV Server", ATN Bangla
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5PsRkPd.png" group-title="BDIX TV Server 4 (সবার চলবে না)", ATN Bangla
 http://103.205.133.21/hls/atnbangla.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/v9PqrCG.png" group-title="Radiant TV Server", ATN News
+#EXTINF:-1 tvg-logo="https://i.imgur.com/v9PqrCG.png" group-title="BDIX TV Server 4 (সবার চলবে না)", ATN News
 http://103.205.133.21/hls/atnnews.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/HX8SSDA.png" group-title="Radiant TV Server", Banglavision
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HX8SSDA.png" group-title="BDIX TV Server 4 (সবার চলবে না)", Banglavision
 http://103.205.133.21/hls/banglavision.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/K43LsMQ.png" group-title="Radiant TV Server", Bangla TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/K43LsMQ.png" group-title="BDIX TV Server 4 (সবার চলবে না)", Bangla TV
 http://103.205.133.21/hls/banglatv.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/pTJSGtj.png" group-title="Radiant TV Server", Boishakhi
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pTJSGtj.png" group-title="BDIX TV Server 4 (সবার চলবে না)", Boishakhi
 http://103.205.133.21/hls/boisakhi.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/p0I5dr0.png" group-title="Radiant TV Server", Channel I HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/p0I5dr0.png" group-title="BDIX TV Server 4 (সবার চলবে না)", Channel I HD
 http://103.205.133.21/hls/ichannel.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fj8nxOw.png" group-title="Radiant TV Server", Channel 9 HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fj8nxOw.png" group-title="BDIX TV Server 4 (সবার চলবে না)", Channel 9 HD
 http://103.205.133.21/hls/ninechannel.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MmhxR5E.png" group-title="Radiant TV Server", Channel 24 BD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MmhxR5E.png" group-title="BDIX TV Server 4 (সবার চলবে না)", Channel 24 BD
 http://103.205.133.21/hls/channel24.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/djAX8Rc.png" group-title="Radiant TV Server", DBC News
+#EXTINF:-1 tvg-logo="https://i.imgur.com/djAX8Rc.png" group-title="BDIX TV Server 4 (সবার চলবে না)", DBC News
 http://103.205.133.21/hls/dbcnews.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tPZKfLr.png" group-title="Radiant TV Server", Deepto TV HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tPZKfLr.png" group-title="BDIX TV Server 4 (সবার চলবে না)", Deepto TV HD
 http://103.205.133.21/hls/deeptotv.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/JgkIH3w.png" group-title="Radiant TV Server", Desh TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JgkIH3w.png" group-title="BDIX TV Server 4 (সবার চলবে না)", Desh TV
 http://103.205.133.21/hls/deshtv.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/kFqOMtx.png" group-title="Radiant TV Server", Ekushey TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kFqOMtx.png" group-title="BDIX TV Server 4 (সবার চলবে না)", Ekushey TV
 http://103.205.133.21/hls/ekushey.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Jo7wzmn.png" group-title="Radiant TV Server", Gaan Bangla HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Jo7wzmn.png" group-title="BDIX TV Server 4 (সবার চলবে না)", Gaan Bangla HD
 http://103.205.133.21/hls/gaanbangla.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ds3aThu.jpg" group-title="Radiant TV Server", Jamuna TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ds3aThu.jpg" group-title="BDIX TV Server 4 (সবার চলবে না)", Jamuna TV
 http://103.205.133.21/hls/jamunatv.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4imblNY.jpg" group-title="Radiant TV Server", Mohona TV HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4imblNY.jpg" group-title="BDIX TV Server 4 (সবার চলবে না)", Mohona TV HD
 http://103.205.133.21/hls/mohonatv.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/bahWhBG.png" group-title="Radiant TV Server", My TV HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bahWhBG.png" group-title="BDIX TV Server 4 (সবার চলবে না)", My TV HD
 http://103.205.133.21/hls/mytv.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/2cpHJKq.png" group-title="Radiant TV Server", Nagorik TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2cpHJKq.png" group-title="BDIX TV Server 4 (সবার চলবে না)", Nagorik TV
 http://103.205.133.21/hls/nagorik.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/mn88b34.png" group-title="Radiant TV Server", News 24 HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mn88b34.png" group-title="BDIX TV Server 4 (সবার চলবে না)", News 24 HD
 http://103.205.133.21/hls/news24.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3usnOla.png" group-title="Radiant TV Server", NTV BD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3usnOla.png" group-title="BDIX TV Server 4 (সবার চলবে না)", NTV BD
 http://103.205.133.21/hls/ntv.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/yi5p51T.png" group-title="Radiant TV Server", RTV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yi5p51T.png" group-title="BDIX TV Server 4 (সবার চলবে না)", RTV
 http://103.205.133.21/hls/rtv.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fraEjzm.png" group-title="Radiant TV Server", SATV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fraEjzm.png" group-title="BDIX TV Server 4 (সবার চলবে না)", SATV
 http://103.205.133.21/hls/satv.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EpykY5A.png" group-title="Radiant TV Server", Sony Aath
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EpykY5A.png" group-title="BDIX TV Server 4 (সবার চলবে না)", Sony Aath
 http://103.205.133.21/hls/sony8.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ppJO2Ep.png" group-title="Radiant TV Server", Star Jalsha
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ppJO2Ep.png" group-title="BDIX TV Server 4 (সবার চলবে না)", Star Jalsha
 http://103.205.133.21/hls/chsj.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/e5Ldh7e.png" group-title="Radiant TV Server", Zee Bangla
+#EXTINF:-1 tvg-logo="https://i.imgur.com/e5Ldh7e.png" group-title="BDIX TV Server 4 (সবার চলবে না)", Zee Bangla
 http://103.205.133.21/hls/zeebangla.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/yBMKPcX.png" group-title="Radiant TV Server", And Picture
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yBMKPcX.png" group-title="BDIX TV Server 4 (সবার চলবে না)", And Picture
 http://103.205.133.21/hls/andpicture.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/HeRPCOn.png" group-title="Radiant TV Server", And TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HeRPCOn.png" group-title="BDIX TV Server 4 (সবার চলবে না)", And TV
 http://103.205.133.21/hls/andtv.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/WmjPBWy.png" group-title="Radiant TV Server", Colors Ristey
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WmjPBWy.png" group-title="BDIX TV Server 4 (সবার চলবে না)", Colors Ristey
 http://103.205.133.21/hls/chc.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/oTt7D3K.png" group-title="Radiant TV Server", Sony Entertainment HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oTt7D3K.png" group-title="BDIX TV Server 4 (সবার চলবে না)", Sony Entertainment HD
 http://103.205.133.21/hls/chs.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/AMhvwJB.png" group-title="Radiant TV Server", Star Plus
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AMhvwJB.png" group-title="BDIX TV Server 4 (সবার চলবে না)", Star Plus
 http://103.205.133.21/hls/chsp.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9SYqIRU.png" group-title="Radiant TV Server", Zee TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9SYqIRU.png" group-title="BDIX TV Server 4 (সবার চলবে না)", Zee TV
 http://103.205.133.21/hls/zeetv.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3i2U8HH.png" group-title="Radiant TV Server", Sony Pix
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3i2U8HH.png" group-title="BDIX TV Server 4 (সবার চলবে না)", Sony Pix
 http://103.205.133.21/hls/sonypix.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/IEwWaEN.png" group-title="Radiant TV Server", 9X Music
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IEwWaEN.png" group-title="BDIX TV Server 4 (সবার চলবে না)", 9X Music
 http://103.205.133.21/hls/9xm.m3u8
 
 
@@ -894,65 +894,65 @@ http://103.205.133.21/hls/9xm.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/dQrdh2F.png" group-title="Ridoy TV Server", Al Jazeera
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dQrdh2F.png" group-title="BDIX TV Server 5 (সবার চলবে না)", Al Jazeera
 https://rhridoy136.shortcm.li/aljazeera.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fxq0pV2.png" group-title="Ridoy TV Server", Asian TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fxq0pV2.png" group-title="BDIX TV Server 5 (সবার চলবে না)", Asian TV
 https://rhridoy136.shortcm.li/asiantv.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5PsRkPd.png" group-title="Ridoy TV Server", ATN Bangla
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5PsRkPd.png" group-title="BDIX TV Server 5 (সবার চলবে না)", ATN Bangla
 https://rhridoy136.shortcm.li/atnbangla.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/v9PqrCG.png" group-title="Ridoy TV Server", ATN News
+#EXTINF:-1 tvg-logo="https://i.imgur.com/v9PqrCG.png" group-title="BDIX TV Server 5 (সবার চলবে না)", ATN News
 https://rhridoy136.shortcm.li/atnnews.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/K43LsMQ.png" group-title="Ridoy TV Server", Bangla TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/K43LsMQ.png" group-title="BDIX TV Server 5 (সবার চলবে না)", Bangla TV
 https://rhridoy136.shortcm.li/banglatv.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/HX8SSDA.png" group-title="Ridoy TV Server", Banglavision
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HX8SSDA.png" group-title="BDIX TV Server 5 (সবার চলবে না)", Banglavision
 https://rhridoy136.shortcm.li/banglavisiontv.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/kDmkexe.png" group-title="Ridoy TV Server", Bijoy TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kDmkexe.png" group-title="BDIX TV Server 5 (সবার চলবে না)", Bijoy TV
 https://rhridoy136.shortcm.li/bijoytv.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/pTJSGtj.png" group-title="Ridoy TV Server", Boishakhi
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pTJSGtj.png" group-title="BDIX TV Server 5 (সবার চলবে না)", Boishakhi
 https://rhridoy136.shortcm.li/boishakhitv.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MmhxR5E.png" group-title="Ridoy TV Server", Channal 24
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MmhxR5E.png" group-title="BDIX TV Server 5 (সবার চলবে না)", Channal 24
 https://rhridoy136.shortcm.li/channel24.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fj8nxOw.png" group-title="Ridoy TV Server", Channel 9 HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fj8nxOw.png" group-title="BDIX TV Server 5 (সবার চলবে না)", Channel 9 HD
 https://rhridoy136.shortcm.li/channel9.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/p0I5dr0.png" group-title="Ridoy TV Server", Channel I
+#EXTINF:-1 tvg-logo="https://i.imgur.com/p0I5dr0.png" group-title="BDIX TV Server 5 (সবার চলবে না)", Channel I
 https://rhridoy136.shortcm.li/channeli.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/djAX8Rc.png" group-title="Ridoy TV Server", DBC News
+#EXTINF:-1 tvg-logo="https://i.imgur.com/djAX8Rc.png" group-title="BDIX TV Server 5 (সবার চলবে না)", DBC News
 https://rhridoy136.shortcm.li/dbcnews.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tPZKfLr.png" group-title="Ridoy TV Server", Deepto TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tPZKfLr.png" group-title="BDIX TV Server 5 (সবার চলবে না)", Deepto TV
 https://rhridoy136.shortcm.li/deeptotv.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/JgkIH3w.png" group-title="Ridoy TV Server", Desh TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JgkIH3w.png" group-title="BDIX TV Server 5 (সবার চলবে না)", Desh TV
 https://rhridoy136.shortcm.li/deshtv.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/XICSFeg.png" group-title="Ridoy TV Server", Duronto TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XICSFeg.png" group-title="BDIX TV Server 5 (সবার চলবে না)", Duronto TV
 https://rhridoy136.shortcm.li/durontotv.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/i8T9qQs.png" group-title="Ridoy TV Server", Ekattor TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/i8T9qQs.png" group-title="BDIX TV Server 5 (সবার চলবে না)", Ekattor TV
 https://rhridoy136.shortcm.li/ekattortv.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/kFqOMtx.png" group-title="Ridoy TV Server", Ekushey TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kFqOMtx.png" group-title="BDIX TV Server 5 (সবার চলবে না)", Ekushey TV
 https://rhridoy136.shortcm.li/ekusheytv.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Jo7wzmn.png" group-title="Ridoy TV Server", Gaan Bangla
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Jo7wzmn.png" group-title="BDIX TV Server 5 (সবার চলবে না)", Gaan Bangla
 https://rhridoy136.shortcm.li/gaanbangla.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/eyAInC9.png" group-title="Ridoy TV Server", Gazi TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eyAInC9.png" group-title="BDIX TV Server 5 (সবার চলবে না)", Gazi TV
 https://rhridoy136.shortcm.li/gazitv.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/kviJN1i.png" group-title="Ridoy TV Server", Independent News
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kviJN1i.png" group-title="BDIX TV Server 5 (সবার চলবে না)", Independent News
 https://rhridoy136.shortcm.li/independenttv.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ds3aThu.jpg" group-title="Ridoy TV Server", Jamuna TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ds3aThu.jpg" group-title="BDIX TV Server 5 (সবার চলবে না)", Jamuna TV
 https://rhridoy136.shortcm.li/jamunatv.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7ftu2Rt.jpg" group-title="Ridoy TV Server", Maasranga TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7ftu2Rt.jpg" group-title="BDIX TV Server 5 (সবার চলবে না)", Maasranga TV
 https://rhridoy136.shortcm.li/maasrangatv.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4imblNY.jpg" group-title="Ridoy TV Server", Mohona TV HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4imblNY.jpg" group-title="BDIX TV Server 5 (সবার চলবে না)", Mohona TV HD
 https://rhridoy136.shortcm.li/mohonatv.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/bahWhBG.png" group-title="Ridoy TV Server", MY TV HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bahWhBG.png" group-title="BDIX TV Server 5 (সবার চলবে না)", MY TV HD
 https://rhridoy136.shortcm.li/mytv.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/2cpHJKq.png" group-title="Ridoy TV Server", Nagorik TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2cpHJKq.png" group-title="BDIX TV Server 5 (সবার চলবে না)", Nagorik TV
 https://rhridoy136.shortcm.li/nagoriktv.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/mn88b34.png" group-title="Ridoy TV Server", News 24 BD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mn88b34.png" group-title="BDIX TV Server 5 (সবার চলবে না)", News 24 BD
 https://rhridoy136.shortcm.li/news24.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3usnOla.png" group-title="Ridoy TV Server", NTV BD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3usnOla.png" group-title="BDIX TV Server 5 (সবার চলবে না)", NTV BD
 https://rhridoy136.shortcm.li/ntv.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/yi5p51T.png" group-title="Ridoy TV Server", RTV HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yi5p51T.png" group-title="BDIX TV Server 5 (সবার চলবে না)", RTV HD
 https://rhridoy136.shortcm.li/rtv.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fraEjzm.png" group-title="Ridoy TV Server", SATV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fraEjzm.png" group-title="BDIX TV Server 5 (সবার চলবে না)", SATV
 https://rhridoy136.shortcm.li/satv.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Z2QvpTn.png" group-title="Ridoy TV Server", Shomoy TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Z2QvpTn.png" group-title="BDIX TV Server 5 (সবার চলবে না)", Shomoy TV
 https://rhridoy136.shortcm.li/shomoytv.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CJUmEHD.png" group-title="Ridoy TV Server", T Sports HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CJUmEHD.png" group-title="BDIX TV Server 5 (সবার চলবে না)", T Sports HD
 https://rhridoy136.shortcm.li/titashsports.m3u8
