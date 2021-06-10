@@ -62,6 +62,7 @@ http://103.205.133.21/hls/somoy.m3u8
 
 
 
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LeIa06D.png" group-title="Indian Bangla", ABP Ananda
 https://abp-i.akamaihd.net:443/hls/live/765530/abpananda/master_1564.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/94MWo0U.png" group-title="Indian Bangla", Calcutta News
@@ -100,6 +101,8 @@ http://tv2.ebox.live:8080/live/zee-bangla.m3u8
 https://y5w8j4a9.ssl.hwcdn.net/zbanglacnm/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zplvx69.png" group-title="Indian Bangla", Zee 24 Ghanta
 http://cv.khushitv.xyz/channels.php?c=24ghanta&e=.m3u8
+
+
 
 
 
@@ -281,6 +284,7 @@ https://y5w8j4a9.ssl.hwcdn.net/zeecafehd/tracks-v1a1/index.m3u8
 
 
 
+
 #EXTINF: 1 tvg-logo="https://i.imgur.com/mZyaXvR.png" group-title="Sports", Bein Sports 1 HD
 http://tv2.ebox.live:8080/live/bein-sports-1.m3u8
 #EXTINF: 1 tvg-logo="https://i.imgur.com/KKzaw0T.png" group-title="Sports", Bein Sports 2 HD
@@ -331,8 +335,6 @@ https://m3u-editor.com/serve/442781d0-c2d2-11eb-9c60-457653f41644/307634819
 https://atc.hopto.org:443/Cricket-Willow-Quality/tracks-v3a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Hn9gjiJ.png" group-title="Sports", Willow HD
 https://atc.hopto.org/Cricket-Willow-Quality/tracks-v3a1/mono.m3u8
-
-
 
 
 
@@ -726,8 +728,6 @@ http://cdn.ihub.live:8080/j-Zee-Bangla-Cinema/tracks-v1a1/mono.m3u8
 
 
 
-
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5PsRkPd.png" group-title="Ebox-BDIX (সবার চলবে না)", ATN Bangla
 http://tv2.ebox.live:8080/live/ex-atnbd1.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HX8SSDA.png" group-title="Ebox-BDIX (সবার চলবে না)", Bangla Vision
@@ -829,7 +829,6 @@ http://tv2.ebox.live:8080/live/starsportsselect-2.m3u8
 
 
 
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fxq0pV2.png" group-title="Radiant-BDIX (সবার চলবে না)", Asian TV
 http://103.205.133.21/hls/asiantv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5PsRkPd.png" group-title="Radiant-BDIX (সবার চলবে না)", ATN Bangla
@@ -896,7 +895,6 @@ http://103.205.133.21/hls/zeetv.m3u8
 http://103.205.133.21/hls/sonypix.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IEwWaEN.png" group-title="Radiant-BDIX (সবার চলবে না)", 9X Music
 http://103.205.133.21/hls/9xm.m3u8
-
 
 
 
