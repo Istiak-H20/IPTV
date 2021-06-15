@@ -321,26 +321,26 @@ https://y5w8j4a9.ssl.hwcdn.net/zeecafehd/tracks-v1a1/index.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/oST30LQ.png" group-title="UFEA Euro 2020", Sony Ten 1 HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oST30LQ.png" group-title="UEFA Euro 2020", Sony Ten 1 HD
 http://103.205.133.21/hls/ten1.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/oST30LQ.png" group-title="UFEA Euro 2020", Sony Ten 2 SD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oST30LQ.png" group-title="UEFA Euro 2020", Sony Ten 2 SD
 http://cdn.ihub.live:8080/SonyTen2/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/oST30LQ.png" group-title="UFEA Euro 2020", Sony Ten 2 HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oST30LQ.png" group-title="UEFA Euro 2020", Sony Ten 2 HD
 http://103.205.133.21/hls/ten2.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/oST30LQ.png" group-title="UFEA Euro 2020", Sony Ten 3 SD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oST30LQ.png" group-title="UEFA Euro 2020", Sony Ten 3 SD
 http://cdn.ihub.live:8080/SonyTen3/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/oST30LQ.png" group-title="UFEA Euro 2020", Sony Ten 3 HD
-http://212.224.98.196:2200/R-EX/UFEA Euro 2020_TEN_3_HD-in/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/oST30LQ.png" group-title="UFEA Euro 2020", Sony SIX
-http://212.224.98.196:2200/R-EX/UFEA Euro 2020_SONY_SIX_HD-in/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/oST30LQ.png" group-title="UFEA Euro 2020", Sony SIX (2)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oST30LQ.png" group-title="UEFA Euro 2020", Sony Ten 3 HD
+http://212.224.98.196:2200/R-EX/UEFA Euro 2020_TEN_3_HD-in/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oST30LQ.png" group-title="UEFA Euro 2020", Sony SIX
+http://212.224.98.196:2200/R-EX/UEFA Euro 2020_SONY_SIX_HD-in/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oST30LQ.png" group-title="UEFA Euro 2020", Sony SIX (2)
 http://103.205.133.21/hls/sonysix.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/oST30LQ.png" group-title="UFEA Euro 2020", Sport TV 1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oST30LQ.png" group-title="UEFA Euro 2020", Sport TV 1
 http://212.224.98.207:2200/NL/sporttv1-por/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/oST30LQ.png" group-title="UFEA Euro 2020", ESPN
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oST30LQ.png" group-title="UEFA Euro 2020", ESPN
 https://gma2.blab.email/fs2.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/oST30LQ.png" group-title="UFEA Euro 2020", UFEA Euro
-https://95-213-224-174.liveUFEA Euro 202024.online/uafootballua1.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oST30LQ.png" group-title="UEFA Euro 2020", UEFA Euro
+https://95-213-224-174.liveUEFA Euro 202024.online/uafootballua1.m3u8
 
 
 
@@ -583,6 +583,150 @@ http://peridot.streamguys.com:7150/Mirchi
 http://162.254.149.187:9302/;stream/1;?listening-from-radio-garden=1601015834943
 #EXTINF:-1 tvg-logo="https://i.imgur.com/meR71iP.png" group-title="FM Radio", Colours FM (101.6)
 http://45.64.135.88:8000/stream1
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ra2RzlQ.png" group-title="AmrBD-BDIX (সবার চলবে না)", Anando TV 
+http://stream.amrbd.com:8082/anandotv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ra2RzlQ.png" group-title="AmrBD-BDIX (সবার চলবে না)", ATN Bangla 
+http://stream.amrbd.com:8082/ATN-Bangla/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ra2RzlQ.png" group-title="AmrBD-BDIX (সবার চলবে না)", ATN News 
+http://stream.amrbd.com:8082/Atn-News/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ra2RzlQ.png" group-title="AmrBD-BDIX (সবার চলবে না)", Bangla TV 
+http://stream.amrbd.com:8082/Bangla-TV/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ra2RzlQ.png" group-title="AmrBD-BDIX (সবার চলবে না)", Bijoy TV 
+http://stream.amrbd.com:8082/BijoyTv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ra2RzlQ.png" group-title="AmrBD-BDIX (সবার চলবে না)", Boishakhi TV
+http://stream.amrbd.com:8082/Boishakhi/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ra2RzlQ.png" group-title="AmrBD-BDIX (সবার চলবে না)", Channel 24 
+http://stream.amrbd.com:8082/Channel24/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ra2RzlQ.png" group-title="AmrBD-BDIX (সবার চলবে না)", Channel I 
+http://stream.amrbd.com:8082/Channel-i/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ra2RzlQ.png" group-title="AmrBD-BDIX (সবার চলবে না)", DBC News 
+http://stream.amrbd.com:8082/DBC-NEWS/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ra2RzlQ.png" group-title="AmrBD-BDIX (সবার চলবে না)", Deepto TV 
+http://stream.amrbd.com:8082/Deepto-TV/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ra2RzlQ.png" group-title="AmrBD-BDIX (সবার চলবে না)", Ekattor TV 
+http://stream.amrbd.com:8082/Ekattor-tv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ra2RzlQ.png" group-title="AmrBD-BDIX (সবার চলবে না)", Ekushey TV 
+http://stream.amrbd.com:8082/Ekushey-TV/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ra2RzlQ.png" group-title="AmrBD-BDIX (সবার চলবে না)", Gaan Bangla 
+http://stream.amrbd.com:8082/GaanBangla/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ra2RzlQ.png" group-title="AmrBD-BDIX (সবার চলবে না)", Independent TV 
+http://stream.amrbd.com:8082/Independent-Tv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ra2RzlQ.png" group-title="AmrBD-BDIX (সবার চলবে না)", Jamuna TV 
+http://stream.amrbd.com:8082/Jamuna-TV/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ra2RzlQ.png" group-title="AmrBD-BDIX (সবার চলবে না)", Somoy TV 
+http://stream.amrbd.com:8082/Somoy-TV/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ra2RzlQ.png" group-title="AmrBD-BDIX (সবার চলবে না)", News 24 
+http://stream.amrbd.com:8082/News24bd/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ra2RzlQ.png" group-title="AmrBD-BDIX (সবার চলবে না)", Maasranga TV
+http://stream.amrbd.com:8082/MASRANGA/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ra2RzlQ.png" group-title="AmrBD-BDIX (সবার চলবে না)", Mohona TV 
+http://stream.amrbd.com:8082/MohonaTV/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ra2RzlQ.png" group-title="AmrBD-BDIX (সবার চলবে না)", MY TV 
+http://stream.amrbd.com:8082/MyTV/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ra2RzlQ.png" group-title="AmrBD-BDIX (সবার চলবে না)", Nagorik TV 
+http://stream.amrbd.com:8082/Nagorik-TV/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ra2RzlQ.png" group-title="AmrBD-BDIX (সবার চলবে না)", NTV 
+http://stream.amrbd.com:8082/Ntv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ra2RzlQ.png" group-title="AmrBD-BDIX (সবার চলবে না)", RTV 
+http://stream.amrbd.com:8082/RTV/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ra2RzlQ.png" group-title="AmrBD-BDIX (সবার চলবে না)", SATV 
+http://stream.amrbd.com:8082/SATV/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ra2RzlQ.png" group-title="AmrBD-BDIX (সবার চলবে না)", Colors Bangla 
+http://stream.amrbd.com:8082/colorsbangla/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ra2RzlQ.png" group-title="AmrBD-BDIX (সবার চলবে না)", Entert Ten 
+http://stream.amrbd.com:8082/Entert-ten/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ra2RzlQ.png" group-title="AmrBD-BDIX (সবার চলবে না)", Sangeet Bangla 
+http://stream.amrbd.com:8082/SangeetBangla/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ra2RzlQ.png" group-title="AmrBD-BDIX (সবার চলবে না)", Sony Aath 
+http://stream.amrbd.com:8082/Sonyaath/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ra2RzlQ.png" group-title="AmrBD-BDIX (সবার চলবে না)", Star Jalsha HD 
+http://stream.amrbd.com:8082/Star-Jalsha/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ra2RzlQ.png" group-title="AmrBD-BDIX (সবার চলবে না)", Star Jalsha Movies HD 
+http://stream.amrbd.com:8082/Jalshamovies/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ra2RzlQ.png" group-title="AmrBD-BDIX (সবার চলবে না)", Zee Bangla Cinema 
+http://stream.amrbd.com:8082/ZeeBanglacinema/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ra2RzlQ.png" group-title="AmrBD-BDIX (সবার চলবে না)", And Flix 
+http://stream.amrbd.com:8082/And-Flix/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ra2RzlQ.png" group-title="AmrBD-BDIX (সবার চলবে না)", And Prive HD 
+http://stream.amrbd.com:8082/ZeePriveHD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ra2RzlQ.png" group-title="AmrBD-BDIX (সবার চলবে না)", Bflix Movies 
+http://stream.amrbd.com:8082/bflix/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ra2RzlQ.png" group-title="AmrBD-BDIX (সবার চলবে না)", Colors 
+http://stream.amrbd.com:8082/colorsindia/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ra2RzlQ.png" group-title="AmrBD-BDIX (সবার চলবে না)", Sony Max HD 
+http://stream.amrbd.com:8082/Sony-Max/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ra2RzlQ.png" group-title="AmrBD-BDIX (সবার চলবে না)", Sony Pix HD 
+http://stream.amrbd.com:8082/SonyPix/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ra2RzlQ.png" group-title="AmrBD-BDIX (সবার চলবে না)", Sony Sab HD 
+http://stream.amrbd.com:8082/Sony_Sab/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ra2RzlQ.png" group-title="AmrBD-BDIX (সবার চলবে না)", Sony TV HD 
+http://stream.amrbd.com:8082/SonyTVHD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ra2RzlQ.png" group-title="AmrBD-BDIX (সবার চলবে না)", Star Gold 
+http://stream.amrbd.com:8082/StarGold/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ra2RzlQ.png" group-title="AmrBD-BDIX (সবার চলবে না)", Zee Action 
+http://stream.amrbd.com:8082/ZeeAction/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ra2RzlQ.png" group-title="AmrBD-BDIX (সবার চলবে না)", Zee Cinema HD 
+http://stream.amrbd.com:8082/ZeeCinemaHD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ra2RzlQ.png" group-title="AmrBD-BDIX (সবার চলবে না)", Zee Classic 
+http://stream.amrbd.com:8082/Zee_Classic/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ra2RzlQ.png" group-title="AmrBD-BDIX (সবার চলবে না)", Zee Studio HD 
+http://stream.amrbd.com:8082/ZeeStudiohd/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ra2RzlQ.png" group-title="AmrBD-BDIX (সবার চলবে না)", Zee Tv 
+http://stream.amrbd.com:8082/ZeeTV/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ra2RzlQ.png" group-title="AmrBD-BDIX (সবার চলবে না)", And Xplore 
+http://stream.amrbd.com:8082/Xplore/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ra2RzlQ.png" group-title="AmrBD-BDIX (সবার চলবে না)", 9xm 
+http://stream.amrbd.com:8082/9XM/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ra2RzlQ.png" group-title="AmrBD-BDIX (সবার চলবে না)", 9x Jalwa 
+http://stream.amrbd.com:8082/9X-Jalwa/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ra2RzlQ.png" group-title="AmrBD-BDIX (সবার চলবে না)", Masti 
+http://stream.amrbd.com:8082/Masti-Music/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ra2RzlQ.png" group-title="AmrBD-BDIX (সবার চলবে না)", Zoom 
+http://stream.amrbd.com:8082/Zoom/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ra2RzlQ.png" group-title="AmrBD-BDIX (সবার চলবে না)", Nick JR 
+http://stream.amrbd.com:8082/nike/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ra2RzlQ.png" group-title="AmrBD-BDIX (সবার চলবে না)", Aljazeera 
+http://stream.amrbd.com:8082/Aljazeera/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ra2RzlQ.png" group-title="AmrBD-BDIX (সবার চলবে না)", BBC World 
+http://stream.amrbd.com:8082/BBC_World/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ra2RzlQ.png" group-title="AmrBD-BDIX (সবার চলবে না)", CNN 
+http://stream.amrbd.com:8082/Cnn_news/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ra2RzlQ.png" group-title="AmrBD-BDIX (সবার চলবে না)", Discovery 
+http://stream.amrbd.com:8082/Discovery-Tv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ra2RzlQ.png" group-title="AmrBD-BDIX (সবার চলবে না)", Nat Geo HD 
+http://stream.amrbd.com:8082/Nat-Geo/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ra2RzlQ.png" group-title="AmrBD-BDIX (সবার চলবে না)", Sony BBB Earth HD 
+http://stream.amrbd.com:8082/Bbc-Earth/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ra2RzlQ.png" group-title="AmrBD-BDIX (সবার চলবে না)", TLC 
+http://stream.amrbd.com:8082/TLC_World/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ra2RzlQ.png" group-title="AmrBD-BDIX (সবার চলবে না)", Adsports 1 HD 
+http://stream.amrbd.com:8082/Adsports1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ra2RzlQ.png" group-title="AmrBD-BDIX (সবার চলবে না)", Adsports 2 HD 
+http://stream.amrbd.com:8082/Adsports2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ra2RzlQ.png" group-title="AmrBD-BDIX (সবার চলবে না)", Adsports 3 HD 
+http://stream.amrbd.com:8082/Adsports3/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ra2RzlQ.png" group-title="AmrBD-BDIX (সবার চলবে না)", Sony Six HD 
+http://stream.amrbd.com:8082/SonySix/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ra2RzlQ.png" group-title="AmrBD-BDIX (সবার চলবে না)", Sony Ten 1 HD 
+http://stream.amrbd.com:8082/Ten1HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ra2RzlQ.png" group-title="AmrBD-BDIX (সবার চলবে না)", Sony Ten 2 HD 
+http://stream.amrbd.com:8082/Ten2HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ra2RzlQ.png" group-title="AmrBD-BDIX (সবার চলবে না)", Sony Ten 3 HD 
+http://stream.amrbd.com:8082/Ten3HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ra2RzlQ.png" group-title="AmrBD-BDIX (সবার চলবে না)", Star Sports 1 HD 
+http://stream.amrbd.com:8082/kn1a/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ra2RzlQ.png" group-title="AmrBD-BDIX (সবার চলবে না)", Star Sports 2 HD 
+http://stream.amrbd.com:8082/kn2a/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ra2RzlQ.png" group-title="AmrBD-BDIX (সবার চলবে না)", Star Sports Select 1 HD 
+http://stream.amrbd.com:8082/kn3a/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ra2RzlQ.png" group-title="AmrBD-BDIX (সবার চলবে না)", Star Sports Select 2 HD 
+http://stream.amrbd.com:8082/kn5a/tracks-v1a1/mono.m3u8
 
 
 
