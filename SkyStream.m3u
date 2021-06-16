@@ -819,7 +819,7 @@ http://212.224.98.196:2200/R-EX/ENGLISH_COLORS_INFINITY_HD-in/index.m3u8
 http://212.224.98.196:2200/R-EX/HINDI_SONY_MAX_HD-in/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6Yu1PZk.jpg" group-title="GmbH-BDIX (সবার চলবে না)", Sony Max 2 
 http://212.224.98.196:2200/R-EX/HINDI_SONY_MAX_2-in/index.m3u8
-#EXTINF:-1 tvg-logo=https://i.imgur.com/3i2U8HH.png" group-title="GmbH-BDIX (সবার চলবে না)", Sony Pix HD 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3i2U8HH.png" group-title="GmbH-BDIX (সবার চলবে না)", Sony Pix HD 
 http://212.224.98.196:2200/R-EX/HINDI_SONY_PIX_HD-in/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qQeesU6.png" group-title="GmbH-BDIX (সবার চলবে না)", Sony Sab HD 
 http://212.224.98.196:2200/R-EX/HINDI_SONY_SAB_HD-in/index.m3u8
