@@ -238,7 +238,7 @@ http://212.224.98.196:2200/R-EX/ENGLISH_COLORS_INFINITY_HD-in/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LiwiLPN.png" group-title="English", Deutsche Welle
 https://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/index_1_av-p.m3u8?rebase=on&sd=10
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8GG7Ny9.png" group-title="English", Discovery HD
-http://172.32.1.88:1935/tvprogram/DISCOVERY/playlist.m3u8
+https://idvd.multitvsolution.com/idvo/discoveryeng_540p/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8GG7Ny9.png" group-title="English", Discovery HD Hindi
 https://idvd.multitvsolution.com/idvo/discoveryhindi_540p/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8GG7Ny9.png" group-title="English", Discovery HD Bangla
