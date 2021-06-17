@@ -2,11 +2,11 @@
 #EXTINF:-1 tvg-logo="https://i.imgur.com/h5FhOWT.png" group-title="Bangladeshi", Ananda TV
 http://iptvbd.jagobd.com:1931/boishakhi/anandatv.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fxq0pV2.png" group-title="Bangladeshi", Asian TV
-http://103.205.133.21/hls/asiantv.m3u8
+http://103.205.133.19/hls/asiantv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5PsRkPd.png" group-title="Bangladeshi", ATN Bangla
 http://iptvbd.jagobd.com:1931/boishakhi/atnbd-8-org.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/v9PqrCG.png" group-title="Bangladeshi", ATN News
-http://103.205.133.21/hls/atnnews.m3u8
+http://103.205.133.19/hls/atnnews.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/K43LsMQ.png" group-title="Bangladeshi", Bangla TV
 http://iptvbd.jagobd.com:1931/boishakhi/banglatvhd.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HX8SSDA.png" group-title="Bangladeshi", Banglavision HD
@@ -28,9 +28,9 @@ https://hlscat.com/my_list/s/e3c57f93f9c647f06bcaf7bbd88c9164.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tPZKfLr.png" group-title="Bangladeshi", Deepto TV HD
 http://103.205.133.48/hls/deeptotv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JgkIH3w.png" group-title="Bangladeshi", Desh TV
-http://103.205.133.21/hls/deshtv.m3u8
+http://103.205.133.19/hls/deshtv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/i8T9qQs.png" group-title="Bangladeshi", Ekattor TV HD
-http://103.205.133.21/hls/ekatoortv.m3u8
+http://103.205.133.19/hls/ekatoortv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kFqOMtx.png" group-title="Bangladeshi", Ekusey TV
 http://103.205.133.48/hls/ekushey.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Jo7wzmn.png" group-title="Bangladeshi", Gaan Bangla
@@ -48,17 +48,17 @@ http://iptvbd.jagobd.com:1931/boishakhi/mohonatv00000223232244556633.stream/chun
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bahWhBG.png" group-title="Bangladeshi", My TV BD
 http://iptvbd.jagobd.com:1931/boishakhi/mytv-up-off.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2cpHJKq.png" group-title="Bangladeshi", Nagorik TV
-http://103.205.133.21/hls/nagorik.m3u8
+http://103.205.133.19/hls/nagorik.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mn88b34.png" group-title="Bangladeshi", News 24 HD
 http://iptvbd.jagobd.com:1931/boishakhi/news24local.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3usnOla.png" group-title="Bangladeshi", NTV BD
-http://103.205.133.21/hls/ntv.m3u8
+http://103.205.133.19/hls/ntv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yi5p51T.png" group-title="Bangladeshi", RTV HD
-http://iptvbd.jagobd.com:1931/boishakhi/rtv-sg.stream/chunks.m3u8
+http://103.205.133.19/hls/rtv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fraEjzm.png" group-title="Bangladeshi", SA TV
 http://iptvbd.jagobd.com:1931/boishakhi/satvoff5666.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Z2QvpTn.png" group-title="Bangladeshi", Shomoy TV
-http://103.205.133.21/hls/somoy.m3u8
+http://103.205.133.19/hls/somoy.m3u8
 
 
 
@@ -88,9 +88,9 @@ http://tv2.ebox.live:8080/live/star-jalsha-movies.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kXfuCMM.png" group-title="Indian Bangla", News 18 Bangla
 https://news18bangla-lh.akamaihd.net/i/n18bangla_1@2289/index_4_av-p.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EpykY5A.png" group-title="Indian Bangla", Sony Aat
-http://103.205.133.21/hls/sony8.m3u8
+http://103.205.133.19/hls/sony8.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ppJO2Ep.png" group-title="Indian Bangla", Star Jalsha SD
-http://103.205.133.21/hls/chsj.m3u8
+http://103.205.133.19/hls/chsj.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ppJO2Ep.png" group-title="Indian Bangla", Star Jalsha HD
 http://103.81.104.118/hls/stream31.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ppJO2Ep.png" group-title="Indian Bangla", Star Jalsha HD (2)
@@ -98,7 +98,7 @@ http://tv2.ebox.live:8080/live/star-jalsha.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PW9hRDa.png" group-title="Indian Bangla", Sun Bangla
 https://d3plxx22mik57v.cloudfront.net/SUN_BANGLA.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/e5Ldh7e.png" group-title="Indian Bangla", Zee Bangla SD
-http://103.205.133.21/hls/zeebanglahd.m3u8
+http://103.205.133.19/hls/zeebanglahd.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/e5Ldh7e.png" group-title="Indian Bangla", Zee Bangla HD 
 http://212.224.98.196:2200/R-EX/BENGALI_ZEE_BANGLA_HD-in/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/e5Ldh7e.png" group-title="Indian Bangla", Zee Bangla HD (2)
@@ -134,7 +134,7 @@ http://212.102.60.40:2200/R-EX/HINDI_AND_TV_HD-in/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4BBrXbC.png" group-title="Hindi", Colors Cineplex HD
 http://84.17.41.7:80/Rishtey_Cineplex_IND/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0aWOFB9.png" group-title="Hindi", Colors SD 
-http://103.205.133.21/hls/chc.m3u8
+http://103.205.133.19/hls/chc.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0aWOFB9.png" group-title="Hindi", Colors HD
 http://208.115.215.42/Colors_TV_HD/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0aWOFB9.png" group-title="Hindi", Colors HD (2)
@@ -144,7 +144,7 @@ http://nwbz1u.ecm.tm/806B6CF/89181e/SM_FHD_HINDI_SONYTV/tracks-v1a1/index.m3u8?t
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oTt7D3K.png" group-title="Hindi", Sony Entertainment HD (2)
 http://tv2.ebox.live:8080/live/sonyhd.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oTt7D3K.png" group-title="Hindi", Sony Entertainment SD
-http://103.205.133.21/hls/chs.m3u8
+http://103.205.133.19/hls/chs.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ro7bedn.png" group-title="Hindi", Sony Max HD (1)
 http://212.224.98.196:2200/R-EX/HINDI_SONY_MAX_HD-in/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ro7bedn.png" group-title="Hindi", Sony Max HD (2)
@@ -166,7 +166,7 @@ http://115.42.65.142:4000/play/a05l/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/q0nObmP.png" group-title="Hindi", Star Gold Select HD (2)
 http://212.224.98.196:2200/R-EX/HINDI_STAR_GOLD_SELECT_HD-in/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AMhvwJB.png" group-title="Hindi", Star Plus SD 
-http://103.205.133.21/hls/chsp.m3u8
+http://103.205.133.19/hls/chsp.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AMhvwJB.png" group-title="Hindi", Star Plus HD
 http://115.42.65.142:4000/play/a054/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AMhvwJB.png" group-title="Hindi", Star Plus HD (2)
@@ -229,12 +229,14 @@ http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Jy3Vr9F.png" group-title="English", CNN HD
 https://cnn-cnninternational-1-de.samsung.wurl.com/manifest/playlist_1280x720_3000k.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Jy3Vr9F.png" group-title="English", CNN HD (2)
+https://gma2.blab.email/fs2.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LJWxJjZ.png" group-title="English", Colors Infinity HD
 http://tv2.ebox.live:8080/live/color-Infinity.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LJWxJjZ.png" group-title="English", Colors Infinity HD (2)
 http://212.224.98.196:2200/R-EX/ENGLISH_COLORS_INFINITY_HD-in/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LiwiLPN.png" group-title="English", Deutsche Welle
-http://cdn.ihub.live:8080/j-DW/tracks-v1a1/mono.m3u8
+https://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/index_1_av-p.m3u8?rebase=on&sd=10
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8GG7Ny9.png" group-title="English", Discovery HD
 http://172.32.1.88:1935/tvprogram/DISCOVERY/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8GG7Ny9.png" group-title="English", Discovery HD Hindi
@@ -324,11 +326,11 @@ https://y5w8j4a9.ssl.hwcdn.net/zeecafehd/tracks-v1a1/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oST30LQ.png" group-title="UEFA Euro 2020", Sony Ten 1 HD
-http://103.205.133.21/hls/ten1.m3u8
+http://103.205.133.19/hls/ten1.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oST30LQ.png" group-title="UEFA Euro 2020", Sony Ten 2 SD
 http://cdn.ihub.live:8080/SonyTen2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oST30LQ.png" group-title="UEFA Euro 2020", Sony Ten 2 HD
-http://103.205.133.21/hls/ten2.m3u8
+http://103.205.133.19/hls/ten2.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oST30LQ.png" group-title="UEFA Euro 2020", Sony Ten 3 SD
 http://cdn.ihub.live:8080/SonyTen3/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oST30LQ.png" group-title="UEFA Euro 2020", Sony Ten 3 HD
@@ -336,7 +338,7 @@ http://212.224.98.196:2200/R-EX/UEFA Euro 2020_TEN_3_HD-in/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oST30LQ.png" group-title="UEFA Euro 2020", Sony SIX
 http://212.224.98.196:2200/R-EX/UEFA Euro 2020_SONY_SIX_HD-in/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oST30LQ.png" group-title="UEFA Euro 2020", Sony SIX (2)
-http://103.205.133.21/hls/sonysix.m3u8
+http://103.205.133.19/hls/sonysix.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oST30LQ.png" group-title="UEFA Euro 2020", Sport TV 1
 http://212.224.98.207:2200/NL/sporttv1-por/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oST30LQ.png" group-title="UEFA Euro 2020", ESPN
@@ -404,23 +406,27 @@ http://tv2.ebox.live:8080/live/ptvsports.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sGlln8Z.png" group-title="Sports", Sports TV 1
 http://212.224.98.207:2200/NL/sporttv1-por/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6a7pWRE.png" group-title="Sports", Sony Six HD
-http://103.205.133.21/hls/sonysix.m3u8
+http://103.205.133.19/hls/sonysix.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aO2GTAR.jpg" group-title="Sports", Sony Ten 1 HD
-http://103.205.133.21/hls/ten1.m3u8
+http://103.205.133.19/hls/ten1.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rY69nFs.jpg" group-title="Sports", Sony Ten 2 HD
-http://103.205.133.21/hls/ten2.m3u8
+http://103.205.133.19/hls/ten2.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/K1rahTG.png" group-title="Sports", Sony Ten 3 HD
-http://103.205.133.21/hls/ten3.m3u8
+http://103.205.133.19/hls/ten3.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/K1rahTG.png" group-title="Sports", Sony Ten 3 SD
 http://cdn.ihub.live:8080/SonyTen3/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3ibgIMV.png" group-title="Sports", Star Sports 1 HD
 http://103.81.104.118/hls/stream15.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3ibgIMV.png" group-title="Sports", Star Sports 1 HD Hindi
 http://tv2.ebox.live:8080/live/starsports-1.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3ibgIMV.png" group-title="Sports", Star Sports 1 HD Hindi (2)
+https://158.pkcast123.me:999/hls/zabTFpRMVg20210415.m3u8?
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3ibgIMV.png" group-title="Sports", Star Sports 1 SD
-http://103.205.133.21/hls/chss1.m3u8
+http://103.205.133.19/hls/chss1.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VcSPzlc.png" group-title="Sports", Star Sports 2
 http://tv2.ebox.live:8080/live/starsportshd-2.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VcSPzlc.png" group-title="Sports", Star Sports 2 (2)
+https://158.pkcast123.me:999/hls/IxpHvSNNXo20190929.m3u8?
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TL2jAU6.png" group-title="Sports", Star Sports Select 1 HD
 http://103.81.104.118/hls/stream16.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TL2jAU6.png" group-title="Sports", Star Sports Select 1 HD (2)
@@ -451,6 +457,8 @@ https://m3u-editor.com/serve/442781d0-c2d2-11eb-9c60-457653f41644/307634819
 https://atc.hopto.org/Cricket-Willow-Quality/tracks-v3a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Hn9gjiJ.png" group-title="Sports", Willow SD
 https://atc.hopto.org:443/Cricket-Willow-Quality/tracks-v3a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Hn9gjiJ.png" group-title="Sports", Willow SD (2)
+https://158.pkcast123.me:999/hls/6k6bIiEf4320190929.m3u8?
 
 
 
@@ -466,11 +474,11 @@ http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/9XM-audio_208482_und=20
 #EXTINF:-1 tvg-logo="https://i.imgur.com/stZqDcA.png" group-title="Music", B4U Music
 https://m3u-editor.com/serve/8cc440e0-c80e-11eb-9fa8-45e5eddda32b/312436692
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7rnhie0.png" group-title="Music", Dhoom Music
-http://103.205.133.21/hls/dhoommusic.m3u8?token=soheliptv01826655778
+http://103.205.133.19/hls/dhoommusic.m3u8?token=soheliptv01826655778
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DKVLQ7m.png" group-title="Music", MTV
 http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TNk56Ai.png" group-title="Music", Sangeet Bangla
-http://103.205.133.21/hls/sangeetbangla.m3u8
+http://103.205.133.19/hls/sangeetbangla.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TNk56Ai.png" group-title="Music", Sangeet Bangla (2)
 https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/sangeetbangla/sangeetbangla.isml/sangeetbangla-audio_208482_und=208000-video=877600.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RmS55kU.png" group-title="Music", Zingg
@@ -496,11 +504,13 @@ https://livecdn.fptplay.net/qnetlive/boomerang_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dYLwOJA.png" group-title="Kids", Cartoon Network
 https://shls-cartoon-net-prod-dub.shahid.net/out/v1/dc4aa87372374325a66be458f29eab0f/index_4.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Om9inz6.png" group-title="Kids", Cartoon Network English
-http://103.205.133.21/hls/cn.m3u8
+http://103.205.133.19/hls/cn.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/swM1L4e.png" group-title="Kids", Discovery Kids
 http://idvd.multitvsolution.com/idvo/discoverykidshindi.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PK9Gm5g.png" group-title="Kids", Duronto TV
+http://103.49.168.171:8081/ebox/bd_duronto_tv/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DraJIkm.png" group-title="Kids", EBS Kids
-
+http://ebsonairios.ebs.co.kr/ebsutablet500k/_definst_/tablet500k/chunklist_w920137870.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DDsHkBv.png" group-title="Kids", Majed
 https://admdn4.cdn.mangomolo.com/majid/smil:majid.stream.smil/playlist.m3u8?checkedby:hlscat.com
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AwNWCV5.png" group-title="Kids", MBC 3
@@ -901,71 +911,71 @@ http://212.224.98.196:2200/R-EX/HINDI_B4U_MUSIC-in/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fxq0pV2.png" group-title="Radiant-BDIX (সবার চলবে না)", Asian TV
-http://103.205.133.21/hls/asiantv.m3u8
+http://103.205.133.19/hls/asiantv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5PsRkPd.png" group-title="Radiant-BDIX (সবার চলবে না)", ATN Bangla
-http://103.205.133.21/hls/atnbangla.m3u8
+http://103.205.133.19/hls/atnbangla.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/v9PqrCG.png" group-title="Radiant-BDIX (সবার চলবে না)", ATN News
-http://103.205.133.21/hls/atnnews.m3u8
+http://103.205.133.19/hls/atnnews.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HX8SSDA.png" group-title="Radiant-BDIX (সবার চলবে না)", Banglavision
-http://103.205.133.21/hls/banglavision.m3u8
+http://103.205.133.19/hls/banglavision.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/K43LsMQ.png" group-title="Radiant-BDIX (সবার চলবে না)", Bangla TV
-http://103.205.133.21/hls/banglatv.m3u8
+http://103.205.133.19/hls/banglatv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pTJSGtj.png" group-title="Radiant-BDIX (সবার চলবে না)", Boishakhi
-http://103.205.133.21/hls/boisakhi.m3u8
+http://103.205.133.19/hls/boisakhi.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/p0I5dr0.png" group-title="Radiant-BDIX (সবার চলবে না)", Channel I HD
-http://103.205.133.21/hls/ichannel.m3u8
+http://103.205.133.19/hls/ichannel.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fj8nxOw.png" group-title="Radiant-BDIX (সবার চলবে না)", Channel 9 HD
-http://103.205.133.21/hls/ninechannel.m3u8
+http://103.205.133.19/hls/ninechannel.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MmhxR5E.png" group-title="Radiant-BDIX (সবার চলবে না)", Channel 24 BD
-http://103.205.133.21/hls/channel24.m3u8
+http://103.205.133.19/hls/channel24.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/djAX8Rc.png" group-title="Radiant-BDIX (সবার চলবে না)", DBC News
-http://103.205.133.21/hls/dbcnews.m3u8
+http://103.205.133.19/hls/dbcnews.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tPZKfLr.png" group-title="Radiant-BDIX (সবার চলবে না)", Deepto TV HD
-http://103.205.133.21/hls/deeptotv.m3u8
+http://103.205.133.19/hls/deeptotv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JgkIH3w.png" group-title="Radiant-BDIX (সবার চলবে না)", Desh TV
-http://103.205.133.21/hls/deshtv.m3u8
+http://103.205.133.19/hls/deshtv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kFqOMtx.png" group-title="Radiant-BDIX (সবার চলবে না)", Ekushey TV
-http://103.205.133.21/hls/ekushey.m3u8
+http://103.205.133.19/hls/ekushey.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Jo7wzmn.png" group-title="Radiant-BDIX (সবার চলবে না)", Gaan Bangla HD
-http://103.205.133.21/hls/gaanbangla.m3u8
+http://103.205.133.19/hls/gaanbangla.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ds3aThu.jpg" group-title="Radiant-BDIX (সবার চলবে না)", Jamuna TV
-http://103.205.133.21/hls/jamunatv.m3u8
+http://103.205.133.19/hls/jamunatv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4imblNY.jpg" group-title="Radiant-BDIX (সবার চলবে না)", Mohona TV HD
-http://103.205.133.21/hls/mohonatv.m3u8
+http://103.205.133.19/hls/mohonatv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bahWhBG.png" group-title="Radiant-BDIX (সবার চলবে না)", My TV HD
-http://103.205.133.21/hls/mytv.m3u8
+http://103.205.133.19/hls/mytv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2cpHJKq.png" group-title="Radiant-BDIX (সবার চলবে না)", Nagorik TV
-http://103.205.133.21/hls/nagorik.m3u8
+http://103.205.133.19/hls/nagorik.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mn88b34.png" group-title="Radiant-BDIX (সবার চলবে না)", News 24 HD
-http://103.205.133.21/hls/news24.m3u8
+http://103.205.133.19/hls/news24.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3usnOla.png" group-title="Radiant-BDIX (সবার চলবে না)", NTV BD
-http://103.205.133.21/hls/ntv.m3u8
+http://103.205.133.19/hls/ntv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yi5p51T.png" group-title="Radiant-BDIX (সবার চলবে না)", RTV
-http://103.205.133.21/hls/rtv.m3u8
+http://103.205.133.19/hls/rtv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fraEjzm.png" group-title="Radiant-BDIX (সবার চলবে না)", SATV
-http://103.205.133.21/hls/satv.m3u8
+http://103.205.133.19/hls/satv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EpykY5A.png" group-title="Radiant-BDIX (সবার চলবে না)", Sony Aath
-http://103.205.133.21/hls/sony8.m3u8
+http://103.205.133.19/hls/sony8.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ppJO2Ep.png" group-title="Radiant-BDIX (সবার চলবে না)", Star Jalsha
-http://103.205.133.21/hls/chsj.m3u8
+http://103.205.133.19/hls/chsj.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/e5Ldh7e.png" group-title="Radiant-BDIX (সবার চলবে না)", Zee Bangla
-http://103.205.133.21/hls/zeebangla.m3u8
+http://103.205.133.19/hls/zeebangla.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yBMKPcX.png" group-title="Radiant-BDIX (সবার চলবে না)", And Picture
-http://103.205.133.21/hls/andpicture.m3u8
+http://103.205.133.19/hls/andpicture.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HeRPCOn.png" group-title="Radiant-BDIX (সবার চলবে না)", And TV
-http://103.205.133.21/hls/andtv.m3u8
+http://103.205.133.19/hls/andtv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WmjPBWy.png" group-title="Radiant-BDIX (সবার চলবে না)", Colors Ristey
-http://103.205.133.21/hls/chc.m3u8
+http://103.205.133.19/hls/chc.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oTt7D3K.png" group-title="Radiant-BDIX (সবার চলবে না)", Sony Entertainment HD
-http://103.205.133.21/hls/chs.m3u8
+http://103.205.133.19/hls/chs.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AMhvwJB.png" group-title="Radiant-BDIX (সবার চলবে না)", Star Plus
-http://103.205.133.21/hls/chsp.m3u8
+http://103.205.133.19/hls/chsp.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9SYqIRU.png" group-title="Radiant-BDIX (সবার চলবে না)", Zee TV
-http://103.205.133.21/hls/zeetv.m3u8
+http://103.205.133.19/hls/zeetv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3i2U8HH.png" group-title="Radiant-BDIX (সবার চলবে না)", Sony Pix
-http://103.205.133.21/hls/sonypix.m3u8
+http://103.205.133.19/hls/sonypix.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IEwWaEN.png" group-title="Radiant-BDIX (সবার চলবে না)", 9X Music
-http://103.205.133.21/hls/9xm.m3u8
+http://103.205.133.19/hls/9xm.m3u8
 
 
 
