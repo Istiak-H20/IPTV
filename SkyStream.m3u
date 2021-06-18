@@ -59,6 +59,8 @@ http://103.205.133.19/hls/rtv.m3u8
 http://iptvbd.jagobd.com:1931/boishakhi/satvoff5666.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Z2QvpTn.png" group-title="Bangladeshi", Shomoy TV
 http://103.205.133.19/hls/somoy.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CJUmEHD.png" group-title="Bangladeshi", T Sports HD
+http://103.102.27.172:6464/Channel-1/tracks-v1a1/mono.m3u8
 
 
 
@@ -451,6 +453,8 @@ http://93.157.62.180/Supersport7/index.m3u8
 http://103.205.133.19/hls/tsports.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CJUmEHD.png" group-title="Sports", T Sports (2)
 http://212.224.98.196:2200/R-EX/T_SPORTS_HD-in/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CJUmEHD.png" group-title="Sports", T Sports HD
+http://103.102.27.172:6464/Channel-1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WCz0O78.png" group-title="Sports", Ten Sports
 https://m3u-editor.com/serve/442781d0-c2d2-11eb-9c60-457653f41644/307634819
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Hn9gjiJ.png" group-title="Sports", Willow HD
