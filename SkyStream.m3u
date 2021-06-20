@@ -453,8 +453,8 @@ http://103.205.133.21/hls/chss1.m3u8
 http://tv2.ebox.live:8080/live/starsportshd-2.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VcSPzlc.png" group-title="Sports", Star Sports 2 (2)
 http://103.81.104.118/hls/stream16.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TL2jAU6.png" group-title="Sports", Star Sports Select 1 HD
-http://103.81.104.118/hls/stream16.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TL2jAU6.png" group-title="Sports", Star Sports Select 1 HD 
+http://103.81.104.118/hls/stream12.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TL2jAU6.png" group-title="Sports", Star Sports Select 1 HD (2)
 http://tv2.ebox.live:8080/live/starsportsselect-1.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TL2jAU6.png" group-title="Sports", Star Sports Select 2 HD
@@ -769,7 +769,7 @@ http://103.81.104.118/hls/stream4.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wRc0YAb.png" group-title="SK Traders-BDIX (সবার চলবে না)", Zoom 
 http://103.81.104.118/hls/stream8.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rm7OMLk.png" group-title="SK Traders-BDIX (সবার চলবে না)", Nick 
-http://103.153.175.254:8080/hls/stream23.m3u8
+http://103.81.104.118/hls/stream23.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lYM7Gik.png" group-title="SK Traders-BDIX (সবার চলবে না)", Sony Yay 
 http://103.81.104.118/hls/stream32.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/T1vgYzE.png" group-title="SK Traders-BDIX (সবার চলবে না)", BBC Earth 
@@ -780,6 +780,8 @@ http://103.81.104.118/hls/stream9.m3u8
 http://103.81.104.118/hls/stream13.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KLBorkM.png" group-title="SK Traders-BDIX (সবার চলবে না)", Travel XP Bangla HD 
 http://103.81.104.118/hls/stream37.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XITYSY0.png" group-title="SK Traders-BDIX (সবার চলবে না)", Animal Planet HD
+http://103.81.104.118/hls/stream6.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/69pCK1u.png" group-title="SK Traders-BDIX (সবার চলবে না)", AXN 
 http://103.81.104.118/hls/stream2.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3i2U8HH.png" group-title="SK Traders-BDIX (সবার চলবে না)", Sony Pix HD 
