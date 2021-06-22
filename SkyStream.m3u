@@ -151,6 +151,8 @@ http://tv2.ebox.live:8080/live/sony-max.m3u8
 https://streamer-1.toffeelive.com/mobile_hls/sony_max/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ro7bedn.png" group-title="Hindi", Sony Max HD
 https://streamer-1.toffeelive.com/mobile_hls/set_max_hd/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
+#EXTINF:-1 tvg-logo="https://i.imgur.com/20NLt9o.jpg" group-title="Hindi", Sony Pal
+https://streamer-1.toffeelive.com/mobile_hls/sony_pal/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qQeesU6.png" group-title="Hindi", Sony Sab HD
 https://streamer-1.toffeelive.com/mobile_hls/sony_sab_hd/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YvGtRg7.png" group-title="Hindi", Star Gold 2 HD
@@ -303,6 +305,8 @@ http://103.81.104.118/hls/stream1.m3u8
 http://tv2.ebox.live:8080/live/sony-pix.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3i2U8HH.png" group-title="English", Sony Pix HD (3)
 https://streamer-1.toffeelive.com/mobile_hls/sony_pix_hd/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3i2U8HH.png" group-title="English", Sony Pix HD (4)
+http://nwbz1u.ecm.tm/806B6CF/89181e/SM_FHD-ENG-SONYPIX/tracks-v1a1/index.m3u8?token=0558356b27398f74c6bf8c39ec01782c363a514dbf50000c6c8a1fdf5898adc68bee8059e6e513dcb693c1e2c3fa3ee96a38a82ce0b5a699482eea64c3da350d68b96f4841599956bb1bb02ab5f9d8bf5cffb57c876776baf4dfb952b86133e6cebfa4191979d24d01ce&mac=00:1A:79:4B:57:A3&ip=27.96.95.31&magic_server=MAIN_MP
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0rFA2Cx.png" group-title="English", Star Movies HD
 http://103.81.104.118/hls/stream3.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0rFA2Cx.png" group-title="English", Star Movies HD (2)
@@ -375,25 +379,25 @@ https://95-213-224-174.liveUEFA Euro 202024.online/uafootballua1.m3u8
 https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OA19S3j.png" group-title="Sports", AD Sports 2
 https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/mZyaXvR.png" group-title="Sports", Bein Sports 1 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mZyaXvR.png" group-title="Sports", (DEAD) Bein Sports 1 
 http:// 180.15.15:2200/EX/bein1hd-ar/tracks-v1a1/mono.m3u8?token=RED_qLtbE2uetYblp57I2zLiDw==,1622828752.3742543580
-#EXTINF:-1 tvg-logo="https://i.imgur.com/mZyaXvR.png" group-title="Sports", Bein Sports 1 HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mZyaXvR.png" group-title="Sports", (DEAD) Bein Sports 1 HD
 http://tv2.ebox.live:8080/live/bein-sports-1.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KKzaw0T.png" group-title="Sports", Bein Sports 2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KKzaw0T.png" group-title="Sports", (DEAD) Bein Sports 2
 http:// 180.15.15:2200/EX/bein2hd-ar/tracks-v1a1/mono.m3u8?token=RED_qLtbE2uetYblp57I2zLiDw==,1622828752.3742543580
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KKzaw0T.png" group-title="Sports", Bein Sports 2 HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KKzaw0T.png" group-title="Sports", (DEAD) Bein Sports 2 HD
 http://tv2.ebox.live:8080/live/bein-sports-2.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/F3cWTGD.png" group-title="Sports", Bein Sports 3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/F3cWTGD.png" group-title="Sports", (DEAD) Bein Sports 3
 http:// 180.15.15:2200/EX/bein3hd-ar/tracks-v1a1/mono.m3u8?token=RED_qLtbE2uetYblp57I2zLiDw==,1622828752.3742543580
-#EXTINF:-1 tvg-logo="https://i.imgur.com/14HmsFC.png" group-title="Sports", Bein Sports 4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/14HmsFC.png" group-title="Sports", (DEAD) Bein Sports 4
 http:// 180.15.15:2200/EX/bein4hd-ar/tracks-v1a1/mono.m3u8?token=RED_qLtbE2uetYblp57I2zLiDw==,1622828752.3742543580
-#EXTINF:-1 tvg-logo="https://i.imgur.com/14HmsFC.png" group-title="Sports", Bein Sports 4 HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/14HmsFC.png" group-title="Sports", (DEAD) Bein Sports 4 HD
 http://tv2.ebox.live:8080/live/bein-sports-eng-11.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/2WOxd9O.png" group-title="Sports", Bein Sports 5
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2WOxd9O.png" group-title="Sports", (DEAD) Bein Sports 5
 http:// 180.15.15:2200/EX/bein5hd-ar/tracks-v1a1/mono.m3u8?token=RED_qLtbE2uetYblp57I2zLiDw==,1622828752.3742543580
-#EXTINF:-1 tvg-logo="https://i.imgur.com/vpxJZTR.png" group-title="Sports", Bein Sports 6
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vpxJZTR.png" group-title="Sports", (DEAD) Bein Sports 6
 http:// 180.15.15:2200/EX/bein6hd-ar/tracks-v1a1/mono.m3u8?token=RED_qLtbE2uetYblp57I2zLiDw==,1622828752.3742543580
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7KTVtHK.png" group-title="Sports", Bein Sports 7
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7KTVtHK.png" group-title="Sports", (DEAD) Bein Sports 7
 http:// 180.15.15:2200/EX/bein7hd-ar/tracks-v1a1/mono.m3u8?token=RED_qLtbE2uetYblp57I2zLiDw==,1622828752.3742543580
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bDCErVN.png" group-title="Sports", Dubai Sports 1
 https://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/index.m3u8
@@ -499,12 +503,18 @@ http://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/tracks-v1a1/index.m3u8
 https://m-c01-j2apps.s.llnwi.net/live/0781.9XJalwa.in_480p/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IEwWaEN.png" group-title="Music", 9X Music
 http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/9XM-audio_208482_und=208000-video=877600.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rEhhYpe.png" group-title="Music", Boogle Bollywood
+http://live.agmediachandigarh.com/booglebollywood/774e3ea9f3fa9bcdac47f445b83b6653.sdp/booglebollywood/booglebolly1/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/stZqDcA.png" group-title="Music", B4U Music
 http://ztvuk.com:8080/harris/harris123/89349
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7rnhie0.png" group-title="Music", Dhoom Music
 http://103.205.133.21/hls/dhoommusic.m3u8?token=soheliptv01826655778
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DKVLQ7m.png" group-title="Music", MTV
 http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DKVLQ7m.png" group-title="Music", MTV HD+
+http://84.17.41.7:80/MTV_PLUS_US/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FSiZKKO.png" group-title="Music", Music India
+https://m-c01-j2apps.s.llnwi.net/hls_hd/0204.MusicIndia.in_720p/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TNk56Ai.png" group-title="Music", Sangeet Bangla
 http://103.205.133.21/hls/sangeetbangla.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TNk56Ai.png" group-title="Music", Sangeet Bangla (2)
@@ -642,85 +652,85 @@ http://45.64.135.88:8000/stream1
 
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/h5FhOWT.png" group-title="Toffee Server (সবার চলবে না)", Ananda TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/h5FhOWT.png" group-title="Toffee (IPTV Lite-এ চলবে শুধু)", Ananda TV
 PT13YjBWWFl2SW1Za0ZtTWxSVE95WVdNMEVXT3pjek5qSjJOeFlXTm1GVE5tTm1aa1JETXZVekwyUjNYaFJtYmg1V1l2TUhibzlWWnNsbVl2MTJMdDkyWXVVbWRweFdabFptWnZSbkx4MGljbDFXWWxKSGR6OXlMNk1IYzBSSGE=
-#EXTINF:-1 tvg-logo="https://i.imgur.com/K43LsMQ.png" group-title="Toffee Server (সবার চলবে না)", Bangla TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/K43LsMQ.png" group-title="Toffee (IPTV Lite-এ চলবে শুধু)", Bangla TV
 PT13YjBWWFl2SW1Za0ZtTWxSVE95WVdNMEVXT3pjek5qSjJOeFlXTm1GVE5tTm1aa1JETXZVekxraDJYMlIzWGh4Mlp1Rm1Zdk1IYm85VlpzbG1ZdjEyTHQ5Mll1VW1kcHhXWmxabVp2Um5MeDBpY2wxV1lsSkhkejl5TDZNSGMwUkhh
-#EXTINF:-1 tvg-logo="https://i.imgur.com/kDmkexe.png" group-title="Toffee Server (সবার চলবে না)", Bijoy TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kDmkexe.png" group-title="Toffee (IPTV Lite-এ চলবে শুধু)", Bijoy TV
 dlJYZGg5aVlpUldZeVVHTjVJalp4UVRZNU16TjNNbVkzRWpaMVlXTTFZMlltUkdOdzhTTnZZSGRmbDNicWxtWXZNSGJvOVZac2xtWXYxMkx0OTJZdVVtZHB4V1psWm1adlJuTHgwaWNsMVdZbEpIZHo5eUw2TUhjMFJIYQ==
-#EXTINF:-1 tvg-logo="https://i.imgur.com/pTJSGtj.png" group-title="Toffee Server (সবার চলবে না)", Boishakhi TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pTJSGtj.png" group-title="Toffee (IPTV Lite-এ চলবে শুধু)", Boishakhi TV
 PT13YjBWWFl2SW1Za0ZtTWxSVE95WVdNMEVXT3pjek5qSjJOeFlXTm1GVE5tTm1aa1JETXZVekxwaDJhaGgyY3A5bVl2TUhibzlWWnNsbVl2MTJMdDkyWXVVbWRweFdabFptWnZSbkx4MGljbDFXWWxKSGR6OXlMNk1IYzBSSGE=
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MmhxR5E.png" group-title="Toffee Server (সবার চলবে না)", Channel 24
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MmhxR5E.png" group-title="Toffee (IPTV Lite-এ চলবে শুধু)", Channel 24
 PThHZDFGMkxpSkdaaEpUWjBrak1tRkROaGx6TTNjellpZFRNbVZqWnhValpqWkdaMEF6TDE4Q055OEZibDVtYmhoMll2TUhibzlWWnNsbVl2MTJMdDkyWXVVbWRweFdabFptWnZSbkx4MGljbDFXWWxKSGR6OXlMNk1IYzBSSGE=
-#EXTINF:-1 tvg-logo="https://i.imgur.com/p0I5dr0.png" group-title="Toffee Server (সবার চলবে না)", Channel I HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/p0I5dr0.png" group-title="Toffee (IPTV Lite-এ চলবে শুধু)", Channel I HD
 PT13YjBWWFl2SW1Za0ZtTWxSVE95WVdNMEVXT3pjek5qSjJOeFlXTm1GVE5tTm1aa1JETXZVekxwOUZibDVtYmhoMll2TUhibzlWWnNsbVl2MTJMdDkyWXVVbWRweFdabFptWnZSbkx4MGljbDFXWWxKSGR6OXlMNk1IYzBSSGE=
-#EXTINF:-1 tvg-logo="https://i.imgur.com/djAX8Rc.png" group-title="Toffee Server (সবার চলবে না)", DBC News
+#EXTINF:-1 tvg-logo="https://i.imgur.com/djAX8Rc.png" group-title="Toffee (IPTV Lite-এ চলবে শুধু)", DBC News
 dlJYZGg5aVlpUldZeVVHTjVJalp4UVRZNU16TjNNbVkzRWpaMVlXTTFZMlltUkdOdzhTTnZNM2RsNTJYakpHWnZNSGJvOVZac2xtWXYxMkx0OTJZdVVtZHB4V1psWm1adlJuTHgwaWNsMVdZbEpIZHo5eUw2TUhjMFJIYQ==
-#EXTINF:-1 tvg-logo="https://i.imgur.com/JgkIH3w.png" group-title="Toffee Server (সবার চলবে না)", Desh TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JgkIH3w.png" group-title="Toffee (IPTV Lite-এ চলবে শুধু)", Desh TV
 PThHZDFGMkxpSkdaaEpUWjBrak1tRkROaGx6TTNjellpZFRNbVZqWnhValpqWkdaMEF6TDE4aWQwOUZhelZHWnZNSGJvOVZac2xtWXYxMkx0OTJZdVVtZHB4V1psWm1adlJuTHgwaWNsMVdZbEpIZHo5eUw2TUhjMFJIYQ==
-#EXTINF:-1 tvg-logo="https://i.imgur.com/bahWhBG.png" group-title="Toffee Server (সবার চলবে না)", MY TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bahWhBG.png" group-title="Toffee (IPTV Lite-এ চলবে শুধু)", MY TV
 dlJYZGg5aVlpUldZeVVHTjVJalp4UVRZNU16TjNNbVkzRWpaMVlXTTFZMlltUkdOdzhTTnZZSGRmbFhidk1IYm85VlpzbG1ZdjEyTHQ5Mll1VW1kcHhXWmxabVp2Um5MeDBpY2wxV1lsSkhkejl5TDZNSGMwUkhh
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3usnOla.png" group-title="Toffee Server (সবার চলবে না)", NTV BD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3usnOla.png" group-title="Toffee (IPTV Lite-এ চলবে শুধু)", NTV BD
 dlJYZGg5aVlpUldZeVVHTjVJalp4UVRZNU16TjNNbVkzRWpaMVlXTTFZMlltUkdOdzhTTnZJMlgyUm5idk1IYm85VlpzbG1ZdjEyTHQ5Mll1VW1kcHhXWmxabVp2Um5MeDBpY2wxV1lsSkhkejl5TDZNSGMwUkhh
-#EXTINF:-1 tvg-logo="https://i.imgur.com/cempbxl.png" group-title="Toffee Server (সবার চলবে না)", Akash Aath
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cempbxl.png" group-title="Toffee (IPTV Lite-এ চলবে শুধু)", Akash Aath
 PThHZDFGMkxpSkdaaEpUWjBrak1tRkROaGx6TTNjellpZFRNbVZqWnhValpqWkdaMEF6TDE4Q2EwRldZZmgyY2h0V1l2TUhibzlWWnNsbVl2MTJMdDkyWXVVbWRweFdabFptWnZSbkx4MGljbDFXWWxKSGR6OXlMNk1IYzBSSGE=
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EpykY5A.png" group-title="Toffee Server (সবার চলবে না)", Sony Aath
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EpykY5A.png" group-title="Toffee (IPTV Lite-এ চলবে শুধু)", Sony Aath
 PT13YjBWWFl2SW1Za0ZtTWxSVE95WVdNMEVXT3pjek5qSjJOeFlXTm1GVE5tTm1aa1JETXZVekxvUlhZaDlWZXU5MmN2TUhibzlWWnNsbVl2MTJMdDkyWXVVbWRweFdabFptWnZSbkx4MGljbDFXWWxKSGR6OXlMNk1IYzBSSGE=
-#EXTINF:-1 tvg-logo="https://i.imgur.com/M6GyIvI.png" group-title="Toffee Server (সবার চলবে না)", Zee Bangla Cinema
+#EXTINF:-1 tvg-logo="https://i.imgur.com/M6GyIvI.png" group-title="Toffee (IPTV Lite-এ চলবে শুধু)", Zee Bangla Cinema
 dlJYZGg5aVlpUldZeVVHTjVJalp4UVRZNU16TjNNbVkzRWpaMVlXTTFZMlltUkdOdzhTTnZFV2JsNVdhajlWWXNkbWJoSjJYbFZtZXZNSGJvOVZac2xtWXYxMkx0OTJZdVVtZHB4V1psWm1adlJuTHgwaWNsMVdZbEpIZHo5eUw2TUhjMFJIYQ==
-#EXTINF:-1 tvg-logo="https://i.imgur.com/e5Ldh7e.png" group-title="Toffee Server (সবার চলবে না)", Zee Bangla HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/e5Ldh7e.png" group-title="Toffee (IPTV Lite-এ চলবে শুধু)", Zee Bangla HD
 PThHZDFGMkxpSkdaaEpUWjBrak1tRkROaGx6TTNjellpZFRNbVZqWnhValpqWkdaMEF6TDE4Q1pvOVZZc2RtYmhKMlhsVm1ldk1IYm85VlpzbG1ZdjEyTHQ5Mll1VW1kcHhXWmxabVp2Um5MeDBpY2wxV1lsSkhkejl5TDZNSGMwUkhh
-#EXTINF:-1 tvg-logo="https://i.imgur.com/HVZHZGl.png" group-title="Toffee Server (সবার চলবে না)", Colors Bangla HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HVZHZGl.png" group-title="Toffee (IPTV Lite-এ চলবে শুধু)", Colors Bangla HD
 dlJYZGg5aVlpUldZeVVHTjVJalp4UVRZNU16TjNNbVkzRWpaMVlXTTFZMlltUkdOdzhTTnZRR2FmSjJYekozYnM5Mll2TUhibzlWWnNsbVl2MTJMdDkyWXVVbWRweFdabFptWnZSbkx4MGljbDFXWWxKSGR6OXlMNk1IYzBSSGE=
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0aWOFB9.png" group-title="Toffee Server (সবার চলবে না)", Colors SD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0aWOFB9.png" group-title="Toffee (IPTV Lite-এ চলবে শুধু)", Colors SD
 PT13YjBWWFl2SW1Za0ZtTWxSVE95WVdNMEVXT3pjek5qSjJOeFlXTm1GVE5tTm1aa1JETXZVekx6SjNiczkyWXZNSGJvOVZac2xtWXYxMkx0OTJZdVVtZHB4V1psWm1adlJuTHgwaWNsMVdZbEpIZHo5eUw2TUhjMFJIYQ==
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0aWOFB9.png" group-title="Toffee Server (সবার চলবে না)", Colors HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0aWOFB9.png" group-title="Toffee (IPTV Lite-এ চলবে শুধু)", Colors HD
 PT13YjBWWFl2SW1Za0ZtTWxSVE95WVdNMEVXT3pjek5qSjJOeFlXTm1GVE5tTm1aa1JETXZVekxraDJYekozYnM5Mll2TUhibzlWWnNsbVl2MTJMdDkyWXVVbWRweFdabFptWnZSbkx4MGljbDFXWWxKSGR6OXlMNk1IYzBSSGE=
-#EXTINF:-1 tvg-logo="https://i.imgur.com/oTt7D3K.png" group-title="Toffee Server (সবার চলবে না)", Sony Entertainment HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oTt7D3K.png" group-title="Toffee (IPTV Lite-এ চলবে শুধু)", Sony Entertainment HD
 dlJYZGg5aVlpUldZeVVHTjVJalp4UVRZNU16TjNNbVkzRWpaMVlXTTFZMlltUkdOdzhTTnZRR2FmUm5idDVXYWhSbmNsUm5ibDlWZXU5MmN2TUhibzlWWnNsbVl2MTJMdDkyWXVVbWRweFdabFptWnZSbkx4MGljbDFXWWxKSGR6OXlMNk1IYzBSSGE=
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ro7bedn.png" group-title="Toffee Server (সবার চলবে না)", Sony Max SD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ro7bedn.png" group-title="Toffee (IPTV Lite-এ চলবে শুধু)", Sony Max SD
 dlJYZGg5aVlpUldZeVVHTjVJalp4UVRZNU16TjNNbVkzRWpaMVlXTTFZMlltUkdOdzhTTnZnWFl0OVZldTkyY3ZNSGJvOVZac2xtWXYxMkx0OTJZdVVtZHB4V1psWm1adlJuTHgwaWNsMVdZbEpIZHo5eUw2TUhjMFJIYQ==
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ro7bedn.png" group-title="Toffee Server (সবার চলবে না)", Sony Max HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ro7bedn.png" group-title="Toffee (IPTV Lite-এ চলবে শুধু)", Sony Max HD
 PThHZDFGMkxpSkdaaEpUWjBrak1tRkROaGx6TTNjellpZFRNbVZqWnhValpqWkdaMEF6TDE4Q1pvOUZlaDEyWDBWMmN2TUhibzlWWnNsbVl2MTJMdDkyWXVVbWRweFdabFptWnZSbkx4MGljbDFXWWxKSGR6OXlMNk1IYzBSSGE=
-#EXTINF:-1 tvg-logo="https://i.imgur.com/PZppxya.jpg" group-title="Toffee Server (সবার চলবে না)", Sony Max 2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PZppxya.jpg" group-title="Toffee (IPTV Lite-এ চলবে শুধু)", Sony Max 2
 PThHZDFGMkxpSkdaaEpUWjBrak1tRkROaGx6TTNjellpZFRNbVZqWnhValpqWkdaMEF6TDE4aU1maFhZdDlWZXU5MmN2TUhibzlWWnNsbVl2MTJMdDkyWXVVbWRweFdabFptWnZSbkx4MGljbDFXWWxKSGR6OXlMNk1IYzBSSGE=
-#EXTINF:-1 tvg-logo="https://i.imgur.com/qQeesU6.png" group-title="Toffee Server (সবার চলবে না)", Sony Sab HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qQeesU6.png" group-title="Toffee (IPTV Lite-এ চলবে শুধু)", Sony Sab HD
 dlJYZGg5aVlpUldZeVVHTjVJalp4UVRZNU16TjNNbVkzRWpaMVlXTTFZMlltUkdOdzhTTnZRR2FmSldZejlWZXU5MmN2TUhibzlWWnNsbVl2MTJMdDkyWXVVbWRweFdabFptWnZSbkx4MGljbDFXWWxKSGR6OXlMNk1IYzBSSGE=
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9SYqIRU.png" group-title="Toffee Server (সবার চলবে না)", Zee TV HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9SYqIRU.png" group-title="Toffee (IPTV Lite-এ চলবে শুধু)", Zee TV HD
 PT13YjBWWFl2SW1Za0ZtTWxSVE95WVdNMEVXT3pjek5qSjJOeFlXTm1GVE5tTm1aa1JETXZVekxraDJYMlIzWGxWbWV2TUhibzlWWnNsbVl2MTJMdDkyWXVVbWRweFdabFptWnZSbkx4MGljbDFXWWxKSGR6OXlMNk1IYzBSSGE=
-#EXTINF:-1 tvg-logo="https://i.imgur.com/DKVLQ7m.png" group-title="Toffee Server (সবার চলবে না)", MTV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DKVLQ7m.png" group-title="Toffee (IPTV Lite-এ চলবে শুধু)", MTV
 PT13YjBWWFl2SW1Za0ZtTWxSVE95WVdNMEVXT3pjek5qSjJOeFlXTm1GVE5tTm1aa1JETXZVekwyUlhidk1IYm85VlpzbG1ZdjEyTHQ5Mll1VW1kcHhXWmxabVp2Um5MeDBpY2wxV1lsSkhkejl5TDZNSGMwUkhh
-#EXTINF:-1 tvg-logo="https://i.imgur.com/XITYSY0.png" group-title="Toffee Server (সবার চলবে না)", Animal Planet
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XITYSY0.png" group-title="Toffee (IPTV Lite-এ চলবে শুধু)", Animal Planet
 PThHZDFGMkxpSkdaaEpUWjBrak1tRkROaGx6TTNjellpZFRNbVZqWnhValpqWkdaMEF6TDE4Q1pvOUZkbDVXWXNCM1hzRldicDVXWXZNSGJvOVZac2xtWXYxMkx0OTJZdVVtZHB4V1psWm1adlJuTHgwaWNsMVdZbEpIZHo5eUw2TUhjMFJIYQ==
-#EXTINF:-1 tvg-logo="https://i.imgur.com/LJWxJjZ.png" group-title="Toffee Server (সবার চলবে না)", Colors Infinity HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LJWxJjZ.png" group-title="Toffee (IPTV Lite-এ চলবে শুধু)", Colors Infinity HD
 PT13YjBWWFl2SW1Za0ZtTWxSVE95WVdNMEVXT3pjek5qSjJOeFlXTm1GVE5tTm1aa1JETXZVekxraDJYNVJYYXVsbVp1bDJYekozYnM5Mll2TUhibzlWWnNsbVl2MTJMdDkyWXVVbWRweFdabFptWnZSbkx4MGljbDFXWWxKSGR6OXlMNk1IYzBSSGE=
-#EXTINF:-1 tvg-logo="https://i.imgur.com/8GG7Ny9.png" group-title="Toffee Server (সবার চলবে না)", Discovery
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8GG7Ny9.png" group-title="Toffee (IPTV Lite-এ চলবে শুধু)", Discovery
 PT13YjBWWFl2SW1Za0ZtTWxSVE95WVdNMEVXT3pjek5qSjJOeFlXTm1GVE5tTm1aa1JETXZVekw1SlhaMjkyWXpsR1p2TUhibzlWWnNsbVl2MTJMdDkyWXVVbWRweFdabFptWnZSbkx4MGljbDFXWWxKSGR6OXlMNk1IYzBSSGE=
-#EXTINF:-1 tvg-logo="https://i.imgur.com/d0GCm0e.png" group-title="Toffee Server (সবার চলবে না)", Sony BBC Earth
+#EXTINF:-1 tvg-logo="https://i.imgur.com/d0GCm0e.png" group-title="Toffee (IPTV Lite-এ চলবে শুধু)", Sony BBC Earth
 dlJYZGg5aVlpUldZeVVHTjVJalp4UVRZNU16TjNNbVkzRWpaMVlXTTFZMlltUkdOdzhTTnZnR2R5RldaZk5tWWk5VmV1OTJjdk1IYm85VlpzbG1ZdjEyTHQ5Mll1VW1kcHhXWmxabVp2Um5MeDBpY2wxV1lsSkhkejl5TDZNSGMwUkhh
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3i2U8HH.png" group-title="Toffee Server (সবার চলবে না)", Sony Pix HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3i2U8HH.png" group-title="Toffee (IPTV Lite-এ চলবে শুধু)", Sony Pix HD
 dlJYZGg5aVlpUldZeVVHTjVJalp4UVRZNU16TjNNbVkzRWpaMVlXTTFZMlltUkdOdzhTTnZRR2FmaFhhdzlWZXU5MmN2TUhibzlWWnNsbVl2MTJMdDkyWXVVbWRweFdabFptWnZSbkx4MGljbDFXWWxKSGR6OXlMNk1IYzBSSGE=
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ELjuMyU.png" group-title="Toffee Server (সবার চলবে না)", TLC HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ELjuMyU.png" group-title="Toffee (IPTV Lite-এ চলবে শুধু)", TLC HD
 PT13YjBWWFl2SW1Za0ZtTWxSVE95WVdNMEVXT3pjek5qSjJOeFlXTm1GVE5tTm1aa1JETXZVekxraDJYanhHZHZNSGJvOVZac2xtWXYxMkx0OTJZdVVtZHB4V1psWm1adlJuTHgwaWNsMVdZbEpIZHo5eUw2TUhjMFJIYQ==
-#EXTINF:-1 tvg-logo="https://i.imgur.com/swM1L4e.png" group-title="Toffee Server (সবার চলবে না)", Discovery Kids
+#EXTINF:-1 tvg-logo="https://i.imgur.com/swM1L4e.png" group-title="Toffee (IPTV Lite-এ চলবে শুধু)", Discovery Kids
 dlJYZGg5aVlpUldZeVVHTjVJalp4UVRZNU16TjNNbVkzRWpaMVlXTTFZMlltUkdOdzhTTnZNSFpwdDJYNUpYWjI5Mll6bEdadk1IYm85VlpzbG1ZdjEyTHQ5Mll1VW1kcHhXWmxabVp2Um5MeDBpY2wxV1lsSkhkejl5TDZNSGMwUkhh
-#EXTINF:-1 tvg-logo="https://i.imgur.com/rm7OMLk.png" group-title="Toffee Server (সবার চলবে না)", Nick Bangla
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rm7OMLk.png" group-title="Toffee (IPTV Lite-এ চলবে শুধু)", Nick Bangla
 PThHZDFGMkxpSkdaaEpUWjBrak1tRkROaGx6TTNjellpZFRNbVZqWnhValpqWkdaMEF6TDE4eWFqbG1idk1IYm85VlpzbG1ZdjEyTHQ5Mll1VW1kcHhXWmxabVp2Um5MeDBpY2wxV1lsSkhkejl5TDZNSGMwUkhh
-#EXTINF:-1 tvg-logo="https://i.imgur.com/chT8xP5.png" group-title="Toffee Server (সবার চলবে না)", Nick Junior
+#EXTINF:-1 tvg-logo="https://i.imgur.com/chT8xP5.png" group-title="Toffee (IPTV Lite-এ চলবে শুধু)", Nick Junior
 dlJYZGg5aVlpUldZeVVHTjVJalp4UVRZNU16TjNNbVkzRWpaMVlXTTFZMlltUkdOdzhTTnZJM2JwNVdkcTkxYWpsbWJ2TUhibzlWWnNsbVl2MTJMdDkyWXVVbWRweFdabFptWnZSbkx4MGljbDFXWWxKSGR6OXlMNk1IYzBSSGE=
-#EXTINF:-1 tvg-logo="https://i.imgur.com/dlL02Rv.png" group-title="Toffee Server (সবার চলবে না)", Sonic Nickeloden
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dlL02Rv.png" group-title="Toffee (IPTV Lite-এ চলবে শুধু)", Sonic Nickeloden
 dlJYZGg5aVlpUldZeVVHTjVJalp4UVRZNU16TjNNbVkzRWpaMVlXTTFZMlltUkdOdzhTTnZNV2F1OTJjdk1IYm85VlpzbG1ZdjEyTHQ5Mll1VW1kcHhXWmxabVp2Um5MeDBpY2wxV1lsSkhkejl5TDZNSGMwUkhh
-#EXTINF:-1 tvg-logo="https://i.imgur.com/lYM7Gik.png" group-title="Toffee Server (সবার চলবে না)", Sony Yay Bangla
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lYM7Gik.png" group-title="Toffee (IPTV Lite-এ চলবে শুধু)", Sony Yay Bangla
 dlJYZGg5aVlpUldZeVVHTjVJalp4UVRZNU16TjNNbVkzRWpaMVlXTTFZMlltUkdOdzhTTnZrWFk1OVZldTkyY3ZNSGJvOVZac2xtWXYxMkx0OTJZdVVtZHB4V1psWm1adlJuTHgwaWNsMVdZbEpIZHo5eUw2TUhjMFJIYQ==
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6a7pWRE.png" group-title="Toffee Server (সবার চলবে না)", Sony Six HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6a7pWRE.png" group-title="Toffee (IPTV Lite-এ চলবে শুধু)", Sony Six HD
 dlJYZGg5aVlpUldZeVVHTjVJalp4UVRZNU16TjNNbVkzRWpaMVlXTTFZMlltUkdOdzhTTnZRR2FmaFhhejlWZXU5MmN2TUhibzlWWnNsbVl2MTJMdDkyWXVVbWRweFdabFptWnZSbkx4MGljbDFXWWxKSGR6OXlMNk1IYzBSSGE=
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6a7pWRE.png" group-title="Toffee Server (সবার চলবে না)", Sony Six HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6a7pWRE.png" group-title="Toffee (IPTV Lite-এ চলবে শুধু)", Sony Six HD
 dlJYZGg5aVlpUldZeVVHTjVJalp4UVRZNU16TjNNbVkzRWpaMVlXTTFZMlltUkdOdzhTTnZnWGF6OVZldTkyY3ZNSGJvOVZac2xtWXYxMkx0OTJZdVVtZHB4V1psWm1adlJuTHgwaWNsMVdZbEpIZHo5eUw2TUhjMFJIYQ==
-#EXTINF:-1 tvg-logo="https://i.imgur.com/aO2GTAR.jpg" group-title="Toffee Server (সবার চলবে না)", Sony Ten 1 HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aO2GTAR.jpg" group-title="Toffee (IPTV Lite-এ চলবে শুধু)", Sony Ten 1 HD
 PT13YjBWWFl2SW1Za0ZtTWxSVE95WVdNMEVXT3pjek5qSjJOeFlXTm1GVE5tTm1aa1JETXZVekxraDJYeDRXWjA5VmV1OTJjdk1IYm85VlpzbG1ZdjEyTHQ5Mll1VW1kcHhXWmxabVp2Um5MeDBpY2wxV1lsSkhkejl5TDZNSGMwUkhh
-#EXTINF:-1 tvg-logo="https://i.imgur.com/rY69nFs.jpg" group-title="Toffee Server (সবার চলবে না)", Sony Ten 2 HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rY69nFs.jpg" group-title="Toffee (IPTV Lite-এ চলবে শুধু)", Sony Ten 2 HD
 PT13YjBWWFl2SW1Za0ZtTWxSVE95WVdNMEVXT3pjek5qSjJOeFlXTm1GVE5tTm1aa1JETXZVekxraDJYeTRXWjA5VmV1OTJjdk1IYm85VlpzbG1ZdjEyTHQ5Mll1VW1kcHhXWmxabVp2Um5MeDBpY2wxV1lsSkhkejl5TDZNSGMwUkhh
-#EXTINF:-1 tvg-logo="https://i.imgur.com/K1rahTG.png" group-title="Toffee Server (সবার চলবে না)", Sony Ten 3 HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/K1rahTG.png" group-title="Toffee (IPTV Lite-এ চলবে শুধু)", Sony Ten 3 HD
 PT13YjBWWFl2SW1Za0ZtTWxSVE95WVdNMEVXT3pjek5qSjJOeFlXTm1GVE5tTm1aa1JETXZVekxraDJYejRXWjA5VmV1OTJjdk1IYm85VlpzbG1ZdjEyTHQ5Mll1VW1kcHhXWmxabVp2Um5MeDBpY2wxV1lsSkhkejl5TDZNSGMwUkhh
 
 
