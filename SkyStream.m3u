@@ -379,24 +379,24 @@ https://95-213-224-174.liveUEFA Euro 202024.online/uafootballua1.m3u8
 https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OA19S3j.png" group-title="Sports", AD Sports 2
 https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/mZyaXvR.png" group-title="Sports", Bein Sports 1 
-http://sniperstv.vip:8080/iptvtree/p2q8H4Pqqp5fV8DW/54
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mZyaXvR.png" group-title="Sports", Bein Sports 1 MAX 
+http://sniperstv.vip:8080/iptvtree/p2q8H4Pqqp5fV8DW/32701
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mZyaXvR.png" group-title="Sports", Bein Sports 1 HD
 http://tv2.ebox.live:8080/live/bein-sports-1.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KKzaw0T.png" group-title="Sports", Bein Sports 2
-http://sniperstv.vip:8080/iptvtree/p2q8H4Pqqp5fV8DW/55
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KKzaw0T.png" group-title="Sports", Bein Sports 2 MAX 
+http://sniperstv.vip:8080/iptvtree/p2q8H4Pqqp5fV8DW/32702
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KKzaw0T.png" group-title="Sports", Bein Sports 2 HD
 http://tv2.ebox.live:8080/live/bein-sports-2.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/F3cWTGD.png" group-title="Sports", Bein Sports 3
-http://sniperstv.vip:8080/iptvtree/p2q8H4Pqqp5fV8DW/56
-#EXTINF:-1 tvg-logo="https://i.imgur.com/14HmsFC.png" group-title="Sports", Bein Sports 4
-http://sniperstv.vip:8080/iptvtree/p2q8H4Pqqp5fV8DW/57
+#EXTINF:-1 tvg-logo="https://i.imgur.com/F3cWTGD.png" group-title="Sports", Bein Sports 3 MAX 
+http://sniperstv.vip:8080/iptvtree/p2q8H4Pqqp5fV8DW/32703
+#EXTINF:-1 tvg-logo="https://i.imgur.com/14HmsFC.png" group-title="Sports", Bein Sports 4 MAX 
+http://sniperstv.vip:8080/iptvtree/p2q8H4Pqqp5fV8DW/32704
 #EXTINF:-1 tvg-logo="https://i.imgur.com/14HmsFC.png" group-title="Sports", Bein Sports 4 HD
 http://tv2.ebox.live:8080/live/bein-sports-eng-11.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/2WOxd9O.png" group-title="Sports", Bein Sports 5
-http://sniperstv.vip:8080/iptvtree/p2q8H4Pqqp5fV8DW/58
-#EXTINF:-1 tvg-logo="https://i.imgur.com/vpxJZTR.png" group-title="Sports", Bein Sports 6
-http://sniperstv.vip:8080/iptvtree/p2q8H4Pqqp5fV8DW/59
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2WOxd9O.png" group-title="Sports", Bein Sports 5 MAX 
+http://sniperstv.vip:8080/iptvtree/p2q8H4Pqqp5fV8DW/32705
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vpxJZTR.png" group-title="Sports", Bein Sports 6 MAX 
+http://sniperstv.vip:8080/iptvtree/p2q8H4Pqqp5fV8DW/32706
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7KTVtHK.png" group-title="Sports", Bein Sports 7
 http://sniperstv.vip:8080/iptvtree/p2q8H4Pqqp5fV8DW/60
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bDCErVN.png" group-title="Sports", Dubai Sports 1
