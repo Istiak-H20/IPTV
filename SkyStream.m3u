@@ -968,7 +968,7 @@ http://103.205.133.19/hls/mytv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2cpHJKq.png" group-title="Radiant-BDIX (সবার চলবে না)", Nagorik TV
 http://103.205.133.19/hls/nagorik.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mn88b34.png" group-title="Radiant-BDIX (সবার চলবে না)", News 24 HD
-http://103.205.133.21/hls/news24.m3u8
+http://103.205.133.19/hls/news24.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3usnOla.png" group-title="Radiant-BDIX (সবার চলবে না)", NTV BD
 http://103.205.133.19/hls/ntv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yi5p51T.png" group-title="Radiant-BDIX (সবার চলবে না)", RTV
