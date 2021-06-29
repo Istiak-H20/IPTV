@@ -67,7 +67,7 @@ http://iptvbd.jagobd.com:1931/boishakhi/mytv-up-off.stream/chunks.m3u8
 http://103.205.133.19/hls/nagorik.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2cpHJKq.png" group-title="Bangladeshi", Nagorik TV (2)
 http://103.81.104.118/hls/stream24.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/mn88b34.png" group-title="Bangladeshi", News 24 HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PbGS418.png" group-title="Bangladeshi", News 24 HD
 http://iptvbd.jagobd.com:1931/boishakhi/news24local.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3usnOla.png" group-title="Bangladeshi", NTV BD
 http://103.205.133.19/hls/ntv.m3u8
@@ -859,7 +859,7 @@ https://streamer-1.toffeelive.com/mobile_hls/ekattor_hd/5/04dfcf51f5f17bc7739a41
 https://streamer-1.toffeelive.com/mobile_hls/independent/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bahWhBG.png" group-title="Toffee Server (সবার চলবে)", MY TV
 https://streamer-1.toffeelive.com/mobile_hls/my_tv/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
-#EXTINF:-1 tvg-logo="https://i.imgur.com/mn88b34.png" group-title="Toffee Server (সবার চলবে)", News 24 HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PbGS418.png" group-title="Toffee Server (সবার চলবে)", News 24 HD
 https://streamer-1.toffeelive.com/mobile_hls/news24hd/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3usnOla.png" group-title="Toffee Server (সবার চলবে)", NTV BD
 https://streamer-1.toffeelive.com/mobile_hls/ntv_b/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
@@ -1077,7 +1077,7 @@ http://tv2.ebox.live:8080/live/ex-jamuna.m3u8
 http://tv2.ebox.live:8080/live/rtv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pTJSGtj.png" group-title="Ebox-BDIX (সবার চলবে না)", Boishakhi TV
 http://tv2.ebox.live:8080/live/ex-boishakhi.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/mn88b34.png" group-title="Ebox-BDIX (সবার চলবে না)", News 24
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PbGS418.png" group-title="Ebox-BDIX (সবার চলবে না)", News 24
 http://tv2.ebox.live:8080/live/ex-news24-20.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/djAX8Rc.png" group-title="Ebox-BDIX (সবার চলবে না)", DBC
 http://tv2.ebox.live:8080/live/dbc.m3u8
@@ -1201,7 +1201,7 @@ http://103.205.133.19/hls/mohonatv.m3u8
 http://103.205.133.19/hls/mytv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2cpHJKq.png" group-title="Radiant-BDIX (সবার চলবে না)", Nagorik TV
 http://103.205.133.19/hls/nagorik.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/mn88b34.png" group-title="Radiant-BDIX (সবার চলবে না)", News 24 HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PbGS418.png" group-title="Radiant-BDIX (সবার চলবে না)", News 24 HD
 http://103.205.133.19/hls/news24.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3usnOla.png" group-title="Radiant-BDIX (সবার চলবে না)", NTV BD
 http://103.205.133.19/hls/ntv.m3u8
