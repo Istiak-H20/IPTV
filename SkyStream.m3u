@@ -258,12 +258,12 @@ http://103.81.104.118/hls/stream25.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XITYSY0.png" group-title="English Infotainment", Animal Planet HD
 https://livecdn.fptplay.net/qnetlive/animalplanet_hls.smil/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/XITYSY0.png" group-title="English Infotainment", Animal Planet HD (2)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XITYSY0.png" group-title="English Infotainment", Animal Planet SD
 https://streamer-1.toffeelive.com/mobile_hls/animal_planet_hd/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XITYSY0.png" group-title="English Infotainment", Animal Planet HD (3)
 http://tv2.ebox.live:8080/live/animale-planet.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XITYSY0.png" group-title="English Infotainment", Animal Planet HD Hindi
-http://nwbz1u.ecm.tm/806B6CF/89181e/SM_FHD-HINDI-ANIMALPLANET/tracks-v1a1/index.m3u8?token=0558356b27398f74c6bf8c38e901782c5ad3f413434f76feba4126576823fdf44b34911850a0dc345c440cee76ee92138c664006a29d4792957a13ce9f386d0f81e4bad707c643dffddbb332a702f41eb8a4177934010da02cd85807927addfbee3fb015fe7846c156d439bd0f9899a593&mac=00:1A:79:4B:57:A3&ip=27.96.95.31&magic_server=MAIN_MP
+http://mygoodstream.pw/proxy.php/http://nwbz1u.ecm.tm/806B6CF/89181e/SM_FHD-HINDI-ANIMALPLANET/tracks-v1a1/index.m3u8?token=0558356b27398f74c6bf8c38e901782c5ad3f413434f76feba4126576823fdf44b34911850a0dc345c440cee76ee92138c664006a29d4792957a13ce9f386d0f81e4bad707c643dffddbb332a702f41eb8a4177934010da02cd85807927addfbee3fb015fe7846c156d439bd0f9899a593&mac=00:1A:79:4B:57:A3&ip=27.96.95.31&magic_server=MAIN_MP
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XITYSY0.png" group-title="English Infotainment", Animal Planet HD Hindi (2)
 https://idvd.multitvsolution.com/idvo/aphdhindi_540p/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/T1vgYzE.png" group-title="English Infotainment", BBC Earth
@@ -975,7 +975,7 @@ http://103.81.104.118/hls/stream17.m3u8
 http://103.81.104.118/hls/stream22.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/p0I5dr0.png" group-title="SK Traders-BDIX (সবার চলবে না)", Channel I 
 http://103.81.104.118/hls/stream18.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/kviJN1i.png" group-title="SK Traders-BDIX (সবার চলবে না)", Independent News
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7ftu2Rt.jpg" group-title="SK Traders-BDIX (সবার চলবে না)", Maasranga TV HD
 http://103.81.104.118/hls/stream20.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2cpHJKq.png" group-title="SK Traders-BDIX (সবার চলবে না)", Nagorik 
 http://103.81.104.118/hls/stream24.m3u8
