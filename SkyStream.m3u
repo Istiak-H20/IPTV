@@ -1,5 +1,5 @@
 #EXTM3U 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ra2RzlQ.png" group-title="Bangladeshi", Sky Stream TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ra2RzlQ.png" group-title="Bangladeshi", Sky Stream
 https://i.imgur.com/idpBthb.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/h5FhOWT.png" group-title="Bangladeshi", Ananda TV
 http://iptvbd.jagobd.com:1931/boishakhi/anandatv.stream/chunks.m3u8
@@ -1155,105 +1155,6 @@ http://tv2.ebox.live:8080/live/starsportsselect-1.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TL2jAU6.png" group-title="Ebox-BDIX (সবার চলবে না)", Star Sports Sel 2 HD
 http://tv2.ebox.live:8080/live/starsportsselect-2.m3u8
 
-
-
-
-
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5PsRkPd.png" group-title="Inspire-BDIX (OFFLINE)", ATN Bangla 
-http://103.213.238.70:80/ATNBangla/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/v9PqrCG.png" group-title="Inspire-BDIX (OFFLINE)", ATN News 
-http://103.213.238.70:80/ATNNews/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/HX8SSDA.png" group-title="Inspire-BDIX (OFFLINE)", Banglavision 
-http://103.213.238.70:80/BanglaVision/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/pTJSGtj.png" group-title="Inspire-BDIX (OFFLINE)", Boishakhi 
-http://103.213.238.70:80/BoishakhiTV/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/RR0Iv6V.png" group-title="Inspire-BDIX (OFFLINE)", BTV World 
-http://103.213.238.70:80/BTVWorld/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MmhxR5E.png" group-title="Inspire-BDIX (OFFLINE)", Channel 24 
-http://103.213.238.70:80/Channel24/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/p0I5dr0.png" group-title="Inspire-BDIX (OFFLINE)", Channel I 
-http://103.213.238.70:80/ChannelI/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/djAX8Rc.png" group-title="Inspire-BDIX (OFFLINE)", DBC News 
-http://103.213.238.70:80/DBCNews/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tPZKfLr.png" group-title="Inspire-BDIX (OFFLINE)", Deepto TV 
-http://103.213.238.70:80/DeeptoTV/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/i8T9qQs.png" group-title="Inspire-BDIX (OFFLINE)", Ekattor TV 
-http://103.213.238.70:80/EkattorTV/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/kFqOMtx.png" group-title="Inspire-BDIX (OFFLINE)", Ekushey TV 
-http://103.213.238.70:80/EkusheyTv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Jo7wzmn.png" group-title="Inspire-BDIX (OFFLINE)", Gaan Bangla 
-http://103.213.238.70:80/GaanBangla/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/eyAInC9.png" group-title="Inspire-BDIX (OFFLINE)", Gazi TV 
-http://103.213.238.70:80/GaziTV/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/kviJN1i.png" group-title="Inspire-BDIX (OFFLINE)", Independent TV 
-http://103.213.238.70:80/IndependentTV/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4imblNY.jpg" group-title="Inspire-BDIX (OFFLINE)", Mohona TV 
-http://103.213.238.70:80/MohonaTV/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/bahWhBG.png" group-title="Inspire-BDIX (OFFLINE)", My TV 
-http://103.213.238.70:80/MyTV/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/2cpHJKq.png" group-title="Inspire-BDIX (OFFLINE)", Nagorik TV 
-http://103.213.238.70:80/NagorikTV/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/mn88b34.png" group-title="Inspire-BDIX (OFFLINE)", News 24 
-http://103.213.238.70:80/News24/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fraEjzm.png" group-title="Inspire-BDIX (OFFLINE)", SATV 
-http://103.213.238.70:80/SATV/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Z2QvpTn.png" group-title="Inspire-BDIX (OFFLINE)", Somoy TV 
-http://103.213.238.70:80/SomoyTv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/dQrdh2F.png" group-title="Inspire-BDIX (OFFLINE)", Al Jazeera 
-http://103.213.238.70:80/Aljazeera/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/XITYSY0.png" group-title="Inspire-BDIX (OFFLINE)", Animal Planet 
-http://103.213.238.70:80/AnimalPlanet/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ELjuMyU.png" group-title="Inspire-BDIX (OFFLINE)", TLC HD 
-http://103.213.238.70:80/TLCHD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/chT8xP5.png" group-title="Inspire-BDIX (OFFLINE)", Nick Jr. 
-http://103.213.238.70:80/Nick/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/lYM7Gik.png" group-title="Inspire-BDIX (OFFLINE)", Sony Yay 
-http://103.213.238.70:80/SonyYay/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/AMiJBP6.png" group-title="Inspire-BDIX (OFFLINE)", And Prive HD 
-http://103.213.238.70:80/&privatehd/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gSXkPye.png" group-title="Inspire-BDIX (OFFLINE)", Bflix 
-http://103.213.238.70:80/Bflix/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ROyNTL3.png" group-title="Inspire-BDIX (OFFLINE)", Dubai One 
-http://103.213.238.70:80/DubaiOne/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/oTt7D3K.png" group-title="Inspire-BDIX (OFFLINE)", Sony TV 
-http://103.213.238.70:80/j-SonyTV/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ro7bedn.png" group-title="Inspire-BDIX (OFFLINE)", Sony Max HD 
-http://103.213.238.70:80/SonyMaxHD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3i2U8HH.png" group-title="Inspire-BDIX (OFFLINE)", Sony Pix 
-http://103.213.238.70:80/SonyPix/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/qQeesU6.png" group-title="Inspire-BDIX (OFFLINE)", Sony SAB 
-http://103.213.238.70:80/SonySAB/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ppJO2Ep.png" group-title="Inspire-BDIX (OFFLINE)", Star Jalsha 
-http://103.213.238.70:80/j-star-jalsha/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/vGq343l.png" group-title="Inspire-BDIX (OFFLINE)", Star Gold HD 
-http://103.213.238.70:80/j-star-gold-hd/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/AMhvwJB.png" group-title="Inspire-BDIX (OFFLINE)", Star Plus 
-http://103.213.238.70:80/j-star-plus/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/e5Ldh7e.png" group-title="Inspire-BDIX (OFFLINE)", Zee Bangla 
-http://103.213.238.70:80/ZeeBangla/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/M6GyIvI.png" group-title="Inspire-BDIX (OFFLINE)", Zee Bangla Cinema
-http://103.213.238.70:80/ZeeBanglaCinema/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ldXaLJK.png" group-title="Inspire-BDIX (OFFLINE)", Zee Cinema 
-http://103.213.238.70:80/ZeeCinema/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Y7Npxxs.png" group-title="Inspire-BDIX (OFFLINE)", AD Sports 1 
-http://103.213.238.70:80/ADSPORTS1/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/OA19S3j.png" group-title="Inspire-BDIX (OFFLINE)", AD Sports 2 
-http://103.213.238.70:80/ADSPORTS2/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ELg8s12.png" group-title="Inspire-BDIX (OFFLINE)", AD Sports 3 
-http://103.213.238.70:80/ADSPORTS3/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/t2cIFyP.png" group-title="Inspire-BDIX (OFFLINE)", AD Sports 4 
-http://103.213.238.70:80/ADSPORTS4/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6a7pWRE.png" group-title="Inspire-BDIX (OFFLINE)", Sony Six 
-http://103.213.238.70:80/SonySix/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/aO2GTAR.jpg" group-title="Inspire-BDIX (OFFLINE)", Sony Ten 1 
-http://103.213.238.70:80/SonyTen1/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/rY69nFs.jpg" group-title="Inspire-BDIX (OFFLINE)", Sony Ten 2 
-http://103.213.238.70:80/SonyTen2/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/K1rahTG.png" group-title="Inspire-BDIX (OFFLINE)", Sony Ten 3 
-http://103.213.238.70:80/SonyTen3/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CJUmEHD.png" group-title="Inspire-BDIX (OFFLINE)", T Sports 
-http://103.213.238.70:80/j-TSports/tracks-v1a1/mono.m3u8
 
 
 
