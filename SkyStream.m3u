@@ -29,6 +29,8 @@ http://iptvbd.jagobd.com:1931/boishakhi/bijoy00.stream/chunks.m3u8
 http://103.43.148.202:1931/iptv/bijoy00.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pTJSGtj.png" group-title="Bangladeshi", Boishakhi TV
 http://iptvbd.jagobd.com:1931/boishakhi/boishakhitv-org.stream/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/o1gf5bE.png" group-title="Bangladeshi", Boishakhi TV (2)
+http://iptvbd.jagobd.com:1931/boishakhi/boishakhitv-org.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MmhxR5E.png" group-title="Bangladeshi", Channel 24
 http://iptvbd.jagobd.com:1931/boishakhi/channel24-sg-e8e.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MmhxR5E.png" group-title="Bangladeshi", Channel 24 (2)
@@ -55,7 +57,7 @@ http://103.205.133.19/hls/deshtv.
 http://103.157.237.18:8000/play/132
 #EXTINF:-1 tvg-logo="https://i.imgur.com/i8T9qQs.png" group-title="Bangladeshi", Ekattor TV HD
 http://103.205.133.19/hls/ekatoortv.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/i8T9qQs.png" group-title="Bangladeshi", Ekattor TV HD (2)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lUh3QkX.png" group-title="Bangladeshi", Ekattor TV HD (2)
 http://103.109.56.116/live/skyfeed1003/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kFqOMtx.png" group-title="Bangladeshi", Ekusey TV
 http://103.205.133.19/hls/ekushey.m3u8
@@ -68,6 +70,8 @@ http://103.106.243.163:8181//1/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eyAInC9.png" group-title="Bangladeshi", Gazi TV HD 
 http://103.157.237.18:8000/play/122
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kviJN1i.png" group-title="Bangladeshi", Independent TV
+http://iptvbd.jagobd.com:1931/boishakhi/independent-8-org.stream/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NGUsWwC.png" group-title="Bangladeshi", Independent TV (2)
 http://iptvbd.jagobd.com:1931/boishakhi/independent-8-org.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ds3aThu.jpg" group-title="Bangladeshi", Jamuna TV
 http://iptvbd.jagobd.com:1931/boishakhi/jamuna-test-sample-ok.stream/chunks.m3u8
@@ -85,9 +89,9 @@ http://103.43.148.202:1931/iptv/mytv-up-off.stream/chunks.m3u8
 http://103.205.133.19/hls/nagorik.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2cpHJKq.png" group-title="Bangladeshi", Nagorik TV (2)
 http://tv.pmcon.net/hls/stream24.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/PbGS418.png" group-title="Bangladeshi", News 24 HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FxsW4XI.png" group-title="Bangladeshi", News 24 HD
 http://iptvbd.jagobd.com:1931/boishakhi/news24local.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/PbGS418.png" group-title="Bangladeshi", News 24 HD (2)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FxsW4XI.png" group-title="Bangladeshi", News 24 HD (2)
 http://103.43.148.202:1931/iptv/news24local.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3usnOla.png" group-title="Bangladeshi", NTV BD
 http://103.205.133.19/hls/ntv.m3u8
@@ -220,8 +224,10 @@ http://84.17.41.7:80/Rishtey_Cineplex_IND/tracks-v1a1/mono.m3u8
 http://mygoodstream.pw/proxy.php/https://shls-mbcbollywood-prod-dub.shahid.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ro7bedn.png" group-title="Hindi Movies", Sony Max HD 
 http://tv2.ebox.live:8080/live/sony-max.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ro7bedn.png" group-title="Hindi Movies", Sony Max HD ()
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ro7bedn.png" group-title="Hindi Movies", Sony Max HD (2)
 http://prox.x86.co.uk/index.php/http://208.115.215.42:80/Sony_Max_HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ro7bedn.png" group-title="Hindi Movies", Sony Max HD (3)
+http://103.213.238.70:80/SonyMaxHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/h70werw.jpg" group-title="Hindi Movies", Sony Wah
 https://d2gowxuvx77j6q.cloudfront.net/WAH.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YvGtRg7.png" group-title="Hindi Movies", Star Gold 2 HD
@@ -459,29 +465,6 @@ http://103.205.133.19/hls/peacetv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KgHqXE5.png" group-title="Religious", Sunnah TV
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/t4FS3Hr.png" group-title="Religious", Quran TV
-
-
-
-
-
-
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/DGTfmQa.jpg" group-title="Argentina vs Brazil", Sony Ten 1 HD
-http://tv.pmcon.net/hls/stream40.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/DGTfmQa.jpg" group-title="Argentina vs Brazil", Sony Ten 2
- http://199.66.95.242:80/3/3094/index.m3u8?token=test
-#EXTINF:-1 tvg-logo="https://i.imgur.com/DGTfmQa.jpg" group-title="Argentina vs Brazil", Sony Ten 2 HD
-http://tv.pmcon.net/hls/stream39.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/DGTfmQa.jpg" group-title="Argentina vs Brazil", Sony Ten 2 HD (2)
-http://103.205.133.19/hls/ten2.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/DGTfmQa.jpg" group-title="Argentina vs Brazil", Sony Ten 3 HD
-http://199.66.95.242:80/3/3093/index.m3u8?token=test
-#EXTINF:-1 tvg-logo="https://i.imgur.com/DGTfmQa.jpg" group-title="Argentina vs Brazil", Sony SIX
-http://199.66.95.242:80/3/3096/index.m3u8?token=test
-#EXTINF:-1 tvg-logo="https://i.imgur.com/DGTfmQa.jpg" group-title="Argentina vs Brazil", Sony SIX (2)
-http://tv.pmcon.net/hls/stream10.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/DGTfmQa.jpg" group-title="Argentina vs Brazil", Copa America
-https://95-213-224-174.livesports24.online/uafootballua1.m3u8
 
 
 
@@ -883,7 +866,7 @@ http://tv2.ebox.live:8080/live/ex-jamuna.m3u8
 http://tv2.ebox.live:8080/live/rtv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pTJSGtj.png" group-title="Ebox-BDIX (সবার চলবে না)", Boishakhi TV
 http://tv2.ebox.live:8080/live/ex-boishakhi.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/PbGS418.png" group-title="Ebox-BDIX (সবার চলবে না)", News 24
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FxsW4XI.png" group-title="Ebox-BDIX (সবার চলবে না)", News 24
 http://tv2.ebox.live:8080/live/ex-news24-20.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/djAX8Rc.png" group-title="Ebox-BDIX (সবার চলবে না)", DBC
 http://tv2.ebox.live:8080/live/dbc.m3u8
@@ -1007,7 +990,7 @@ http://103.205.133.19/hls/mohonatv.m3u8
 http://103.205.133.19/hls/mytv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2cpHJKq.png" group-title="Radiant-BDIX (সবার চলবে না)", Nagorik TV
 http://103.205.133.19/hls/nagorik.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/PbGS418.png" group-title="Radiant-BDIX (সবার চলবে না)", News 24 HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FxsW4XI.png" group-title="Radiant-BDIX (সবার চলবে না)", News 24 HD
 http://103.205.133.19/hls/news24.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3usnOla.png" group-title="Radiant-BDIX (সবার চলবে না)", NTV BD
 http://103.205.133.19/hls/ntv.m3u8
