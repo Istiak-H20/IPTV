@@ -660,12 +660,18 @@ http://210.210.155.35/session/a052d55e-cdbe-11eb-a072-b38e91e92175/dr9445/h/h02/
 http://mygoodstream.pw/proxy.php/http://31.220.41.88:8081/live/us-boomerang.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dYLwOJA.png" group-title="Kids", Cartoon Network
 https://shls-cartoon-net-prod-dub.shahid.net/out/v1/dc4aa87372374325a66be458f29eab0f/index_4.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dYLwOJA.png" group-title="Kids", Cartoon Network
+https://ersupport.com/plugins/QuickWebProxy/miniProxy.php/http://31.220.41.88:8081/live/cn.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dYLwOJA.png" group-title="Kids", Cartoon Network Hindi
+http://70.39.83.58:8278/cartoonnetworkhindikdin/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tMUiKL7.png" group-title="Kids", Cbeebies
+http://mygoodstream.pw/proxy.php/http://185.180.221.194:8278/streams/d/Cbeebies/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/swM1L4e.png" group-title="Kids", Discovery Kids
 http://idvd.multitvsolution.com/idvo/discoverykidshindi.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/swM1L4e.png" group-title="Kids", Discovery Kids Hindi
 https://d31i2h2maeqv2f.cloudfront.net/DIS_KIDS.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/u7VDHRz.png" group-title="Kids", Disney Hindi
-
+http://70.39.83.58:8278/disneychannelhindikdin/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Zttm0bq.png" group-title="Kids", Disney JR Hindi
 https://ersupport.com/plugins/QuickWebProxy/miniProxy.php/http://70.39.83.58:8278/disneyjuniorhindikdin/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Amjx4BZ.png" group-title="Kids", Disney XD
@@ -678,6 +684,8 @@ http://ebsonairios.ebs.co.kr/ebsutablet500k/_definst_/tablet500k/chunklist_w9201
 http://103.153.39.34:8000/play/a04l/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/t0Ecro6.png" group-title="Kids", Hungama Tv 
 https://ersupport.com/plugins/QuickWebProxy/miniProxy.php/http://70.39.83.58:8278/hungamahindikdin/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DXPWPi3.png" group-title="Kids", Marvel HQ
+https://ersupport.com/plugins/QuickWebProxy/miniProxy.php/http://70.39.83.58:8278/marvelhqhindikdin/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DDsHkBv.png" group-title="Kids", Majed
 https://admdn4.cdn.mangomolo.com/majid/smil:majid.stream.smil/playlist.m3u8?checkedby:hlscat.com
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AwNWCV5.png" group-title="Kids", MBC 3
