@@ -889,7 +889,7 @@ http://enaniptv.com/rnntv/1080/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ra2RzlQ.png" group-title="BD IPTV", Sonali Bangla TV
 https://tempsignature.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/sonalitv.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ra2RzlQ.png" group-title="BD IPTV", Sristi TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fyqDLvV.png" group-title="BD IPTV", Sristi TV
 http://tempe.jagobd.com:1932/iptv/sristytv.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ra2RzlQ.png" group-title="BD IPTV", TBN 24
 https://dog.dg21bd.com:443/TBN242/tracks-v1a1/mono.m3u8
