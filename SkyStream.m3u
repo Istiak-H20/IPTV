@@ -122,9 +122,9 @@ https://yuppcatchup.akamaized.net/preview/etvbengali/2500.m3u8
 http://tv.pmcon.net/hls/stream28.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HVZHZGl.png" group-title="Indian Bangla", Colors Bangla SD
 http://103.205.133.19/hls/colorsbangla.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Tp3Kead.png" group-title="Indian Bangla", Enter 10 Bangla
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JzBR5i8.png" group-title="Indian Bangla", Enter 10 Bangla
 http://tv.pmcon.net/hls/stream26.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Tp3Kead.png" group-title="Indian Bangla", Enter 10 Bangla (2)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JzBR5i8.png" group-title="Indian Bangla", Enter 10 Bangla (2)
 http://idvd.multitvsolution.com/idvo/enter10bangla_540p/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0TI3BsT.png" group-title="Indian Bangla", Express News
 http://streamcp.logosys.cloud:1935/expressnews/expressnews/chunklist_w877989687.m3u8
@@ -931,7 +931,7 @@ http://tv.pmcon.net/hls/stream24.m3u8
 http://tv.pmcon.net/hls/stream21.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HVZHZGl.png" group-title="SK Traders-BDIX (সবার চলবে না)", Colors Bangla HD 
 http://tv.pmcon.net/hls/stream28.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Tp3Kead.png" group-title="SK Traders-BDIX (সবার চলবে না)", Enterr 10 Bangla 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JzBR5i8.png" group-title="SK Traders-BDIX (সবার চলবে না)", Enterr 10 Bangla 
 http://tv.pmcon.net/hls/stream26.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2PQfcOh.png" group-title="SK Traders-BDIX (সবার চলবে না)", Jalsha Movies HD 
 http://tv.pmcon.net/hls/stream27.m3u8
