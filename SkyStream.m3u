@@ -873,6 +873,133 @@ http://tv.pmcon.net/hls/stream33.m3u8
 
 
 
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fxq0pV2.png" group-title="Alif Laila-BDIX (সবার চলবে না)",Asian TV
+http://tv.aliflailabd.com:8989/asiantv/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5PsRkPd.png" group-title="Alif Laila-BDIX (সবার চলবে না)",ATN Bangla
+http://tv.aliflailabd.com:8989/atn-bangla/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/v9PqrCG.png" group-title="Alif Laila-BDIX (সবার চলবে না)",ATN News
+http://tv.aliflailabd.com:8989/atn-news/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/K43LsMQ.png" group-title="Alif Laila-BDIX (সবার চলবে না)",Bangla TV
+http://tv.aliflailabd.com:8989/bangla-tv/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/H9qgGSc.png" group-title="Alif Laila-BDIX (সবার চলবে না)",Bangladesh Television
+http://tv.aliflailabd.com:8989/btv/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HX8SSDA.png" group-title="Alif Laila-BDIX (সবার চলবে না)",Banglavision HD
+http://tv.aliflailabd.com:8989/bangla-vision/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pTJSGtj.png" group-title="Alif Laila-BDIX (সবার চলবে না)",Boishakhi TV
+http://tv.aliflailabd.com:8989/boishakhi-tv/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MmhxR5E.png" group-title="Alif Laila-BDIX (সবার চলবে না)",Channel 24 HD
+http://tv.aliflailabd.com:8989/channel24/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fj8nxOw.png" group-title="Alif Laila-BDIX (সবার চলবে না)",Channel 9 HD
+http://tv.aliflailabd.com:8989/channel9/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/p0I5dr0.png" group-title="Alif Laila-BDIX (সবার চলবে না)",Channel I HD
+http://tv.aliflailabd.com:8989/channel-i/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/djAX8Rc.png" group-title="Alif Laila-BDIX (সবার চলবে না)",DBC News
+http://tv.aliflailabd.com:8989/dbc-news/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tPZKfLr.png" group-title="Alif Laila-BDIX (সবার চলবে না)",Deepto TV HD
+http://tv.aliflailabd.com:8989/depto-bangla/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/i8T9qQs.png" group-title="Alif Laila-BDIX (সবার চলবে না)",Ekattor TV HD
+http://tv.aliflailabd.com:8989/ekattor/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eyAInC9.png" group-title="Alif Laila-BDIX (সবার চলবে না)",Gazi TV HD
+http://tv.aliflailabd.com:8989/gazi-tv/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ds3aThu.jpg" group-title="Alif Laila-BDIX (সবার চলবে না)",Jamuna TV
+http://tv.aliflailabd.com:8989/jamuna-tv/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7ftu2Rt.jpg" group-title="Alif Laila-BDIX (সবার চলবে না)",Maasranga TV HD
+http://tv.aliflailabd.com:8989/maasranga/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bahWhBG.png" group-title="Alif Laila-BDIX (সবার চলবে না)",My TV BD
+http://tv.aliflailabd.com:8989/my-tv/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2cpHJKq.png" group-title="Alif Laila-BDIX (সবার চলবে না)",Nagorik TV
+http://tv.aliflailabd.com:8989/nagorik-tv/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FxsW4XI.png" group-title="Alif Laila-BDIX (সবার চলবে না)",News 24 HD
+http://tv.aliflailabd.com:8989/news24-hd/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3usnOla.png" group-title="Alif Laila-BDIX (সবার চলবে না)",NTV BD
+http://tv.aliflailabd.com:8989/ntv/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yi5p51T.png" group-title="Alif Laila-BDIX (সবার চলবে না)",RTV HD
+http://tv.aliflailabd.com:8989/rtv/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fraEjzm.png" group-title="Alif Laila-BDIX (সবার চলবে না)",SA TV
+http://tv.aliflailabd.com:8989/satv/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Z2QvpTn.png" group-title="Alif Laila-BDIX (সবার চলবে না)",Shomoy TV
+http://tv.aliflailabd.com:8989/somoy-tv/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HVZHZGl.png" group-title="Alif Laila-BDIX (সবার চলবে না)",Colors Bangla HD
+http://tv.aliflailabd.com:8989/colors-bangla/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2PQfcOh.png" group-title="Alif Laila-BDIX (সবার চলবে না)",Jalsha Movies HD
+http://tv.aliflailabd.com:8989/jalsha-movies/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EpykY5A.png" group-title="Alif Laila-BDIX (সবার চলবে না)",Sony Aat
+http://tv.aliflailabd.com:8989/sony-aath/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ppJO2Ep.png" group-title="Alif Laila-BDIX (সবার চলবে না)",Star Jalsha HD
+http://tv.aliflailabd.com:8989/star-jalsha/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/M6GyIvI.png" group-title="Alif Laila-BDIX (সবার চলবে না)",Zee Bangla Cinema
+http://tv.aliflailabd.com:8989/zee-cinema/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/e5Ldh7e.png" group-title="Alif Laila-BDIX (সবার চলবে না)",Zee Bangla SD
+http://tv.aliflailabd.com:8989/zee-bangla/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0aWOFB9.png" group-title="Alif Laila-BDIX (সবার চলবে না)",Colors HD
+http://tv.aliflailabd.com:8989/colors-hd/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oTt7D3K.png" group-title="Alif Laila-BDIX (সবার চলবে না)",Sony Entertainment HD
+http://tv.aliflailabd.com:8989/sony-hd/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AMhvwJB.png" group-title="Alif Laila-BDIX (সবার চলবে না)",Star Plus HD
+http://tv.aliflailabd.com:8989/star-plus/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9SYqIRU.png" group-title="Alif Laila-BDIX (সবার চলবে না)",Zee TV HD
+http://tv.aliflailabd.com:8989/zeetv/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ro7bedn.png" group-title="Alif Laila-BDIX (সবার চলবে না)",Sony Max HD
+http://tv.aliflailabd.com:8989/setmax/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ldXaLJK.png" group-title="Alif Laila-BDIX (সবার চলবে না)",Zee Cinema HD
+http://tv.aliflailabd.com:8989/zee-cinema/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oCPx7Wa.png" group-title="Alif Laila-BDIX (সবার চলবে না)",ESPN
+http://tv.aliflailabd.com:8989/sony-espn-hd/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6a7pWRE.png" group-title="Alif Laila-BDIX (সবার চলবে না)",Sony Six HD
+http://tv.aliflailabd.com:8989/sony-six-hd/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aO2GTAR.jpg" group-title="Alif Laila-BDIX (সবার চলবে না)",Sony Ten 1 HD
+http://tv.aliflailabd.com:8989/sony-ten1-hd/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rY69nFs.jpg" group-title="Alif Laila-BDIX (সবার চলবে না)",Sony Ten 2 HD
+http://tv.aliflailabd.com:8989/sony-ten2/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/K1rahTG.png" group-title="Alif Laila-BDIX (সবার চলবে না)",Sony Ten 3 HD
+http://tv.aliflailabd.com:8989/sony-ten3/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3ibgIMV.png" group-title="Alif Laila-BDIX (সবার চলবে না)",Star Sports 1 SD
+http://tv.aliflailabd.com:8989/star-sports1/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TL2jAU6.png" group-title="Alif Laila-BDIX (সবার চলবে না)",Star Sports Select 1 HD
+http://tv.aliflailabd.com:8989/star-sports-select1/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TL2jAU6.png" group-title="Alif Laila-BDIX (সবার চলবে না)",Star Sports Select 2 HD 
+http://tv.aliflailabd.com:8989/star-sports-select2/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CJUmEHD.png" group-title="Alif Laila-BDIX (সবার চলবে না)",T Sports
+http://tv.aliflailabd.com:8989/tsports/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dYLwOJA.png" group-title="Alif Laila-BDIX (সবার চলবে না)",Cartoon Network
+http://tv.aliflailabd.com:8989/cartoon-network/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PK9Gm5g.png" group-title="Alif Laila-BDIX (সবার চলবে না)",Duronto TV
+http://tv.aliflailabd.com:8989/duronto-tv/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rm7OMLk.png" group-title="Alif Laila-BDIX (সবার চলবে না)",Nick
+http://tv.aliflailabd.com:8989/nick/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8GG7Ny9.png" group-title="Alif Laila-BDIX (সবার চলবে না)",Discovery HD
+http://tv.aliflailabd.com:8989/discovery/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/m7Cl2M9.png" group-title="Alif Laila-BDIX (সবার চলবে না)",National Geographic HD
+http://tv.aliflailabd.com:8989/natgeo-wild/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ELjuMyU.png" group-title="Alif Laila-BDIX (সবার চলবে না)",TLC HD
+http://tv.aliflailabd.com:8989/tlc-hd/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/69pCK1u.png" group-title="Alif Laila-BDIX (সবার চলবে না)",AXN
+http://tv.aliflailabd.com:8989/axn-hd/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/j8Ymta1.png" group-title="Alif Laila-BDIX (সবার চলবে না)",HBO
+http://tv.aliflailabd.com:8989/hbo/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3i2U8HH.png" group-title="Alif Laila-BDIX (সবার চলবে না)",Sony Pix HD
+http://tv.aliflailabd.com:8989/sony-pix-hd/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0rFA2Cx.png" group-title="Alif Laila-BDIX (সবার চলবে না)",Star Movies HD
+http://tv.aliflailabd.com:8989/star-movies-hd/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JJTT2Pq.png" group-title="Alif Laila-BDIX (সবার চলবে না)",BBC World News
+http://tv.aliflailabd.com:8989/bbc-world/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Edi1XS1.png" group-title="Alif Laila-BDIX (সবার চলবে না)",MNX
+http://tv.aliflailabd.com:8989/mn-hd/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IEwWaEN.png" group-title="Alif Laila-BDIX (সবার চলবে না)",9XM
+http://tv.aliflailabd.com:8989/9xm/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Jo7wzmn.png" group-title="Alif Laila-BDIX (সবার চলবে না)",Gaan Bangla
+http://tv.aliflailabd.com:8989/gaanbangla/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PmXZNaK.png" group-title="Alif Laila-BDIX (সবার চলবে না)",RTV Music
+http://tv.aliflailabd.com:8989/rtvmusic/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TNk56Ai.png" group-title="Alif Laila-BDIX (সবার চলবে না)",Sangeet Bangla
+http://tv.aliflailabd.com:8989/sangeet-bangla/index.m3u8
+
+
+
+
+
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5PsRkPd.png" group-title="Inspire-BDIX (সবার চলবে না)", ATN Bangla 
 http://103.213.238.70:80/ATNBangla/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/v9PqrCG.png" group-title="Inspire-BDIX (সবার চলবে না)", ATN News 
