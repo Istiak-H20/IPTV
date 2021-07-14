@@ -221,6 +221,8 @@ https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in_480p/index.m3u8
 http://84.17.41.7:80/Rishtey_Cineplex_IND/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/srAUg8f.png" group-title="Hindi Movies", MBC Bollywood
 http://mygoodstream.pw/proxy.php/https://shls-mbcbollywood-prod-dub.shahid.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/srAUg8f.png" group-title="Hindi Movies", MBC Bollywood (2)
+http://mygoodstream.pw/proxy.php/https://shls-mbcbollywood-prod-dub.shahid.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index_1.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6grWgft.png" group-title="Hindi Movies", Rishtey Cineplex HD
 https://viacom-b.multitvsolution.com/viacomhls/rishteycineplex_720p/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ro7bedn.png" group-title="Hindi Movies", Sony Max SD
@@ -317,7 +319,7 @@ http://stream.tvtap.live:8081/live/us-history.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Edi1XS1.png" group-title="English Infotainment", MNX
 http://tv.aliflailabd.com:8989/mn-hd/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uQ4iijb.png" group-title="English Infotainment", NASA TV
-https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
+http://mygoodstream.pw/proxy.php/https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/m7Cl2M9.png" group-title="English Infotainment", National Geographic HD Hindi
 http://84.17.41.7/Nat_Geo_Hin/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/m7Cl2M9.png" group-title="English Infotainment", National Geographic HD Bangla
@@ -325,7 +327,7 @@ http://tv.pmcon.net/hls/stream13.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/m7Cl2M9.png" group-title="English Infotainment", National Geographic HD Bangla (2)
 http://stream.tvtap.live:8081/live/us-natgeo.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MCyL9wX.png" group-title="English Infotainment", National Geographic Wild
-https://sc.id-tv.kz/NatGeoWildHD_34_35.m3u8
+http://mygoodstream.pw/proxy.php/https://sc.id-tv.kz/NatGeoWildHD_34_35.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MCyL9wX.png" group-title="English Infotainment", National Geographic Wild Hindi
 http://84.17.41.7:80/NATGEOWILD/INDI/HIN/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DiHUL9p.png" group-title="English Infotainment", Outdoor HD
@@ -339,9 +341,9 @@ https://livecdn.fptplay.net/qnetlive/travelliving_hls.smil/chunklist_b2500000.m3
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ELjuMyU.png" group-title="English Infotainment", TLC HD
 http://prox.x86.co.uk/index.php/https://livecdn.fptplay.net/qnetlive/travelliving_hls.smil/chunklist_b1200000.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KLBorkM.png" group-title="English Infotainment", Travel XP HD
-https://travelxp-travelxp-1-au.samsung.wurl.com/manifest/playlist.m3u8
+http://mygoodstream.pw/proxy.php/https://travelxp-travelxp-1-au.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KLBorkM.png" group-title="English Infotainment", Travel XP HD Hindi
-https://d2a5us7y2ujl6n.cloudfront.net/TRAVEL_XP.m3u8
+http://mygoodstream.pw/proxy.php/https://d2a5us7y2ujl6n.cloudfront.net/TRAVEL_XP.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KLBorkM.png" group-title="English Infotainment", Travel XP HD Hindi (2)
 https://wyjs.tk/index.php/https://d2a5us7y2ujl6n.cloudfront.net/TRAVEL_XP.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KLBorkM.png" group-title="English Infotainment", Travel XP HD Bangla
@@ -440,7 +442,7 @@ http://51.52.156.22:8888/http/009
 http://tv.pmcon.net/hls/stream1.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3i2U8HH.png" group-title="English Movies", Sony Pix HD Ebox
 http://tv2.ebox.live:8080/live/sony-pix.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3i2U8HH.png" group-title="English Movies", Sony Pix HD ()
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3i2U8HH.png" group-title="English Movies", Sony Pix HD (2)
 http://nwbz1u.ecm.tm/806B6CF/89181e/SM_FHD-ENG-SONYPIX/tracks-v1a1/index.m3u8?token=0558356b27398f74c6bf8c39ec01782c363a514dbf50000c6c8a1fdf5898adc68bee8059e6e513dcb693c1e2c3fa3ee96a38a82ce0b5a699482eea64c3da350d68b96f4841599956bb1bb02ab5f9d8bf5cffb57c876776baf4dfb952b86133e6cebfa4191979d24d01ce&mac=00:1A:79:4B:57:A3&ip=27.96.95.31&magic_server=MAIN_MP
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0rFA2Cx.png" group-title="English Movies", Star Movies HD
 http://tv.pmcon.net/hls/stream3.m3u8
@@ -887,8 +889,6 @@ https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF9
 https://tempsignature.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/royaltv.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ra2RzlQ.png" group-title="BD IPTV", RNN TV
 http://enaniptv.com/rnntv/1080/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ra2RzlQ.png" group-title="BD IPTV", Shopno TV
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ra2RzlQ.png" group-title="BD IPTV", Sonali Bangla TV
 https://tempsignature.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/sonalitv.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fyqDLvV.png" group-title="BD IPTV", Sristi TV
