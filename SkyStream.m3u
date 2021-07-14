@@ -140,11 +140,11 @@ https://news18bangla-lh.akamaihd.net/i/n18bangla_1@2289/index_4_av-p.m3u8
 http://103.205.133.19/hls/sony8.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ppJO2Ep.png" group-title="Indian Bangla", Star Jalsha SD
 http://103.205.133.19/hls/chsj.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ppJO2Ep.png" group-title="Indian Bangla", Star Jalsha HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9d1xXjN.png" group-title="Indian Bangla", Star Jalsha HD
 http://tv.pmcon.net/hls/stream31.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ppJO2Ep.png" group-title="Indian Bangla", Star Jalsha HD Ebox
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9d1xXjN.png" group-title="Indian Bangla", Star Jalsha HD Ebox
 http://tv2.ebox.live:8080/live/star-jalsha.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ppJO2Ep.png" group-title="Indian Bangla", Star Jalsha HD (3)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9d1xXjN.png" group-title="Indian Bangla", Star Jalsha HD (3)
 http://tv.aliflailabd.com:8989/star-jalsha/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PW9hRDa.png" group-title="Indian Bangla", Sun Bangla
 https://d3plxx22mik57v.cloudfront.net/SUN_BANGLA.m3u8
@@ -907,6 +907,8 @@ http://103.112.53.62/flashtv/1080/index.m3u8
 http://enaniptv.com/tvdhaka24live/1080/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ra2RzlQ.png" group-title="BD IPTV", Voice TV
 https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/voicetv.stream/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ra2RzlQ.png" group-title="BD IPTV", Varenda TV
+http://103.43.148.202:1931/iptv/varendratv.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ra2RzlQ.png" group-title="BD IPTV", WNN 24
 https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/wnn24.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ra2RzlQ.png" group-title="BD IPTV", 71 Bangla TV
@@ -933,7 +935,7 @@ http://tv.pmcon.net/hls/stream28.m3u8
 http://tv.pmcon.net/hls/stream26.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2PQfcOh.png" group-title="SK Traders-BDIX (সবার চলবে না)", Jalsha Movies HD 
 http://tv.pmcon.net/hls/stream27.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ppJO2Ep.png" group-title="SK Traders-BDIX (সবার চলবে না)", Star Jalsha HD 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9d1xXjN.png" group-title="SK Traders-BDIX (সবার চলবে না)", Star Jalsha HD 
 http://tv.pmcon.net/hls/stream31.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/e5Ldh7e.png" group-title="SK Traders-BDIX (সবার চলবে না)", Zee Bangla HD 
 http://tv.pmcon.net/hls/stream30.m3u8
@@ -1055,7 +1057,7 @@ http://tv.aliflailabd.com:8989/colors-bangla/index.m3u8
 http://tv.aliflailabd.com:8989/jalsha-movies/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EpykY5A.png" group-title="Alif Laila-BDIX (সবার চলবে না)",Sony Aat
 http://tv.aliflailabd.com:8989/sony-aath/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ppJO2Ep.png" group-title="Alif Laila-BDIX (সবার চলবে না)",Star Jalsha HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9d1xXjN.png" group-title="Alif Laila-BDIX (সবার চলবে না)",Star Jalsha HD
 http://tv.aliflailabd.com:8989/star-jalsha/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/M6GyIvI.png" group-title="Alif Laila-BDIX (সবার চলবে না)",Zee Bangla Cinema
 http://tv.aliflailabd.com:8989/zee-cinema/index.m3u8
@@ -1193,7 +1195,7 @@ http://103.213.238.70:80/SonyMaxHD/tracks-v1a1/mono.m3u8
 http://103.213.238.70:80/SonyPix/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qQeesU6.png" group-title="Inspire-BDIX (সবার চলবে না)", Sony SAB 
 http://103.213.238.70:80/SonySAB/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ppJO2Ep.png" group-title="Inspire-BDIX (সবার চলবে না)", Star Jalsha 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9d1xXjN.png" group-title="Inspire-BDIX (সবার চলবে না)", Star Jalsha 
 http://103.213.238.70:80/j-star-jalsha/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vGq343l.png" group-title="Inspire-BDIX (সবার চলবে না)", Star Gold HD 
 http://103.213.238.70:80/j-star-gold-hd/tracks-v1a1/mono.m3u8
@@ -1365,7 +1367,7 @@ http://tv2.ebox.live:8080/live/ex-gan.m3u8
 http://tv2.ebox.live:8080/live/channel9.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/e5Ldh7e.png" group-title="Ebox-BDIX (সবার চলবে না)", Zee Bangla
 http://tv2.ebox.live:8080/live/zee-bangla.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ppJO2Ep.png" group-title="Ebox-BDIX (সবার চলবে না)", Star Jalsha HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9d1xXjN.png" group-title="Ebox-BDIX (সবার চলবে না)", Star Jalsha HD
 http://tv2.ebox.live:8080/live/star-jalsha.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HVZHZGl.png" group-title="Ebox-BDIX (সবার চলবে না)", Colors Bangla HD
 http://tv2.ebox.live:8080/live/colors-bangla.m3u8
@@ -1487,7 +1489,7 @@ http://103.205.133.19/hls/rtv.m3u8
 http://103.205.133.19/hls/satv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EpykY5A.png" group-title="Radiant-BDIX (সবার চলবে না)", Sony Aath
 http://103.205.133.19/hls/sony8.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ppJO2Ep.png" group-title="Radiant-BDIX (সবার চলবে না)", Star Jalsha
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9d1xXjN.png" group-title="Radiant-BDIX (সবার চলবে না)", Star Jalsha
 http://103.205.133.19/hls/chsj.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/e5Ldh7e.png" group-title="Radiant-BDIX (সবার চলবে না)", Zee Bangla
 http://103.205.133.19/hls/zeebangla.m3u8
